@@ -1,0 +1,262 @@
+{
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_011",
+    "kr_015",
+    "kr_009",
+    "kr_021",
+    "kr_003",
+    "kr_017",
+    "kr_023",
+    "kr_000",
+    "kr_025",
+    "kr_022",
+    "kr_016",
+    "kr_020",
+    "kr_012",
+    "kr_019",
+    "kr_002",
+    "kr_008",
+    "kr_004",
+    "kr_010",
+    "kr_007",
+    "kr_001",
+    "kr_013",
+    "kr_018",
+    "kr_006",
+    "kr_024",
+    "kr_005"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "평생 하역 노동에 종사해온 초등학교 학력의 74세로 PDE나 논문 작성과는 전혀 무관한 삶을 살고 있음",
+      "reasoning": "하역 및 적재 단순노무직으로 은퇴 후 산책과 사우나가 주된 일상이라 학술 연구 자동화 도구는 필요성 자체가 없음"
+    },
+    {
+      "persona_id": "kr_001",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "자연과학 학사이지만 회계 사무원으로 실무에 종사하며 논문 작성이나 PDE 연구와 무관한 업무를 함",
+      "reasoning": "부동산 회계 업무와 트로트 시청, 고궁 산책이 일상인 71세 여성에게 연구 논문 자동화 플랫폼은 직업적 접점이 전혀 없음"
+    },
+    {
+      "persona_id": "kr_002",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "고졸 학력의 무직 은퇴자로 학술 연구나 논문 제출과 전혀 관계없는 일상을 보냄",
+      "reasoning": "나훈아 노래 감상과 고궁 탐방이 취미인 73세 은퇴 남성에게 PDE 기반 연구 자동화 도구는 사용 맥락 자체가 존재하지 않음"
+    },
+    {
+      "persona_id": "kr_003",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "언론학 전공에 현재 무직 상태로 공학/자연과학 연구와 무관한 자격증 취득을 목표로 함",
+      "reasoning": "가정의 평온을 최우선하며 정적인 자격증을 준비하는 46세 전업 여성에게 PDE 도출 및 논문 초안 생성 기능은 전혀 관련이 없음"
+    },
+    {
+      "persona_id": "kr_004",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "고졸 학력의 서비스직 종사자로 학술 논문 작성이나 공학 연구 업무와 무관함",
+      "reasoning": "부동산 서비스 단순 업무와 상추 키우기가 일상인 50세 여성에게 연구용 AI 플랫폼은 직무와 전혀 연결되지 않음"
+    },
+    {
+      "persona_id": "kr_005",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "경리 사무직으로 회사 회계 업무에 집중하며 PDE나 논문 작성과는 무관한 실무를 담당함",
+      "reasoning": "가구 제조업체 경리로 근무하며 넷플릭스와 사진 촬영이 취미인 33세 여성에게 연구 자동화 도구의 필요성이 없음"
+    },
+    {
+      "persona_id": "kr_006",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "강구조물 가공 현장직으로 산업기사 자격증이 목표이며 논문 작성이나 학술 연구 업무를 수행하지 않음",
+      "reasoning": "철강 가공 숙련도 향상과 현장 관리직 승진을 목표로 하는 31세 현장 근로자에게 PDE 논문 생성 플랫폼은 업무와 무관함"
+    },
+    {
+      "persona_id": "kr_007",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "중학교 학력의 무직 은퇴자로 학술 연구나 논문 제출 활동과 전혀 연관이 없음",
+      "reasoning": "관악산 등산과 목욕탕 이용이 일상인 76세 은퇴 남성에게 연구 자동화 AI 플랫폼은 사용할 이유나 맥락이 존재하지 않음"
+    },
+    {
+      "persona_id": "kr_008",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "보험 전화 상담원으로 근무하며 공학·과학 연구나 논문 작성 업무와 전혀 무관함",
+      "reasoning": "고향 친구들과의 술자리와 스포츠 시청이 낙인 44세 상담원에게 PDE 기반 연구 도구는 직업적 필요성이 전혀 없음"
+    },
+    {
+      "persona_id": "kr_009",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "무직 상태로 물류·기술직 취업을 희망하며 학술 논문이나 PDE 연구와 관련된 배경이 전무함",
+      "reasoning": "e스포츠 시청과 스킨케어가 취미인 27세 청년으로 매뉴얼 기반 안정적 직장을 원해 연구 자동화 플랫폼과 접점이 없음"
+    },
+    {
+      "persona_id": "kr_010",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "음료 서비스직 종사자로 중졸 학력이며 학술 연구나 논문 작성 활동을 전혀 하지 않음",
+      "reasoning": "텃밭 가꾸기와 드라이브가 취미인 74세 여성에게 PDE 도출 및 SCI 저널 매칭 기능은 삶과 완전히 동떨어져 있음"
+    },
+    {
+      "persona_id": "kr_011",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "중졸 학력의 부동산 영업원으로 공학 연구나 논문 작성 업무와 전혀 관련이 없음",
+      "reasoning": "라디오 청취와 해안산책이 취미인 61세 영업직 종사자에게 학술 연구 자동화 플랫폼은 직업적 필요성이 전혀 없음"
+    },
+    {
+      "persona_id": "kr_012",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "고졸 학력의 부동산 컨설턴트로 PDE 연구나 학술 논문 제출과 전혀 무관한 업무를 수행함",
+      "reasoning": "제주 부동산 매물 관리와 수영이 일상인 61세 컨설턴트에게 연구 자동화 AI 도구는 사용할 이유가 없음"
+    },
+    {
+      "persona_id": "kr_013",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "무직 상태로 사무 보조나 기술직을 희망하며 학술 연구나 논문 작성 경험이 전무함",
+      "reasoning": "게임과 웹툰이 취미인 26세 청년에게 PDE 지배방정식 도출 및 SCI 저널 매칭 기능은 삶의 맥락과 전혀 맞지 않음"
+    },
+    {
+      "persona_id": "kr_015",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "건물 경비원으로 근무하며 학술 연구나 논문 작성과는 전혀 관련 없는 직업을 가짐",
+      "reasoning": "치악산 등산과 트로트 시청이 취미인 69세 경비원에게 연구 자동화 플랫폼은 직업적으로도 개인적으로도 필요성이 없음"
+    },
+    {
+      "persona_id": "kr_016",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "개업 치과의사로 임상 진료에 집중하며 PDE 기반 공학·물리 논문 작성 업무를 수행하지 않음",
+      "reasoning": "진료 품질 유지를 목표로 하는 치과 개원의로서 기계공학/에너지 분야 연구 자동화 도구는 그녀의 임상 실무와 무관함"
+    },
+    {
+      "persona_id": "kr_017",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "의료보건 전공이나 현재 전업주부로 논문 작성이나 PDE 연구 활동과 전혀 관련이 없음",
+      "reasoning": "가족 건강과 파트타임 복지 일자리를 모색하는 49세 전업주부에게 공학 연구 자동화 플랫폼은 사용 맥락이 없음"
+    },
+    {
+      "persona_id": "kr_018",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "공학 학사이지만 현재 무직으로 생활 수리 일감을 찾고 있어 학술 논문 작성이나 연구 활동을 하지 않음",
+      "reasoning": "동네 수리 일감으로 소득을 확보하려는 54세 남성에게 PDE 도출 및 SCI 저널 매칭 기능은 실생활 필요와 거리가 멂"
+    },
+    {
+      "persona_id": "kr_019",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "행정 비서로 문서 정확성을 중시하지만 학술 논문이나 PDE 연구 업무와는 무관한 행정 실무를 담당함",
+      "reasoning": "텃밭 가꾸기와 봉사활동이 취미인 54세 행정직 여성에게 HWPX 변환 기능조차 업무상 학술 논문 맥락이 아니라 필요성이 낮음"
+    },
+    {
+      "persona_id": "kr_020",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "화물차 운전원으로 무사고 경력 유지가 목표이며 학술 연구나 논문 작성과 전혀 관련이 없음",
+      "reasoning": "UFC 시청과 강변 산책이 취미인 32세 운전직 종사자에게 연구 자동화 AI 플랫폼은 직업적 필요성이 전무함"
+    },
+    {
+      "persona_id": "kr_021",
+      "would_use": "maybe",
+      "user_type": "adjacent",
+      "would_pay": "only_free_tier",
+      "max_price_krw_month": 0,
+      "top_objection": "기업 소속 IT 하드웨어 연구원으로 신뢰성 검증 업무를 하나, 대상 도메인인 유체·재료·에너지 PDE 연구와는 결이 달라 실제 업무 적용성이 불확실함",
+      "reasoning": "IT 분야 정밀 엔지니어링 연구원으로 대학원 학력이 있어 관심은 가지만 논문 출판보다 사내 신뢰성 검증이 주업무라 유료 구독까지는 부담스러움"
+    },
+    {
+      "persona_id": "kr_022",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "용접공으로 현장직 근무하며 학술 연구나 논문 작성 활동을 전혀 하지 않음",
+      "reasoning": "당구와 사우나가 취미인 50세 용접공에게 PDE 기반 연구 자동화 플랫폼은 현장 감독직 전환 목표와도 전혀 연관이 없음"
+    },
+    {
+      "persona_id": "kr_023",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "미디어 전공으로 영상 편집에 관심이 있으나 공학/자연과학 PDE 연구나 학술 논문 작성과는 무관함",
+      "reasoning": "안정적 미디어 업계 취업을 목표로 하는 22세 무직 청년에게 학술 연구 자동화 플랫폼은 전공과 진로 방향이 전혀 맞지 않음"
+    },
+    {
+      "persona_id": "kr_024",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "경영학 전공에 현재 건강 회복에 집중하는 무직 상태로 학술 논문이나 공학 연구 활동과 전혀 관련이 없음",
+      "reasoning": "낚시와 예능 시청이 취미인 64세 은퇴자에게 PDE 도출 및 SCI 저널 매칭 기능은 삶의 맥락과 전혀 맞지 않음"
+    },
+    {
+      "persona_id": "kr_025",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "중학교 학력의 무직 은퇴자로 학술 연구나 논문 작성과 전혀 무관한 일상을 보냄",
+      "reasoning": "봉래산 등산과 나훈아 노래 감상이 취미인 71세 남성에게 연구 자동화 AI 플랫폼은 사용할 이유나 필요성이 전혀 없음"
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.10922399999999999,
+    "duration_ms": 64106,
+    "session_id": "f0d1e26d-118c-5cd7-90a9-3344feba6209"
+  }
+}

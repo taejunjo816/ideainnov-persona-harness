@@ -1,0 +1,216 @@
+{
+  "batch_index": 0,
+  "persona_ids": [
+    "kr2_r04",
+    "kr2_r07",
+    "kr2_i04",
+    "kr2_i03",
+    "kr2_r09",
+    "kr2_r11",
+    "kr2_r08",
+    "kr2_r02",
+    "kr2_r10",
+    "kr2_r12",
+    "kr2_i05",
+    "kr2_r06",
+    "kr2_r01",
+    "kr2_i01",
+    "kr2_i02",
+    "kr2_r03",
+    "kr2_r05"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr2_r01",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "펄프 공정 현장 기술직으로 SCI 논문 작성이나 PDE 지배방정식 도출 업무 자체가 없음",
+      "reasoning": "전주 펄프 공정 화학공학 기술자로 저탄소 공정 전환이 목표라 학술 논문·PDE 모델링과는 직무 연관성이 전혀 없다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r02",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "토목시공기술사 자격증 취득이 목표라 학술논문·PDE 모델링 도구와 무관",
+      "reasoning": "토목감리 기술자로 자격증 취득이 목표이며 실무 감리 업무에는 SCI 논문이나 지배방정식 도출이 필요 없다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r03",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "경리 사무직 실무에 연구 자동화 도구가 필요 없고 워라밸이 우선",
+      "reasoning": "자연과학 전공이지만 현재 경리 사무원으로 근무하며 퇴근 후 여가를 최우선하므로 연구용 PDE 도구는 관심 밖이다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r04",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "정보보안 실무에는 논문 작성이나 지배방정식 도출 업무가 없음",
+      "reasoning": "정보보안 전문가로 업무 프로세스 효율화에는 관심 있지만 PDE 기반 논문 작성은 본인 직무와 전혀 관련이 없다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r05",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "유리 가공 현장직에 학술 연구 자동화 도구가 불필요",
+      "reasoning": "경영학 전공이지만 유리 가공 현장 조작원으로 근무하며 생산관리 전환이 목표라 논문 작성 도구는 필요하지 않다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r06",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "전문대 졸업 용접원으로 학술 논문 작성 업무 자체가 없음",
+      "reasoning": "정밀 용접 숙련공으로 현장 인정이 목표이며 PDE 지배방정식이나 SCI 논문 작성과는 완전히 무관한 직무이다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r07",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "실무 위주 플랜트 엔지니어링 업무라 SCI 논문 작성 수요가 없음",
+      "reasoning": "50대 후반 플랜트공학 기술자로 정년 전 실무 지침서 정리가 목표라 학술 논문 자동화 도구는 필요성이 낮다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r08",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "은퇴한 무직 상태로 연구·논문 활동이 전혀 없음",
+      "reasoning": "81세 은퇴 공학도로 가족과의 평온한 일상이 목표이며 더 이상 연구나 논문 작성 활동을 하지 않는다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r09",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "식품학 연구지만 PDE 지배방정식 기반 대상 도메인과 무관하고 매뉴얼화·은퇴 준비가 목표",
+      "reasoning": "식품학 연구원으로 대학원 학력이지만 제품의 대상 도메인(유체·재료·에너지 등)과 거리가 멀고 은퇴 후 자문역이 목표라 필요성이 낮다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r10",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "정보보안 업무에는 PDE 기반 논문 작성 수요가 없음",
+      "reasoning": "정보보안 전문가로 CISO 지향이 목표이며 논문 초안이나 지배방정식 도출 업무는 본인 커리어와 무관하다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r11",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "농약·비료 현장 연구지만 은퇴 후 치유 정원이 목표라 학술 논문 자동화 도구 관심 낮음",
+      "reasoning": "농약·비료 기술자로 현장 경험은 있으나 은퇴 후 치유 정원 운영이 목표라 SCI 논문·PDE 도구는 우선순위가 아니다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_r12",
+      "would_use": "no",
+      "user_type": "not_applicable",
+      "would_pay": "no",
+      "max_price_krw_month": null,
+      "top_objection": "IT 개발 실무에는 PDE 지배방정식이나 학술 논문 작성 업무가 없음",
+      "reasoning": "네트워크 시스템 개발자로 팀 내 기술 고문이 목표이지만 예술·인문 배경에 개발 실무 중심이라 연구 논문 자동화와는 무관하다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_i01",
+      "would_use": "yes",
+      "user_type": "core_target",
+      "would_pay": "yes",
+      "max_price_krw_month": 35000,
+      "top_objection": "박사과정생 예산이 제한적이라 프로모션 종료 후 정가는 부담될 수 있음",
+      "reasoning": "재료공학 박사과정으로 배터리 전극 상변화 모델링·SCI 논문 준비 중이라 PDE 도출·검증 기능이 학위논문 완성에 직접적으로 도움된다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_i02",
+      "would_use": "yes",
+      "user_type": "core_target",
+      "would_pay": "yes",
+      "max_price_krw_month": 90000,
+      "top_objection": "사내 연구 데이터 보안·기밀 유출 우려로 외부 AI 도구 사용 승인이 필요함",
+      "reasoning": "배터리 소재 기업 선임연구원으로 열화 메커니즘 PDE 도출과 논문·특허 실적 압박을 동시에 받아 자동화 도구의 실질적 효용이 크다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_i03",
+      "would_use": "yes",
+      "user_type": "core_target",
+      "would_pay": "yes",
+      "max_price_krw_month": 60000,
+      "top_objection": "AI가 생성한 초안의 학술적 정확성과 독창성 검증에 대한 신뢰가 아직 부족함",
+      "reasoning": "유체역학 부교수로 지도 학생 논문 첨삭에 시간을 뺏기는 상황이라 PDE 검증·초안 생성 자동화가 연구 시간 확보에 실질적으로 도움된다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_i04",
+      "would_use": "yes",
+      "user_type": "core_target",
+      "would_pay": "yes",
+      "max_price_krw_month": 45000,
+      "top_objection": "위촉연구원 신분이라 개인 예산 지출에 제약이 있어 기관 지원 없이는 부담됨",
+      "reasoning": "열전달 지배방정식 검증과 국문 HWPX 보고서·영문 SCI 논문을 동시에 써야 하는 업무 특성상 Document Converter와 PDE 기능이 정확히 맞아떨어진다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    },
+    {
+      "persona_id": "kr2_i05",
+      "would_use": "yes",
+      "user_type": "core_target",
+      "would_pay": "yes",
+      "max_price_krw_month": 30000,
+      "top_objection": "박사과정 학생 신분으로 구독료 지출 여력이 크지 않아 프로모션가에 의존적임",
+      "reasoning": "계산경제학 박사과정으로 거시경제 동학모형을 미분방정식으로 정식화·검증해야 하는 학위논문 심사 압박이 있어 경제학 도메인 지원 기능이 직접 유용하다.",
+      "changed_from_round1": false,
+      "change_reason": null
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.09451399999999999,
+    "duration_ms": 54378,
+    "session_id": "f0d1e26d-118c-5cd7-90a9-3344feba6209"
+  }
+}

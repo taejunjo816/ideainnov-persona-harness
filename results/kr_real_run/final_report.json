@@ -1,0 +1,143 @@
+{
+  "product": "IDEAINNOV",
+  "country": "KR",
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls_round1": 1,
+  "n_calls_round2": 1,
+  "total_cost_usd": 0.21827199999999997,
+  "summary_round1": {
+    "n": 25,
+    "would_use_pct": {
+      "no": 96.0,
+      "maybe": 4.0
+    },
+    "user_type_pct": {
+      "not_applicable": 96.0,
+      "adjacent": 4.0
+    },
+    "would_pay_pct": {
+      "no": 96.0,
+      "only_free_tier": 4.0
+    },
+    "top_objections": [
+      [
+        "평생 하역 노동에 종사해온 초등학교 학력의 74세로 PDE나 논문 작성과는 전혀 무관한 삶을 살고 있음",
+        1
+      ],
+      [
+        "자연과학 학사이지만 회계 사무원으로 실무에 종사하며 논문 작성이나 PDE 연구와 무관한 업무를 함",
+        1
+      ],
+      [
+        "고졸 학력의 무직 은퇴자로 학술 연구나 논문 제출과 전혀 관계없는 일상을 보냄",
+        1
+      ],
+      [
+        "언론학 전공에 현재 무직 상태로 공학/자연과학 연구와 무관한 자격증 취득을 목표로 함",
+        1
+      ],
+      [
+        "고졸 학력의 서비스직 종사자로 학술 논문 작성이나 공학 연구 업무와 무관함",
+        1
+      ]
+    ],
+    "price_stats_krw": {
+      "n_willing": 0,
+      "median": null,
+      "mean": null
+    },
+    "by_segment": {
+      "general_service_other": {
+        "not_applicable": 5
+      },
+      "business_admin": {
+        "not_applicable": 5
+      },
+      "unemployed_or_retired": {
+        "not_applicable": 8
+      },
+      "technical_trade": {
+        "not_applicable": 3
+      },
+      "healthcare_professional": {
+        "not_applicable": 2
+      },
+      "research_or_engineering": {
+        "not_applicable": 1,
+        "adjacent": 1
+      }
+    }
+  },
+  "summary_round2": {
+    "n": 25,
+    "would_use_pct": {
+      "no": 96.0,
+      "maybe": 4.0
+    },
+    "user_type_pct": {
+      "not_applicable": 96.0,
+      "adjacent": 4.0
+    },
+    "would_pay_pct": {
+      "no": 96.0,
+      "only_free_tier": 4.0
+    },
+    "top_objections": [
+      [
+        "평생 하역 노동만 해온 초등학교 학력자로 PDE 연구나 논문 작성과 전혀 무관한 삶",
+        1
+      ],
+      [
+        "자연과학 학사이지만 부동산 회계 사무원으로 논문·PDE 연구와 무관한 실무를 함",
+        1
+      ],
+      [
+        "고졸 무직 은퇴자로 학술 연구나 논문 제출과 무관한 일상",
+        1
+      ],
+      [
+        "언론학 전공 무직 주부로 공학·과학 연구와 무관한 생활",
+        1
+      ],
+      [
+        "부동산 서비스직 단순 종사원으로 학술 논문 작성과 무관",
+        1
+      ]
+    ],
+    "price_stats_krw": {
+      "n_willing": 0,
+      "median": null,
+      "mean": null
+    },
+    "by_segment": {
+      "general_service_other": {
+        "not_applicable": 5
+      },
+      "business_admin": {
+        "not_applicable": 5
+      },
+      "unemployed_or_retired": {
+        "not_applicable": 8
+      },
+      "technical_trade": {
+        "not_applicable": 3
+      },
+      "healthcare_professional": {
+        "not_applicable": 2
+      },
+      "research_or_engineering": {
+        "not_applicable": 1,
+        "adjacent": 1
+      }
+    }
+  },
+  "opinion_shift": {
+    "n": 25,
+    "changed": 0,
+    "changed_pct": 0.0,
+    "flips_to_positive": 0,
+    "flips_to_negative": 0
+  },
+  "dry_run": false
+}

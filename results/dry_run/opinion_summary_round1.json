@@ -1,0 +1,52 @@
+{
+  "summary": {
+    "n": 25,
+    "would_use_pct": {
+      "no": 92.0,
+      "maybe": 4.0,
+      "yes": 4.0
+    },
+    "user_type_pct": {
+      "not_applicable": 92.0,
+      "adjacent": 4.0,
+      "core_target": 4.0
+    },
+    "would_pay_pct": {
+      "no": 96.0,
+      "yes": 4.0
+    },
+    "top_objections": [
+      [
+        "[dry-run stub]",
+        24
+      ]
+    ],
+    "price_stats_krw": {
+      "n_willing": 1,
+      "median": 19000,
+      "mean": 19000
+    },
+    "by_segment": {
+      "general_service_other": {
+        "not_applicable": 5
+      },
+      "business_admin": {
+        "not_applicable": 5
+      },
+      "unemployed_or_retired": {
+        "not_applicable": 8
+      },
+      "technical_trade": {
+        "not_applicable": 3
+      },
+      "healthcare_professional": {
+        "not_applicable": 2
+      },
+      "research_or_engineering": {
+        "adjacent": 1,
+        "core_target": 1
+      }
+    }
+  },
+  "narrative": "전체 25명 시뮬레이션 1차 결과:\n- 사용 의향: yes 4.0% / maybe 4.0% / no 92.0%\n- 결제 의향: yes 4.0% / only_free_tier 0% / no 96.0%\n- 지불 의향자 중 월 최대 지불액 중앙값: ₩19,000\n- 가장 흔한 반대/거부 이유: '[dry-run stub]' (24명)\n- 직업군별 user_type 분포:\n  · general_service_other: {'not_applicable': 5}\n  · business_admin: {'not_applicable': 5}\n  · unemployed_or_retired: {'not_applicable': 8}\n  · technical_trade: {'not_applicable': 3}\n  · healthcare_professional: {'not_applicable': 2}\n  · research_or_engineering: {'adjacent': 1, 'core_target': 1}"
+}

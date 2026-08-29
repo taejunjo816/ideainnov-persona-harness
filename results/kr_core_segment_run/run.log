@@ -1,0 +1,19 @@
+[round 1] 17 personas -> 1 call(s) of up to 25
+  batch 0: 17 verdicts, cost=$0.0987, wall=69.0s -> round1_batch_00.json
+
+[opinion summary broadcast into round 2]
+전체 17명 시뮬레이션 1차 결과:
+- 사용 의향: yes 29.4% / maybe 5.9% / no 64.7%
+- 결제 의향: yes 29.4% / only_free_tier 5.9% / no 64.7%
+- 지불 의향자 중 월 최대 지불액 중앙값: ₩50,000
+- 가장 흔한 반대/거부 이유: '펄프 공정 현장 기술직으로 SCI 논문 작성이나 PDE 지배방정식 도출 업무 자체가 없어 제품 필요성이 없음' (1명); '토목시공기술사 자격증 취득이 목표라 학술논문·PDE 모델링 도구와 관련이 없음' (1명); '경리 사무직 실무에 연구 자동화 도구가 필요하지 않고 워라밸이 우선순위라 관심 낮음' (1명)
+- 직업군별 user_type 분포:
+  · research_or_engineering: {'not_applicable': 6, 'adjacent': 1, 'core_target': 5}
+  · business_admin: {'not_applicable': 2}
+  · general_service_other: {'not_applicable': 2}
+  · technical_trade: {'not_applicable': 1}
+
+[round 2] 17 personas -> 1 call(s) of up to 25
+  batch 0: 17 verdicts, cost=$0.0945, wall=57.1s -> round2_batch_00.json
+
+done. total_cost_usd=0.1932 dry_run=False

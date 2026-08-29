@@ -1,0 +1,20 @@
+[round 1] 25 personas -> 1 call(s) of up to 25
+  batch 0: 25 verdicts, cost=$0.1092, wall=66.5s -> round1_batch_00.json
+
+[opinion summary broadcast into round 2]
+전체 25명 시뮬레이션 1차 결과:
+- 사용 의향: yes 0% / maybe 4.0% / no 96.0%
+- 결제 의향: yes 0% / only_free_tier 4.0% / no 96.0%
+- 가장 흔한 반대/거부 이유: '평생 하역 노동에 종사해온 초등학교 학력의 74세로 PDE나 논문 작성과는 전혀 무관한 삶을 살고 있음' (1명); '자연과학 학사이지만 회계 사무원으로 실무에 종사하며 논문 작성이나 PDE 연구와 무관한 업무를 함' (1명); '고졸 학력의 무직 은퇴자로 학술 연구나 논문 제출과 전혀 관계없는 일상을 보냄' (1명)
+- 직업군별 user_type 분포:
+  · general_service_other: {'not_applicable': 5}
+  · business_admin: {'not_applicable': 5}
+  · unemployed_or_retired: {'not_applicable': 8}
+  · technical_trade: {'not_applicable': 3}
+  · healthcare_professional: {'not_applicable': 2}
+  · research_or_engineering: {'not_applicable': 1, 'adjacent': 1}
+
+[round 2] 25 personas -> 1 call(s) of up to 25
+  batch 0: 25 verdicts, cost=$0.1090, wall=57.4s -> round2_batch_00.json
+
+done. total_cost_usd=0.2183 dry_run=False

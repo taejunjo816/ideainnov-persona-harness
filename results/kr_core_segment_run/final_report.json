@@ -1,0 +1,152 @@
+{
+  "product": "IDEAINNOV",
+  "country": "KR",
+  "n_personas": 17,
+  "batch_size": 25,
+  "n_calls_round1": 1,
+  "n_calls_round2": 1,
+  "total_cost_usd": 0.193241,
+  "summary_round1": {
+    "n": 17,
+    "would_use_pct": {
+      "no": 64.7,
+      "maybe": 5.9,
+      "yes": 29.4
+    },
+    "user_type_pct": {
+      "not_applicable": 64.7,
+      "adjacent": 5.9,
+      "core_target": 29.4
+    },
+    "would_pay_pct": {
+      "no": 64.7,
+      "only_free_tier": 5.9,
+      "yes": 29.4
+    },
+    "top_objections": [
+      [
+        "펄프 공정 현장 기술직으로 SCI 논문 작성이나 PDE 지배방정식 도출 업무 자체가 없어 제품 필요성이 없음",
+        1
+      ],
+      [
+        "토목시공기술사 자격증 취득이 목표라 학술논문·PDE 모델링 도구와 관련이 없음",
+        1
+      ],
+      [
+        "경리 사무직 실무에 연구 자동화 도구가 필요하지 않고 워라밸이 우선순위라 관심 낮음",
+        1
+      ],
+      [
+        "정보보안 업무와 PDE 기반 논문 자동화 플랫폼 간 직무 연관성이 전혀 없음",
+        1
+      ],
+      [
+        "유리 가공 현장직 업무에는 PDE 도출이나 SCI 논문 투고 기능이 전혀 필요 없음",
+        1
+      ]
+    ],
+    "price_stats_krw": {
+      "n_willing": 5,
+      "median": 50000,
+      "mean": 71000
+    },
+    "by_segment": {
+      "research_or_engineering": {
+        "not_applicable": 6,
+        "adjacent": 1,
+        "core_target": 5
+      },
+      "business_admin": {
+        "not_applicable": 2
+      },
+      "general_service_other": {
+        "not_applicable": 2
+      },
+      "technical_trade": {
+        "not_applicable": 1
+      }
+    },
+    "by_source": {
+      "real_dataset": {
+        "not_applicable": 11,
+        "adjacent": 1
+      },
+      "illustrative_construction": {
+        "core_target": 5
+      }
+    }
+  },
+  "summary_round2": {
+    "n": 17,
+    "would_use_pct": {
+      "no": 70.6,
+      "yes": 29.4
+    },
+    "user_type_pct": {
+      "not_applicable": 70.6,
+      "core_target": 29.4
+    },
+    "would_pay_pct": {
+      "no": 70.6,
+      "yes": 29.4
+    },
+    "top_objections": [
+      [
+        "펄프 공정 현장 기술직으로 SCI 논문 작성이나 PDE 지배방정식 도출 업무 자체가 없음",
+        1
+      ],
+      [
+        "토목시공기술사 자격증 취득이 목표라 학술논문·PDE 모델링 도구와 무관",
+        1
+      ],
+      [
+        "경리 사무직 실무에 연구 자동화 도구가 필요 없고 워라밸이 우선",
+        1
+      ],
+      [
+        "정보보안 실무에는 논문 작성이나 지배방정식 도출 업무가 없음",
+        1
+      ],
+      [
+        "유리 가공 현장직에 학술 연구 자동화 도구가 불필요",
+        1
+      ]
+    ],
+    "price_stats_krw": {
+      "n_willing": 5,
+      "median": 45000,
+      "mean": 52000
+    },
+    "by_segment": {
+      "research_or_engineering": {
+        "not_applicable": 7,
+        "core_target": 5
+      },
+      "business_admin": {
+        "not_applicable": 2
+      },
+      "general_service_other": {
+        "not_applicable": 2
+      },
+      "technical_trade": {
+        "not_applicable": 1
+      }
+    },
+    "by_source": {
+      "real_dataset": {
+        "not_applicable": 12
+      },
+      "illustrative_construction": {
+        "core_target": 5
+      }
+    }
+  },
+  "opinion_shift": {
+    "n": 17,
+    "changed": 1,
+    "changed_pct": 5.9,
+    "flips_to_positive": 0,
+    "flips_to_negative": 1
+  },
+  "dry_run": false
+}

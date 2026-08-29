@@ -1,0 +1,118 @@
+{
+  "product": "IDEAINNOV",
+  "country": "KR",
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls_round1": 1,
+  "n_calls_round2": 1,
+  "total_cost_usd": 0,
+  "summary_round1": {
+    "n": 25,
+    "would_use_pct": {
+      "no": 92.0,
+      "maybe": 4.0,
+      "yes": 4.0
+    },
+    "user_type_pct": {
+      "not_applicable": 92.0,
+      "adjacent": 4.0,
+      "core_target": 4.0
+    },
+    "would_pay_pct": {
+      "no": 96.0,
+      "yes": 4.0
+    },
+    "top_objections": [
+      [
+        "[dry-run stub]",
+        24
+      ]
+    ],
+    "price_stats_krw": {
+      "n_willing": 1,
+      "median": 19000,
+      "mean": 19000
+    },
+    "by_segment": {
+      "general_service_other": {
+        "not_applicable": 5
+      },
+      "business_admin": {
+        "not_applicable": 5
+      },
+      "unemployed_or_retired": {
+        "not_applicable": 8
+      },
+      "technical_trade": {
+        "not_applicable": 3
+      },
+      "healthcare_professional": {
+        "not_applicable": 2
+      },
+      "research_or_engineering": {
+        "adjacent": 1,
+        "core_target": 1
+      }
+    }
+  },
+  "summary_round2": {
+    "n": 25,
+    "would_use_pct": {
+      "no": 60.0,
+      "maybe": 36.0,
+      "yes": 4.0
+    },
+    "user_type_pct": {
+      "not_applicable": 60.0,
+      "adjacent": 36.0,
+      "core_target": 4.0
+    },
+    "would_pay_pct": {
+      "no": 96.0,
+      "yes": 4.0
+    },
+    "top_objections": [
+      [
+        "[dry-run stub]",
+        24
+      ]
+    ],
+    "price_stats_krw": {
+      "n_willing": 1,
+      "median": 19000,
+      "mean": 19000
+    },
+    "by_segment": {
+      "general_service_other": {
+        "not_applicable": 3,
+        "adjacent": 2
+      },
+      "business_admin": {
+        "adjacent": 1,
+        "not_applicable": 4
+      },
+      "unemployed_or_retired": {
+        "not_applicable": 5,
+        "adjacent": 3
+      },
+      "technical_trade": {
+        "adjacent": 3
+      },
+      "healthcare_professional": {
+        "not_applicable": 2
+      },
+      "research_or_engineering": {
+        "not_applicable": 1,
+        "core_target": 1
+      }
+    }
+  },
+  "opinion_shift": {
+    "n": 25,
+    "changed": 10,
+    "changed_pct": 40.0,
+    "flips_to_positive": 9,
+    "flips_to_negative": 1
+  },
+  "dry_run": true
+}

@@ -1,0 +1,73 @@
+{
+  "summary": {
+    "n": 17,
+    "would_use_pct": {
+      "no": 64.7,
+      "maybe": 5.9,
+      "yes": 29.4
+    },
+    "user_type_pct": {
+      "not_applicable": 64.7,
+      "adjacent": 5.9,
+      "core_target": 29.4
+    },
+    "would_pay_pct": {
+      "no": 64.7,
+      "only_free_tier": 5.9,
+      "yes": 29.4
+    },
+    "top_objections": [
+      [
+        "펄프 공정 현장 기술직으로 SCI 논문 작성이나 PDE 지배방정식 도출 업무 자체가 없어 제품 필요성이 없음",
+        1
+      ],
+      [
+        "토목시공기술사 자격증 취득이 목표라 학술논문·PDE 모델링 도구와 관련이 없음",
+        1
+      ],
+      [
+        "경리 사무직 실무에 연구 자동화 도구가 필요하지 않고 워라밸이 우선순위라 관심 낮음",
+        1
+      ],
+      [
+        "정보보안 업무와 PDE 기반 논문 자동화 플랫폼 간 직무 연관성이 전혀 없음",
+        1
+      ],
+      [
+        "유리 가공 현장직 업무에는 PDE 도출이나 SCI 논문 투고 기능이 전혀 필요 없음",
+        1
+      ]
+    ],
+    "price_stats_krw": {
+      "n_willing": 5,
+      "median": 50000,
+      "mean": 71000
+    },
+    "by_segment": {
+      "research_or_engineering": {
+        "not_applicable": 6,
+        "adjacent": 1,
+        "core_target": 5
+      },
+      "business_admin": {
+        "not_applicable": 2
+      },
+      "general_service_other": {
+        "not_applicable": 2
+      },
+      "technical_trade": {
+        "not_applicable": 1
+      }
+    },
+    "by_source": {
+      "real_dataset": {
+        "not_applicable": 11,
+        "adjacent": 1
+      },
+      "illustrative_construction": {
+        "core_target": 5
+      }
+    }
+  },
+  "narrative": "전체 17명 시뮬레이션 1차 결과:\n- 사용 의향: yes 29.4% / maybe 5.9% / no 64.7%\n- 결제 의향: yes 29.4% / only_free_tier 5.9% / no 64.7%\n- 지불 의향자 중 월 최대 지불액 중앙값: ₩50,000\n- 가장 흔한 반대/거부 이유: '펄프 공정 현장 기술직으로 SCI 논문 작성이나 PDE 지배방정식 도출 업무 자체가 없어 제품 필요성이 없음' (1명); '토목시공기술사 자격증 취득이 목표라 학술논문·PDE 모델링 도구와 관련이 없음' (1명); '경리 사무직 실무에 연구 자동화 도구가 필요하지 않고 워라밸이 우선순위라 관심 낮음' (1명)\n- 직업군별 user_type 분포:\n  · research_or_engineering: {'not_applicable': 6, 'adjacent': 1, 'core_target': 5}\n  · business_admin: {'not_applicable': 2}\n  · general_service_other: {'not_applicable': 2}\n  · technical_trade: {'not_applicable': 1}"
+}

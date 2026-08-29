@@ -1,0 +1,50 @@
+{
+  "name": "IDEAINNOV",
+  "url": "https://ideainnov.com",
+  "researched_at": "2026-08-29",
+  "tagline_kr": "연구 아이디어를 지배방정식(PDE) 도출·검증을 거쳐 구조화된 논문 초안으로 자동 변환해주는 AI 연구 자동화 플랫폼",
+  "tagline_en": "AI research-automation platform that turns a natural-language research idea into a derived/validated governing-equation (PDE) system and a drafted manuscript.",
+  "target_users": [
+    "academic researchers / scientists (교수, 대학원생, 연구원)",
+    "engineering & materials-science professionals",
+    "research institutions / labs",
+    "teams needing cross-format document conversion or proposal generation"
+  ],
+  "core_engine": {
+    "name": "V136 Paper Pipeline",
+    "capabilities": [
+      "자연어 질의/논문을 결합된 편미분방정식(PDE) 시스템으로 변환",
+      "보정항(correction term)을 자동으로 진화시켜 지배방정식 개선",
+      "수학적/실험적/통계적/문서 기준으로 결과 검증",
+      "인용과 그림을 포함한 원고 초안 생성"
+    ]
+  },
+  "extensions": [
+    {"name": "BIZ_ENGINE", "desc": "연구 결과를 경제성/법률 분석이 포함된 사업 제안서로 확장"},
+    {"name": "Document Converter", "desc": "HWPX/DOCX/PDF 상호 변환, 수식·레이아웃 보존, 47가지 포맷 조합 지원"},
+    {"name": "SCI Submit", "desc": "큐레이션된 30개 저널 목록에서 적합한 Q1 저널 매칭"}
+  ],
+  "domains": [
+    "유체/기계공학 (fluid/mechanical engineering)",
+    "재료/구조 (materials/structures)",
+    "에너지/배터리 (energy/batteries)",
+    "열시스템 (thermal systems)",
+    "기초과학/우주 (basic science/space)",
+    "경제학 (economics)",
+    "다물리 (multiphysics)"
+  ],
+  "pricing": {
+    "currency": "USD",
+    "current_promo": "전 유료 요금제 90% 할인 진행 중",
+    "free_trial": "평생 36 크레딧 (프로그램당 12개)",
+    "pay_per_use": {"v136_or_biz_engine_call": 3, "conversion": 1},
+    "tiers": [
+      {"name": "Basic", "price_per_month": 19, "limit": "프로그램당 1회 호출/일"},
+      {"name": "Pro", "price_per_month": 29, "limit": "프로그램당 2회 호출/일 + API 액세스"},
+      {"name": "Enterprise", "price_per_month": 99, "limit": "프로그램당 10회 호출/일 + 전담 지원"}
+    ]
+  },
+  "problem_solved_kr": "연구자가 아이디어를 계산 가능한 모델(지배방정식)로 바꾸고, 논문 형식으로 정리하고, 문서 포맷(특히 HWPX 등 국내 기관 제출용 포맷)을 변환하는 데 드는 시간을 자동화로 단축한다.",
+  "notable_local_signal": "HWPX(한글) 포맷 변환 지원은 한국 학계/공공기관 제출 관행을 겨냥한 기능으로, 한국 연구자 시장이 핵심 타깃 중 하나임을 시사함.",
+  "source": "https://ideainnov.com (WebFetch, 2026-08-29)"
+}
