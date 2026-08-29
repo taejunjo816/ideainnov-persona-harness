@@ -1,3 +1,5 @@
+**한국어** | [English](README.en.md)
+
 # IDEAINNOV.COM 합성 페르소나 하네스
 
 **Threads에서 본 아이디어에 영감받아 직접 재구현하고, 실제 비용까지 전부 공개 검증한 프로젝트입니다.**
@@ -29,7 +31,7 @@
 |---|---|
 | 대상 제품 | [IDEAINNOV.COM](https://ideainnov.com) — 연구 아이디어→PDE 지배방정식 도출/검증→논문 초안 자동화 플랫폼 (WebFetch로 직접 조사, `product/ideainnov.json`) |
 | 페르소나 데이터 | 실제 `nvidia/Nemotron-Personas-Korea` 데이터셋(100만 행, 한국 인구 통계에 정렬된 합성 페르소나) 중 25행을 Hugging Face datasets-server API로 직접 조회 |
-| 실행 엔진 | 이 샌드박스에 실제로 설치되어 있는 `claude` CLI (Claude Code 2.1.251)를 서브프로세스로 호출 — 서버도 API 키도 필요 없음 |
+| 실행 엔진 | 로컬 환경에 설치된 `claude` CLI (Claude Code 2.1.251)를 서브프로세스로 호출 — 서버도 API 키도 필요 없음 |
 | 실제 실행 | 1차 판정(25명, 1콜) → 집계 → 2차 판정(25명, 1콜) 전체 파이프라인을 실제로 완주, 실비용 **$0.2183** |
 
 ## 파일 구조
@@ -104,7 +106,7 @@ python3 harness/run_harness.py \
   --out-dir  results/dry_run \
   --dry-run
 
-# 2) 실제 실행 (배치 25명 x 2라운드 = 실제 claude 호출 2회, 이 세션 기준 약 $0.22)
+# 2) 실제 실행 (배치 25명 x 2라운드 = 실제 claude 호출 2회, 실측 약 $0.22)
 python3 harness/run_harness.py \
   --personas data/personas_kr_batch1.jsonl \
   --product  product/ideainnov.json \
@@ -130,7 +132,7 @@ python3 harness/run_harness.py \
 두 종류를 한 배치에 섞되 `source` 필드로 구분:
 
 - `real_dataset` 12명: 실제 데이터셋에서 "직업/전공이 엔지니어링·기술직에 가까운" 사람만 스캔해서 찾은 진짜 행. 필터/서치 API가 이 데이터셋에서 지원되지 않아(422/500 에러) `/rows`로 여러 offset을 훑어 클라이언트 사이드로 골라냈습니다.
-- `illustrative_construction` 5명: IDEAINNOV가 명시한 도메인(유체·재료·에너지·항공우주·경제)에 정확히 맞춰 직접 구성한 "이상적 유저" 페르소나. 데이터셋 행이 아님 — README·홍보 어디서든 이 점을 반드시 밝혀야 함(`data/ATTRIBUTION.md` 참고).
+- `illustrative_construction` 5명: IDEAINNOV가 명시한 도메인(유체·재료·에너지·항공우주·경제)에 정확히 맞춰 직접 구성한 "이상적 유저" 페르소나. 데이터셋 행이 아님 — README 등 어디서든 이 점을 반드시 밝혀야 함(`data/ATTRIBUTION.md` 참고).
 
 **결과**: real_dataset 12명은 전원(12/12) not_applicable, illustrative_construction 5명은 전원(5/5) core_target + would_pay=yes. 즉 "직업이 엔지니어"인 것만으로는 부족하고, "실제로 학위논문/SCI 논문을 써야 하는 사람"이어야 core_target으로 잡힙니다. 이 5명의 reasoning/objection(예산, 보안, 인용 신뢰성 등)이 실제로 쓸모 있는 부분입니다:
 
@@ -140,9 +142,10 @@ python3 harness/run_harness.py \
 | 배터리 기업 선임연구원·항공우주연구원 | core_target / pay=yes | "연구 데이터를 외부 AI 서버에 올리는 것에 대한 보안·특허 유출 우려" | ₩50,000~130,000 |
 | 유체역학 부교수 | core_target / pay=yes | "AI가 쓴 초안의 학술적 신뢰성·인용 정확성을 누가 검증하나" | ₩120,000 |
 
-가격이 아니라 **예산 승인·보안 승인·검증 책임**이 진짜 장벽이라는 뜻입니다(단, 위 5명은 구성 페르소나이므로 실제 고객 인터뷰의 대체물이 아닙니다).
+가격이 아니라 **예산 승인·보안 승인·검증 책임**이 진짜 장벽이라는 뜻입니다(단, 위 5명은 구성 페르소나이므로 실제 고객 인터뷰의 대체물이 아닙니다). 지불 의향자 5명의 월 최대 지불액 중앙값은 1차 판정 ₩50,000(평균 ₩71,000)에서 여론 요약을 인지한 2차 판정 ₩45,000(평균 ₩52,000)으로 낮아졌습니다.
 
-두 번의 실제 실행(일반 인구 + 코어 세그먼트) 합계 실비용: **$0.4115**.
+이번 코어 세그먼트 실행의 실비용은 **$0.1932**이며, 두 번의 실제 실행(일반 인구 $0.2183 +
+코어 세그먼트 $0.1932) 합계 실비용은 **$0.4115**입니다.
 
 ## 알려진 한계 / 다음에 개선할 점
 
@@ -152,14 +155,20 @@ python3 harness/run_harness.py \
 - **표본 편향**: 이번 검증에 쓴 25명은 offset 0-25 구간이라 고령층 비중이 다소 높았습니다
   (완전 무작위 셔플은 아님). `prepare_personas.py`의 저수지 표본(reservoir sampling)을
   실제 인터넷이 되는 환경에서 돌리면 이 편향이 해소됩니다.
-- **이 샌드박스의 데이터 접근 한계**: huggingface.co/pypi.org로의 직접 `curl`/`pip install`이
-  막혀 있어(방화벽 허용목록 밖), `datasets` 라이브러리로 원본 parquet을 직접 읽는 대신
+- **데이터 수집 환경의 제약**: 네트워크가 제한된 환경에서는 huggingface.co/pypi.org로의 직접
+  `curl`/`pip install`이 막혀 있어, `datasets` 라이브러리로 원본 parquet을 직접 읽는 대신
   Hugging Face의 datasets-server REST API를 웹 프록시로 우회 조회했습니다. 15개 행은
   한국어 원문 그대로, 10개 행은 프록시가 영어로 의역해 반환했습니다 — 실제 서비스에서는
   `prepare_personas.py`로 parquet을 직접 읽어 이런 손실을 없애야 합니다.
 - **10개국 확장**: `prepare_personas.py`는 이미 10개국 데이터셋 ID를 전부 매핑해뒀지만
   (`COUNTRY_TO_DATASET`), 이번 실제 검증 실행은 비용/시간상 한국 표본 1건만 진행했습니다.
   `--country` 값만 바꿔 다른 나라로 그대로 확장 가능합니다.
-- **원 저장소 미확인**: 위에서 설명한 대로 원문에서 잘린 GitHub 링크를 이 세션에서 찾지
-  못했습니다. 정확한 저장소 URL을 알려주시면 실제 구현과 diff를 떠서 이 재구현을 더
-  가깝게 맞출 수 있습니다.
+- **원 저장소 미확인**: 위에서 설명한 대로 원문에서 잘린 GitHub 링크를 찾지 못했습니다.
+  원 저장소를 확인하게 되면 diff를 반영해 이 재구현을 더 가깝게 맞출 예정입니다.
+
+## 라이선스 (License)
+
+- **코드**: 별도 라이선스 파일이 아직 없습니다 — 소유자가 라이선스를 정하기 전까지는 모든
+  권리를 보유(all rights reserved)합니다. 평가 목적의 fork·실행은 환영합니다.
+- **데이터**: `data/` 하위 데이터는 CC BY 4.0이며, 조건은
+  [`data/ATTRIBUTION.md`](data/ATTRIBUTION.md)를 따릅니다.

@@ -1,3 +1,5 @@
+[English](ATTRIBUTION.en.md) | **한국어**
+
 # 데이터 출처 / Data Attribution
 
 이 저장소의 `data/personas_kr_batch1.jsonl`과 `data/personas_kr_core_segment.jsonl`에 들어있는
@@ -9,7 +11,7 @@
 - **License**: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 - **Changes made**: 원본은 100만 행(약 2.0GB, 26개 필드)입니다. 이 저장소에는 그중 극히 일부
   (수십 행)만 발췌해 필드를 간추린 하위 집합을 실었습니다. 일부 행(`personas_kr_batch1.jsonl`의
-  15개 행, `personas_kr_core_segment.jsonl`의 real_dataset 행 전부)은 이 환경의 네트워크 제약으로
+  15개 행, `personas_kr_core_segment.jsonl`의 real_dataset 행 전부)은 네트워크가 제한된 환경에서
   Hugging Face datasets-server API를 통해 조회했으며, 그 과정에서 원문이 요약·일부 영어 의역된
   행이 섞여 있습니다 — 정확한 원문이 필요하면 `data/prepare_personas.py`로 parquet 원본을 직접
   읽어 재수집하세요.
