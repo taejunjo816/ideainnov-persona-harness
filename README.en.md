@@ -136,6 +136,13 @@ python3 data/prepare_personas.py --country Korea --n 2000 --slim \
   --out data/personas_kr_2000.jsonl
 python3 harness/run_harness.py \
   --personas data/personas_kr_2000.jsonl --product product/ideainnov.json \
+**Low-memory / Windows note (measured 2026-08-29)**: `prepare_personas.py` sets `USE_TORCH/USE_TF/USE_JAX=0`
+itself so that `datasets` does not import an installed torch (avoids "WinError 1455: the paging file is too small"
+while loading CUDA DLLs). If streaming fails with `MemoryError`, it automatically falls back to **shard mode**
+(downloads parquet shards to disk and reads them row-group by row-group). On machines with little commit memory,
+start with `--mode shard --max-shards 1` (one Korean shard ≈ 250 MB / 111k rows, ~15 s). No Hugging Face account
+is needed (public, non-gated dataset); set `HF_TOKEN` only to lift the anonymous rate limit.
+
   --out-dir results/kr_2000 --batch-size 25
 # A 100-person sample is 4 calls/round; 2,000 people is 80 calls/round — extrapolating from
 # the measured unit rate above ($0.109/25 people/round), 2,000 people x 2 rounds is expected

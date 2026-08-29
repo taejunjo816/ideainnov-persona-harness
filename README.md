@@ -123,6 +123,12 @@ python3 harness/run_harness.py \
 # 어림하면 2,000명 x 2라운드 ≈ $17 안팎으로 예상됩니다.
 ```
 
+**저메모리/Windows 주의(2026-08-29 실측)**: `prepare_personas.py`는 `datasets`가 설치된 torch를 자동 import하지 않도록
+`USE_TORCH/USE_TF/USE_JAX=0`을 스스로 설정합니다(CUDA DLL 로드 시 "WinError 1455 페이징 파일이 너무 작습니다" 회피).
+스트리밍이 `MemoryError`로 실패하면 자동으로 **샤드 모드**(parquet 샤드를 디스크로 받아 row-group 단위로 읽음)로
+폴백합니다. 커밋 메모리가 빠듯한 PC에서는 처음부터 `--mode shard --max-shards 1`(한국 1샤드 ≈ 250MB·11만 행, 약 15초)을
+권장합니다. Hugging Face 계정은 필요 없습니다(공개·비게이트 데이터셋); `HF_TOKEN`은 익명 속도 제한을 풀 때만 선택적으로 설정합니다.
+
 주요 플래그: `--batch-size`(기본 25), `--model`(claude CLI별칭, 기본은 계정 기본모델),
 `--max-budget-usd`(콜당 상한, 기본 2.0), `--country`(리포트 라벨용).
 
