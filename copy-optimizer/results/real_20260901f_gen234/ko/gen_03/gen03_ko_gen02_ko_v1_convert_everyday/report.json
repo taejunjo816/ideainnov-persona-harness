@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen03_ko_gen02_ko_v1_convert_everyday",
+  "variant": {
+    "id": "gen03_ko_gen02_ko_v1_convert_everyday",
+    "headline": "문서 변환 47개 형식, 호출당 2,800원",
+    "body": "HWPX·DOCX·PDF 등 47개 형식을 오가도 표 레이아웃과 스타일 그대로. PDF 속 그림까지 추출해 재삽입, 가장 저렴한 ₩2,800/호출.",
+    "cta": "무료 체험 시작",
+    "angle": "일상 문서 변환(비연구자 걸림돌 해소·최저가·형식개수 유지)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.42749725,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 52.0,
+    "no": 28.0,
+    "yes": 20.0
+  },
+  "mean_trust": 3.4,
+  "top_hook_phrases": [
+    [
+      "HWPX·DOCX·PDF",
+      5
+    ],
+    [
+      "표 레이아웃과 스타일 그대로",
+      4
+    ],
+    [
+      "PDF 속 그림까지 추출해 재삽입",
+      3
+    ],
+    [
+      "HWPX·DOCX·PDF 등 47개 형식을 오가도 표 레이아웃과 스타일 그대로",
+      2
+    ],
+    [
+      "가장 저렴한 ₩2,800/호출",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "'호출당 2,800원'이라는 API식 과금이 개인 경리 업무엔 낯설고 부담스럽게 느껴진다.",
+      1
+    ],
+    [
+      "온라인 소품 판매 위주라 47개 문서 형식 변환이 그의 유통 업무와 거의 무관하다.",
+      1
+    ],
+    [
+      "현장 시험 측정 업무 중심이라 다형식 문서 변환에 대한 실무 수요가 거의 없다.",
+      1
+    ],
+    [
+      "디자인 작업은 전용 그래픽 툴을 쓰기에 문서 그림 추출 기능만으론 클릭 유인이 약하다.",
+      1
+    ],
+    [
+      "간호조무사 업무는 현장 환자 케어 중심이라 문서 형식 변환 수요가 없다.",
+      1
+    ]
+  ]
+}

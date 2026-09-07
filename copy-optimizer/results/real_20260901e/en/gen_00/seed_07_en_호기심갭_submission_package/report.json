@@ -1,0 +1,57 @@
+{
+  "variant_id": "seed_07_en_호기심갭_submission_package",
+  "variant": {
+    "id": "seed_07_en_호기심갭_submission_package",
+    "lang": "en",
+    "headline": "Your submission package is already built",
+    "body": "Author details and suggested reviewers come packaged for the portal - what's inside is worth opening.",
+    "cta": "Start free matching",
+    "angle": "호기심갭-submission_package",
+    "hook_type": "호기심갭",
+    "hook_template": "결과를 암시만 하고 이유는 감추는 열린 문장",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '호기심갭' 가중 비중 18.2 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '결과를 암시만 하고 이유는 감추는 열린 문장' 적용",
+    "evidence": [
+      "programs.sci.hooks_ko.thread[2] (translated from KO; no EN field)"
+    ],
+    "products_program": "sci"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.3405285,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 96.0,
+    "maybe": 4.0
+  },
+  "mean_trust": 1.92,
+  "top_hook_phrases": [
+    [
+      "suggested reviewers",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "She is an operations specialist with no involvement in academic journal submissions or reviewer matching.",
+      1
+    ],
+    [
+      "A transportation attendant has no manuscript to submit through any academic portal.",
+      1
+    ],
+    [
+      "He builds PCs and sells retail, not research papers needing reviewer matching.",
+      1
+    ],
+    [
+      "She writes a caregiver guidebook, not peer-reviewed submissions requiring suggested reviewers.",
+      1
+    ],
+    [
+      "An accountant pursuing CPA has no academic paper to submit through this portal.",
+      1
+    ]
+  ]
+}

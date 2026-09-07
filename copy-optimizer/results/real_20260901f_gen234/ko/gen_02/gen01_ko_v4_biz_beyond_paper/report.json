@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen01_ko_v4_biz_beyond_paper",
+  "variant": {
+    "id": "gen01_ko_v4_biz_beyond_paper",
+    "headline": "논문만? 사업계획서도 자동으로",
+    "body": "RFP나 연구 결과를 사업계획서·연구제안서로 자동 구조화해 HWPX·DOC·PPT·PDF로 제공. 종량제 ₩4,100/호출로 시작합니다.",
+    "cta": "무료 체험 시작",
+    "angle": "확장-제안서(비연구자 걸림돌 해소)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.43516175,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 56.0,
+    "maybe": 32.0,
+    "yes": 12.0
+  },
+  "mean_trust": 3.08,
+  "top_hook_phrases": [
+    [
+      "사업계획서",
+      5
+    ],
+    [
+      "자동 구조화",
+      5
+    ],
+    [
+      "연구제안서",
+      1
+    ],
+    [
+      "사업계획서·연구제안서",
+      1
+    ],
+    [
+      "RFP",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 사무원 업무는 장부·전표 처리이지 사업계획서나 연구제안서 작성과 무관하다.",
+      1
+    ],
+    [
+      "리빙 소품 브랜드 론칭은 아이디어 단계라 아직 정형 사업계획서 자동화가 급하지 않다.",
+      1
+    ],
+    [
+      "현장 기계 시험 업무와 자격증 취득이 목표라 문서 자동화 도구가 필요 없다.",
+      1
+    ],
+    [
+      "미디어 콘텐츠 디자인 업무와 평온한 정년이 목표라 문서 자동화가 불필요하다.",
+      1
+    ],
+    [
+      "무역 실무 문서는 인보이스·계약서 위주라 사업계획서·연구제안서 생성과 맞지 않는다.",
+      1
+    ]
+  ]
+}

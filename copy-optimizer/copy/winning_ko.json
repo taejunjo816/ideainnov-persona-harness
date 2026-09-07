@@ -1,0 +1,22 @@
+{
+  "id": "gen04_ko_gen04_ko_seller_product_docs",
+  "headline": "상품 서류도 형식 걱정 없이 변환",
+  "body": "상세 문서를 HWPX·DOCX·PDF 등 47개 형식으로 오가도 표·그림 그대로. PDF 속 그림 추출해 재삽입, ₩2,800/호출.",
+  "cta": "무료 체험 시작",
+  "angle": "온라인 판매 걸림돌 해소: 상품 관련 서류의 형식 변환 상황으로 업무 관련성 부여",
+  "lang": "ko",
+  "hook_type": "숫자형",
+  "hook_template": null,
+  "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+  "evidence": [
+    "programs.hwp.features[0]",
+    "programs.hwp.features[2]",
+    "programs.hwp.features[3]",
+    "programs.hwp.price_ko",
+    "cta_fixed"
+  ],
+  "products_program": "hwp",
+  "hook_type_note": "돌연변이 스키마가 hook_type 을 반환하지 않아 None 이었다. 본문이 47개 형식·₩2,800 등 수치를 전면에 세우므로 사람이 숫자형으로 분류했다.",
+  "evidence_note": "돌연변이 변이라 원본 evidence 가 비어 있었다. 2026-09-02 사람이 products.json 과 한 줄씩 대조해 채운 경로다 — 문구는 수정하지 않았다. '상품 서류'는 능력 주장이 아니라 적용 상황 설정(온라인 판매자)이므로 사실 대조 대상이 아니다.",
+  "run_note": "세대 2~4 이어받기 실행(real_20260901f_gen234)의 우승 문구. 점수 72.16, 세대 4."
+}

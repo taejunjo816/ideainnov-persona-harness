@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen01_ko_v1_negation_formula_broad",
+  "variant": {
+    "id": "gen01_ko_v1_negation_formula_broad",
+    "headline": "수식을 이미지로 바꾸지 마세요",
+    "body": "PDF·DOCX·HWPX를 변환해도 수식은 편집 가능한 OMML 객체로, 표 레이아웃과 스타일은 그대로 유지됩니다.",
+    "cta": "무료 체험 시작",
+    "angle": "부정형-수식보존(문서 변환 전반으로 확장)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.43855350000000004,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 64.0,
+    "maybe": 28.0,
+    "yes": 8.0
+  },
+  "mean_trust": 2.88,
+  "top_hook_phrases": [
+    [
+      "표 레이아웃과 스타일은 그대로 유지",
+      5
+    ],
+    [
+      "수식은 편집 가능한 OMML 객체로",
+      2
+    ],
+    [
+      "PDF·DOCX·HWPX를 변환",
+      2
+    ],
+    [
+      "편집 가능한 OMML 객체로",
+      2
+    ],
+    [
+      "수식을 이미지로 바꾸지 마세요",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 업무 문서에는 수식이 거의 없어 OMML 편집 보존이라는 핵심 가치가 자신과 무관하다.",
+      1
+    ],
+    [
+      "리빙 소품 유통·브랜딩 업무라 수식이나 문서 변환 자체가 일상 관심사가 아니다.",
+      1
+    ],
+    [
+      "시험 현장 실무 중심이라 보고서 수식을 직접 편집·변환할 일이 잦지 않을 수 있다.",
+      1
+    ],
+    [
+      "디자이너로 레이아웃엔 관심 있으나 수식 OMML은 콘텐츠 제작 영역과 거리가 멀다.",
+      1
+    ],
+    [
+      "무역 서류에 수식이 없어 문서 변환 니즈는 있어도 수식 보존 각도가 자신과 어긋난다.",
+      1
+    ]
+  ]
+}

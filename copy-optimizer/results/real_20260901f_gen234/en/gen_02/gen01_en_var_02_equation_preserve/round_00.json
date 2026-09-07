@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen01_en_var_02_equation_preserve",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Her operations and arts-humanities work never involves mathematical equations in documents.",
+      "trust": 3,
+      "reasoning": "An arts-humanities operations veteran who reads classics and gardens has no need to preserve editable equations in documents."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant never works with equation-laden documents.",
+      "trust": 2,
+      "reasoning": "Karen's community-service and transit work involves schedules, not mathematical equations needing conversion, so the pitch is irrelevant to her."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "maybe",
+      "hook_phrase": "Equations stay editable objects",
+      "blocker": "As a retail salesperson he rarely writes equation-heavy documents despite his STEM interest.",
+      "trust": 4,
+      "reasoning": "His STEM degree and tech-tinkering make the editable-equation claim intelligible, but floor retail work gives little practical reason to convert formulas."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A nurse's charting and caregiving never involve editable equation conversion.",
+      "trust": 2,
+      "reasoning": "Barbara's nursing, knitting, and birdwatching life has no touchpoint with mathematical document conversion, so nothing here draws her in."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "maybe",
+      "hook_phrase": "nothing to fix afterward",
+      "blocker": "Accountants work in spreadsheets and reports, not equation objects that flatten into images.",
+      "trust": 4,
+      "reasoning": "Payal's audit and tech-podcast curiosity make the efficiency promise mildly appealing, but accounting documents rarely contain the equations this targets."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young retail salesperson has no documents with equations to convert.",
+      "trust": 2,
+      "reasoning": "Guillermo's retail, hiking, and guitar life involves no equation-heavy files, so the conversion pitch holds no relevance for him."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "Convert free",
+      "blocker": "Accounting work centers on spreadsheets and tax forms, not editable math equations.",
+      "trust": 4,
+      "reasoning": "Angelo's finance-book precision might appreciate the specificity, but his accounting documents contain numbers in tables, not flattening equation objects."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A nurse and watercolorist never deals with equation document conversion.",
+      "trust": 2,
+      "reasoning": "Alejandra's nursing, salsa, and art pursuits have no connection to preserving editable equations, making the ad entirely off her radar."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "HR documents and dinner parties involve no mathematical equations to preserve.",
+      "trust": 2,
+      "reasoning": "Janet's people-focused HR and gardening world never touches equation conversion, so this technical pitch offers her nothing worth clicking."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Logistics management and watercolor painting involve no equation-laden documents.",
+      "trust": 3,
+      "reasoning": "Jeffrey's operational and artistic pursuits don't include mathematical documents, so preserving editable equations after conversion is irrelevant to his workflow."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "Equations stay editable objects",
+      "blocker": "IT management and cycling rarely require converting equation-heavy documents in daily practice.",
+      "trust": 4,
+      "reasoning": "Hassan's tech-savvy DIY-electronics mind grasps the flattening problem, though his IT leadership work seldom involves preserving mathematical equations across conversions."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "maybe",
+      "hook_phrase": "Equations stay editable objects",
+      "blocker": "Kitchen supervision rarely requires converting equation-heavy documents despite his STEM background.",
+      "trust": 4,
+      "reasoning": "Felix's STEM graduate food-science work and skeptical technical eye make the editable-equation claim resonate, though his supervisory role limits practical need."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide never handles documents containing mathematical equations.",
+      "trust": 2,
+      "reasoning": "Tammy's caregiving, gardening, and quilting life has zero overlap with equation document conversion, so nothing in this ad engages her."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hairstylist has no documents with equations requiring conversion.",
+      "trust": 2,
+      "reasoning": "Esperanza's hair artistry, dance, and beauty pursuits are wholly unrelated to editable equations, making this technical pitch meaningless to her."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "maybe",
+      "hook_phrase": "Equations stay editable objects",
+      "blocker": "Financial advisory uses spreadsheets and models, not the math equations this tool preserves.",
+      "trust": 3,
+      "reasoning": "Pradeep's fintech curiosity and CFA analytics might glance, but wealth-management documents contain figures in tables, not flattening equation objects."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A material mover's logistics work involves no equation-laden documents to convert.",
+      "trust": 3,
+      "reasoning": "Aldon's warehouse and woodworking life doesn't include mathematical documents, so the editable-equation promise gives him no reason to click."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "maybe",
+      "hook_phrase": "Equations stay editable objects",
+      "blocker": "Software engineering rarely involves converting formal equation documents in daily coding work.",
+      "trust": 4,
+      "reasoning": "Estelita's STEM software background understands document conversion pain, but her coding work seldom requires preserving typeset mathematical equations across formats."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "nothing to fix afterward",
+      "blocker": "A CEO delegates document formatting and rarely converts equation-heavy files himself.",
+      "trust": 3,
+      "reasoning": "Grato's STEM analytical side appreciates efficiency, but executive-level work rarely has him personally wrestling with flattened equations needing conversion."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "yes",
+      "hook_phrase": "Equations stay editable objects after conversion",
+      "blocker": "",
+      "trust": 5,
+      "reasoning": "Kohl's engineering reports and tech-trend reading mean he frequently battles equations flattening into images during conversion, so this solves a real pain."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vehicle detailer never works with equation-containing documents.",
+      "trust": 2,
+      "reasoning": "Leola's auto detailing and painting pursuits have no connection to mathematical document conversion, so the ad offers her nothing relevant."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A building cleaner has no equation-laden documents to convert.",
+      "trust": 2,
+      "reasoning": "Mohammed's janitorial, fishing, and woodworking life is entirely disconnected from editable-equation software, making this pitch irrelevant to him."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An aircraft mechanic works on hardware, not equation-heavy documents.",
+      "trust": 3,
+      "reasoning": "Nicholas's hands-on maintenance, fishing, and country-music life involves no mathematical document conversion, so this technical writing tool doesn't apply."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "maybe",
+      "hook_phrase": "Equations stay editable objects",
+      "blocker": "Speech-language clinical articles rarely contain the mathematical equations this tool preserves.",
+      "trust": 4,
+      "reasoning": "Gloria writes peer-reviewed articles and values meticulous organization, but SLP research uses statistics tables more than the typeset equations targeted here."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A stocker never handles documents containing mathematical equations.",
+      "trust": 2,
+      "reasoning": "Joseph's warehouse work, woodworking, and BBQ hobbies have no overlap with equation conversion, so the ad's promise means nothing to him."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "nothing to fix afterward",
+      "blocker": "Financial management uses spreadsheets and reports, not the math equations this preserves.",
+      "trust": 3,
+      "reasoning": "Michelle's disciplined finance and puzzle-loving mind values efficiency, but her documents hold figures in tables rather than flattening equation objects."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.3553855,
+    "duration_ms": 62815,
+    "session_id": "2d79fa23-3146-4851-ad48-0aa55650d170"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "variant_id": "seed_04_en_숫자형_price",
+  "variant": {
+    "id": "seed_04_en_숫자형_price",
+    "lang": "en",
+    "headline": "₩4,100, 47 equations, 3 reviews",
+    "body": "Starting at ₩4,100 per call, a virtual reviewer sends it back 3 times before you get a draft with 47 editable equations.",
+    "cta": "Start free now",
+    "angle": "숫자형-price",
+    "hook_type": "숫자형",
+    "hook_template": "숫자 + 단위 + 결과/효과",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '숫자형' 가중 비중 4606.8 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '숫자 + 단위 + 결과/효과' 적용",
+    "evidence": [
+      "programs.paper.price_ko (KRW figure carried over; no EN price field)",
+      "programs.paper.hooks_en.thread[0]"
+    ],
+    "products_program": "paper"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.3511935,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 88.0,
+    "maybe": 12.0
+  },
+  "mean_trust": 1.92,
+  "top_hook_phrases": [
+    [
+      "47 editable equations",
+      6
+    ]
+  ],
+  "top_blockers": [
+    [
+      "Nothing in academic paper drafting with equations relates to her operations or arts-humanities background.",
+      1
+    ],
+    [
+      "A transportation attendant has no use for editable equations or a virtual paper reviewer.",
+      1
+    ],
+    [
+      "A retail salesperson building PCs has no academic paper-writing task requiring 47 equations.",
+      1
+    ],
+    [
+      "A registered nurse near retirement writes no equation-based academic drafts.",
+      1
+    ],
+    [
+      "An accountant works with financial figures, not 47-equation scholarly drafts.",
+      1
+    ]
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_16_en_부정형_equation_preserve",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Her operations and arts-humanities work never involves converting documents containing equations.",
+      "trust": 3,
+      "reasoning": "As an ops specialist rooted in humanities, gardening, and classics reading, editable math equations hold zero relevance to her workflow."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant has no documents with mathematical equations to convert.",
+      "trust": 3,
+      "reasoning": "Her community-service and transit-attendant life involves no technical equation-laden documents, so equation preservation means nothing to her."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "no",
+      "hook_phrase": "editable objects",
+      "blocker": "Retail sales and PC-building don't involve authoring or converting equation-heavy documents.",
+      "trust": 4,
+      "reasoning": "Though tech-savvy and STEM-educated, his retail-strategy and hardware-tinkering hobbies never require converting documents with editable equations."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Nursing and her craft hobbies involve no equation documents to convert.",
+      "trust": 3,
+      "reasoning": "A nurse focused on gardening, knitting, and biographies has no use for equation-preserving document conversion tools."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "nothing to fix afterward",
+      "blocker": "Accounting deals with spreadsheets and numbers, not editable mathematical equations in documents.",
+      "trust": 3,
+      "reasoning": "Despite being detail-oriented with finance, her audit work uses spreadsheets not equation-typeset documents, making this niche tool irrelevant."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Retail work and outdoor hobbies never touch equation-containing documents.",
+      "trust": 3,
+      "reasoning": "A young retail salesperson focused on management and photography has no workflow needing equation-preserving conversions."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An accountant works with figures and spreadsheets, not typeset mathematical equations.",
+      "trust": 3,
+      "reasoning": "His accounting and finance-reading life involves no equation-heavy documents, so preserving editable equations offers him nothing."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Nursing and art hobbies never require converting documents with equations.",
+      "trust": 3,
+      "reasoning": "A nurse immersed in watercolor, salsa, and community health has no need for equation-preserving document software."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "HR work and social hosting involve no mathematical-equation documents.",
+      "trust": 3,
+      "reasoning": "Her people-focused HR career and gardening-hosting hobbies give her no reason to care about editable equation conversion."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Logistics management and watercolor painting don't involve equation-laden documents.",
+      "trust": 3,
+      "reasoning": "An operations manager and artist championing sustainability has no equation-conversion need in his daily or creative work."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "editable objects",
+      "blocker": "IT management and DIY electronics rarely require converting formal equation-typeset documents.",
+      "trust": 4,
+      "reasoning": "As a tech leader who reads technical material, he grasps the value but rarely authors equation-heavy documents needing this specific fix."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "maybe",
+      "hook_phrase": "never flattened into images",
+      "blocker": "His food-supervisor role rarely needs equation-typeset document conversion despite his STEM background.",
+      "trust": 4,
+      "reasoning": "With a graduate STEM degree and food-science experiments, he may write technical reports where preserving editable equations occasionally matters."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide has no equation documents to convert.",
+      "trust": 3,
+      "reasoning": "Her caregiving, gardening, and quilting life involves nothing requiring editable-equation document conversion tools."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Hairstyling and creative hobbies never involve mathematical-equation documents.",
+      "trust": 3,
+      "reasoning": "A young hairstylist focused on color correction and dance has no workflow touching equation-preserving conversion."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "nothing to fix afterward",
+      "blocker": "Financial advisory uses spreadsheets and reports, not typeset mathematical equations.",
+      "trust": 3,
+      "reasoning": "Despite CFA ambitions and fintech interest, his advisory work relies on spreadsheets, not equation-typeset documents needing this tool."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Warehouse labor and supply-chain study rarely require equation-heavy document conversion.",
+      "trust": 3,
+      "reasoning": "A material mover pursuing a supply-chain degree writes little equation-typeset content, so this niche feature holds minimal appeal."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "maybe",
+      "hook_phrase": "editable objects",
+      "blocker": "Software engineering rarely involves converting documents full of typeset mathematical equations.",
+      "trust": 4,
+      "reasoning": "As a STEM software engineer she appreciates preserving editable objects, but her coding work seldom requires equation-document conversion."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A CEO's strategic role doesn't involve personally converting equation-typeset documents.",
+      "trust": 3,
+      "reasoning": "Despite a STEM degree, his executive and creative pursuits don't involve document conversion where equation editability matters."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "maybe",
+      "hook_phrase": "Equations stay editable objects",
+      "blocker": "His hands-on DIY engineering may rely on CAD more than equation-typeset text documents.",
+      "trust": 4,
+      "reasoning": "As a working engineer who reads engineering trends, he may handle technical documents where preserving editable equations is genuinely useful."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Vehicle detailing and art hobbies involve no equation documents.",
+      "trust": 3,
+      "reasoning": "An auto detailer and desert artist has no professional or creative need for equation-preserving document conversion."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Janitorial and facilities work never involves converting mathematical-equation documents.",
+      "trust": 3,
+      "reasoning": "A building cleaner pursuing facilities credentials handles no equation-typeset documents, making this tool irrelevant to him."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Aircraft maintenance and rural hobbies don't involve equation-typeset documents.",
+      "trust": 3,
+      "reasoning": "A young aircraft mechanic focused on hands-on repairs and country music has no need for editable-equation conversion software."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "maybe",
+      "hook_phrase": "never flattened into images",
+      "blocker": "Her clinical writing may use statistics tables more than typeset mathematical equations.",
+      "trust": 4,
+      "reasoning": "As an SLP planning peer-reviewed articles and reading scientific literature, preserving editable equations during document conversion could genuinely help her."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Warehouse stocking and woodworking involve no equation documents to convert.",
+      "trust": 3,
+      "reasoning": "A stocker focused on supply-chain credentials and hands-on hobbies has no workflow requiring equation-preserving conversion."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "nothing to fix afterward",
+      "blocker": "Financial management uses spreadsheets and reports, not typeset mathematical equations.",
+      "trust": 3,
+      "reasoning": "A finance veteran working with numbers and puzzles handles spreadsheets, not equation-typeset documents needing this preservation feature."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.36219274999999995,
+    "duration_ms": 64301,
+    "session_id": "28558a6d-6e7c-4c63-9203-d309cb1db3ef"
+  }
+}

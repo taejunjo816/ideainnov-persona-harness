@@ -1,0 +1,3 @@
+[variant gen03_en_var_03_rfp_business] lang=en 25 personas -> 1 call(s) of up to 25 (dry_run=False)
+  batch 0: 25 verdicts, cost=$0.4252, wall=93.6s -> round_00.json
+[variant gen03_en_var_03_rfp_business] done. n=25 would_click_pct={'maybe': 28.0, 'no': 68.0, 'yes': 4.0} mean_trust=2.64 total_cost_usd=0.4252

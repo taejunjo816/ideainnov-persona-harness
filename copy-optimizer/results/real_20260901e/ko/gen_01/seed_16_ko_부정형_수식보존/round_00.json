@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_16_ko_부정형_수식보존",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "경리 업무는 숫자 표와 전표를 다룰 뿐 편집 가능한 수식이나 OMML 객체를 쓸 일이 전혀 없다.",
+      "trust": 2,
+      "reasoning": "순천의 경리 사무원으로서 수식·OMML 같은 학술 문서 용어는 낯설고 이직 목표와도 무관해 스크롤을 멈추지 않는다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "온라인 리빙 소품 판매에는 수식 편집 기능이 아무런 쓸모가 없다.",
+      "trust": 2,
+      "reasoning": "통영의 온라인 판매원으로 인테리어·유통 관심사와 무관한 수식 보존 기능이라 눈길조차 주지 않는다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "maybe",
+      "hook_phrase": "편집 가능한 OMML 객체",
+      "blocker": "시험 보고서를 자주 만들긴 하지만 수식 변환 문제로 실제 곤란을 겪은 기억이 없어 절실함이 약하다.",
+      "trust": 3,
+      "reasoning": "기계공학 시험원으로 기술 보고서 작성 경험이 있어 편집 가능한 수식 유지 문구가 살짝 눈에 들어온다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "no",
+      "hook_phrase": "수식을 이미지로 바꾸지 마세요",
+      "blocker": "디자이너로서 이미지는 익숙하지만 수학 수식을 편집할 업무 상황 자체가 없다.",
+      "trust": 2,
+      "reasoning": "미디어 콘텐츠 디자이너라 '이미지' 단어엔 반응하나 수식 편집은 자기 작업 영역이 아니라 흘려보낸다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "무역 서류에는 수식이 등장하지 않아 이 도구가 해결할 문제가 없다.",
+      "trust": 2,
+      "reasoning": "정보통신 전공이지만 실제 무역 사무 업무는 계약·통관 문서라 수식 보존 기능에 흥미가 없다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무 업무와 수식 편집은 완전히 동떨어져 클릭할 이유가 없다.",
+      "trust": 2,
+      "reasoning": "안산의 간호조무사로 수영·넷플릭스가 관심사이며 OMML 수식 보존은 삶과 접점이 전혀 없다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "손해사정 보고서는 표와 서술 위주라 편집 수식 기능이 필요 없다.",
+      "trust": 2,
+      "reasoning": "보건복지 전공 손해사정사로 문서 작업은 많지만 수학 수식 편집과는 무관해 지나친다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고졸 마케팅 현장 실무자에게 OMML 수식 객체는 이해도 관심도 밖의 영역이다.",
+      "trust": 2,
+      "reasoning": "하남의 실전파 마케터로 배드민턴·여행이 관심사이고 기술적 수식 문서 용어에 매력을 못 느낀다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "교육 보조 업무는 수식 문서를 다루지 않아 이 기능이 필요 없다.",
+      "trust": 2,
+      "reasoning": "시흥의 교사 교육 보조원으로 사회복지 자격 준비가 목표이며 수식 변환 도구는 일상과 무관하다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "편집 가능한 OMML 객체",
+      "blocker": "연구 보고서에 수식은 있지만 이미지화로 재작업했던 불편이 클릭을 유발할 만큼 결정적이진 않다.",
+      "trust": 4,
+      "reasoning": "공학 연구원으로 기술 문서에 수식을 자주 넣어 편집 가능한 OMML 보존 문구의 실효성을 이해한다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "교육학 배경 마케터라도 소매 운영 문서에 수식은 등장하지 않는다.",
+      "trust": 2,
+      "reasoning": "김포의 마케팅 전문가로 매장 시스템 체계화가 목표이며 수식 편집 도구는 업무와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "법학 기반 상품 기획 문서는 수식이 아니라 서비스 설계라 이 기능이 무의미하다.",
+      "trust": 2,
+      "reasoning": "세종의 임대 상품 기획자로 라이프스타일 구독 모델이 관심사이며 수식 보존은 완전히 무관하다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "통신사 마케팅 업무에 편집 가능한 수식 객체가 쓰일 일이 없다.",
+      "trust": 2,
+      "reasoning": "예술·인문 전공 마케터로 전시·사진이 취향이고 기술적 수식 문서 도구에 흥미를 느끼지 못한다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "maybe",
+      "hook_phrase": "편집 가능한 OMML 객체",
+      "blocker": "수학 전공 배경은 있으나 현재 경영 지원 매뉴얼 작업에 수식을 실제로 넣지는 않는다.",
+      "trust": 3,
+      "reasoning": "자연과학·수학 대학원 출신이라 OMML 수식 편집의 가치를 이해하지만 지금 업무 문서에 수식은 드물다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담 업무는 수식 문서와 전혀 접점이 없다.",
+      "trust": 2,
+      "reasoning": "대구의 전화 상담원으로 관리자 전환이 목표이며 수식 보존 기능은 일상과 무관해 지나친다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 사무 업무에 편집 수식이 필요한 순간이 없다.",
+      "trust": 2,
+      "reasoning": "용인의 고객 상담 사무원으로 안정적 근속이 목표이며 OMML 수식 도구에 관심이 생기지 않는다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "maybe",
+      "hook_phrase": "편집 가능한 OMML 객체",
+      "blocker": "네트워크 운영 문서는 다이어그램 위주라 수식 편집 필요성은 낮아 절실함이 부족하다.",
+      "trust": 4,
+      "reasoning": "정보통신 대학원 출신 개발자로 기술 문서와 포맷 변환 개념에 익숙해 문구의 신뢰성은 높게 본다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "부동산 감정 보고서는 수치 표일 뿐 편집 수식 객체와 무관하다.",
+      "trust": 2,
+      "reasoning": "서비스 전공 부동산 감정 전문가로 문서 작업은 하나 수학 수식 편집은 업무 영역 밖이다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "기술 영업은 고객 신뢰 구축이 핵심이라 수식 문서 편집이 쓰일 일이 없다.",
+      "trust": 2,
+      "reasoning": "공학 출신이지만 농기계 영업원으로서 클래식·시티투어가 취향이고 수식 보존 도구엔 반응하지 않는다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자에게 편집 가능한 수식 객체는 이해 밖이자 무용지물이다.",
+      "trust": 1,
+      "reasoning": "63세 음식점 종사자로 산책·빵집이 일상이며 OMML 수식 문서 용어는 삶과 완전히 동떨어져 있다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생 업무는 수식 문서를 다루지 않아 이 기능이 불필요하다.",
+      "trust": 2,
+      "reasoning": "아산의 치과위생사로 정적인 휴식이 취향이며 편집 수식 보존 도구는 관심 밖의 기술 광고다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "no",
+      "hook_phrase": "다시 손볼 필요가 없습니다",
+      "blocker": "기획 문서는 도표·서술 중심이라 수식 편집 기능이 실제로 쓰이지 않는다.",
+      "trust": 3,
+      "reasoning": "업무 자동화로 휴식을 확보하려는 기획 사무원이라 효율 문구엔 살짝 끌리나 수식은 자기 업무와 무관하다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "초등 교사 문서는 간단한 학습지 수준이라 OMML 수식 편집까지 필요하지 않다.",
+      "trust": 2,
+      "reasoning": "22세 초등 교사로 웹툰·카페가 관심사이며 기술적 수식 보존 도구는 다정한 교실 목표와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "maybe",
+      "hook_phrase": "수식을 이미지로 바꾸지 마세요",
+      "blocker": "설계 계산서에 수식을 쓰지만 HWP 변환 시 겪는 고질적 불편을 이 광고가 명확히 짚어줄지 아직 확신이 없다.",
+      "trust": 4,
+      "reasoning": "세종의 토목 기술자로 계산식이 담긴 기술 문서를 자주 변환해 수식 보존 문구의 실무적 가치를 바로 이해한다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유치원 교육 문서에는 수학 수식이 등장하지 않아 이 도구가 무의미하다.",
+      "trust": 2,
+      "reasoning": "마산의 유치원 교사로 퍼즐·웹툰이 취향이며 편집 가능한 수식 객체는 아이들과의 수업과 전혀 무관하다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.2825215,
+    "duration_ms": 98158,
+    "session_id": "81c63f2f-9c57-47c6-8b61-44238e12f5a7"
+  }
+}

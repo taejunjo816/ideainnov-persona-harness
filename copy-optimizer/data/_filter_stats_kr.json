@@ -1,0 +1,17 @@
+{
+ "src": "data\\_pool_kr_800.jsonl",
+ "out": "data\\personas_kr_25_filtered.jsonl",
+ "n_in": 800,
+ "n_pass": 272,
+ "pass_rate_pct": 34.0,
+ "n_sampled": 25,
+ "seed": 42,
+ "reasons": {
+  "비경제활동": 281,
+  "도달가능성 미달": 228,
+  "고등교육": 190,
+  "전문·연구·기술직": 82,
+  "age<22": 19
+ },
+ "rule": "age>=22 AND (전문·연구·기술직 OR 고등교육 OR STEM전공)"
+}

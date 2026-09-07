@@ -1,0 +1,63 @@
+{
+  "variant_id": "gen01_en_var_01_matching_free_tossafe",
+  "variant": {
+    "id": "gen01_en_var_01_matching_free_tossafe",
+    "headline": "Automated - except the last click",
+    "body": "Journal matching is free. Compare fit and review time, then press Submit yourself. ToS-safe by design.",
+    "cta": "Start free matching",
+    "angle": "역설·반전-tos_safe (broadened to free matching so non-authors still engage)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.35072525000000004,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 92.0,
+    "maybe": 8.0
+  },
+  "mean_trust": 2.08,
+  "top_hook_phrases": [
+    [
+      "Journal matching",
+      4
+    ],
+    [
+      "Automated",
+      3
+    ],
+    [
+      "free",
+      3
+    ]
+  ],
+  "top_blockers": [
+    [
+      "As an operations specialist she never submits to academic journals, so journal matching is irrelevant to her work.",
+      1
+    ],
+    [
+      "A transportation attendant has no papers to submit to journals.",
+      1
+    ],
+    [
+      "Retail salesperson with no manuscripts sees nothing to match despite liking automation and tech.",
+      1
+    ],
+    [
+      "She reads medical journals but is retiring and never submits research articles herself.",
+      1
+    ],
+    [
+      "An accountant produces audits, not journal manuscripts needing submission.",
+      1
+    ]
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen03_en_var_02_hwp_office_users",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "She works US business operations and never touches Korean HWP files, so the format is irrelevant to her.",
+      "trust": 2,
+      "reasoning": "As an arts-humanities operations specialist with no Korean-document workflow, HWP equation conversion has zero relevance to her work or hobbies."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant handling train schedules has no reason to convert Korean HWP files with equations.",
+      "trust": 2,
+      "reasoning": "Her community-service and transit-attendant life never involves Korean word-processor files or OMML equations, so the ad is meaningless to her."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "no",
+      "hook_phrase": "checks its own fidelity",
+      "blocker": "A Bay Area retail salesperson and PC builder never handles Korean HWP documents.",
+      "trust": 3,
+      "reasoning": "His STEM/tech curiosity notes the fidelity-check claim, but retail sales and PC building never involve Korean HWP conversion needs."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A retiring nurse working with patients has no encounter with Korean HWP equation files.",
+      "trust": 2,
+      "reasoning": "Her nursing and knitting/gardening life has no intersection with Korean word-processing software or OMML equation conversion."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A US accountant deals with spreadsheets and audit files, not Korean HWP documents.",
+      "trust": 3,
+      "reasoning": "Though tech-curious, her accounting and ESG-reporting work never touches Korean HWP or equation markup, making the offer irrelevant."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young retail salesperson focused on inventory never works with Korean HWP files.",
+      "trust": 2,
+      "reasoning": "His retail-management ambitions and photography hobbies have no connection to Korean word-processor equation conversion."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An Appalachian accountant handles tax and audit docs, not Korean HWP equations.",
+      "trust": 3,
+      "reasoning": "His finance and outdoor-hobby life never involves Korean HWP format, so a converter for it holds no practical value."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A Cuban-American nurse has no workflow involving Korean HWP documents or equations.",
+      "trust": 2,
+      "reasoning": "Her nursing, art, and community-health pursuits are wholly unrelated to Korean word-processor file conversion."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An HR worker's people-focused role never requires converting Korean HWP equation files.",
+      "trust": 2,
+      "reasoning": "Her HR, hosting, and gardening life has no touchpoint with Korean HWP documents or OMML equation output."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A Midwestern logistics manager and watercolorist never handles Korean HWP files.",
+      "trust": 2,
+      "reasoning": "His agricultural-supply-chain and art interests have no overlap with Korean word-processor equation conversion tools."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "checks its own fidelity",
+      "blocker": "As a US IT manager he never encounters Korean HWP files, so relevance is nil despite the tech appeal.",
+      "trust": 3,
+      "reasoning": "His IT-leadership and DIY-electronics curiosity appreciates self-fidelity-checking software, but Korean HWP conversion has no place in his workflow."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "no",
+      "hook_phrase": "editable OMML",
+      "blocker": "A kitchen supervisor, even STEM-educated, has no Korean HWP documents to convert.",
+      "trust": 3,
+      "reasoning": "His food-science and tech interests might note OMML, but restaurant work never involves Korean word-processor equation files."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide never works with Korean HWP files or mathematical equations.",
+      "trust": 2,
+      "reasoning": "Her caregiving and gardening life has zero connection to Korean word-processing software or equation conversion."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young hairstylist has no reason to convert Korean HWP equation documents.",
+      "trust": 2,
+      "reasoning": "Her beauty, dance, and cultural pursuits are entirely unrelated to Korean word-processor files or OMML equation output."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A US financial specialist handles standard business docs, not Korean HWP files.",
+      "trust": 3,
+      "reasoning": "Despite fintech curiosity, his finance advisory work never involves Korean word-processor equation conversion needs."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A freight material mover never handles Korean HWP documents with equations.",
+      "trust": 2,
+      "reasoning": "His logistics and woodworking interests have no intersection with Korean word-processor equation file conversion."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "maybe",
+      "hook_phrase": "editable OMML",
+      "blocker": "As a US software engineer she has no Korean HWP files, making the tool practically useless to her.",
+      "trust": 3,
+      "reasoning": "Her STEM/software background notes OMML technicality, but her Vietnamese-American tech life never involves Korean HWP conversion."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A Central Valley CEO never works with Korean HWP equation documents.",
+      "trust": 3,
+      "reasoning": "His STEM-executive and creative pursuits have no connection to Korean word-processor file conversion tools."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An engineer working regionally never encounters Korean HWP files needing equation conversion.",
+      "trust": 3,
+      "reasoning": "Though equations interest engineers, his manufacturing and DIY life never involves Korean word-processor document formats."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vehicle detailer has no workflow involving Korean HWP files or equations.",
+      "trust": 2,
+      "reasoning": "Her auto-detailing and art hobbies are wholly unrelated to Korean word-processor equation conversion software."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A janitor pursuing facilities management never handles Korean HWP equation documents.",
+      "trust": 2,
+      "reasoning": "His cleaning, fishing, and woodworking life has no touchpoint with Korean word-processor file conversion."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young aircraft mechanic never works with Korean HWP documents or equations.",
+      "trust": 2,
+      "reasoning": "His aviation-maintenance and country-music life is entirely disconnected from Korean word-processor equation conversion tools."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A speech-language pathologist has no reason to convert Korean HWP equation files.",
+      "trust": 2,
+      "reasoning": "Her clinical and gardening pursuits have no overlap with Korean word-processor documents or OMML equation output."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A warehouse stocker never handles Korean HWP documents with equations.",
+      "trust": 2,
+      "reasoning": "His woodworking, BBQ, and stockroom life has zero connection to Korean word-processor equation file conversion."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A US finance manager works with standard financial docs, not Korean HWP files.",
+      "trust": 3,
+      "reasoning": "Her disciplined finance and quiet-hobby life never involves Korean word-processor equation conversion, making the ad irrelevant."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.322563,
+    "duration_ms": 46938,
+    "session_id": "f3ea3602-34c6-4cbc-bbac-cccbbc2c0b24"
+  }
+}

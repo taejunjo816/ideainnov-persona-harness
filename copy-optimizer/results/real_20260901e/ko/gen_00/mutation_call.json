@@ -1,0 +1,102 @@
+{
+  "elites": [
+    "seed_16_ko_부정형_수식보존",
+    "seed_11_ko_질문형_수식신뢰",
+    "seed_02_ko_숫자형_형식개수"
+  ],
+  "hook_phrases_sampled": [
+    "HWPX·DOCX·PDF",
+    "47개 형식 상호 변환",
+    "종량제",
+    "호출당",
+    "무료 체험 시작",
+    "편집 가능한 OMML 객체",
+    "이미지로",
+    "변환 후에도 수식은 편집 가능한",
+    "수식을 이미지로 바꾸지 마세요",
+    "수식 47개",
+    "편집 가능한 수식 47개",
+    "정말 안 깨질까요?"
+  ],
+  "blockers_sampled": [
+    "미디어 디자이너로 평온한 정년을 바라는 그에게 학술 논문 심사는 관심 밖이다.",
+    "미디어 디자인 실무에 수식·심사위원 서비스는 관련성이 없다.",
+    "리빙 소품 브랜드를 꿈꾸는 온라인 판매원에게 SCI 논문 심사는 아무 접점이 없다.",
+    "현장 시험원이지 논문을 저널에 투고하는 연구자가 아니다.",
+    "기계정비산업기사 자격증 준비지 논문 초안 작성이 아니라서 실익이 없다.",
+    "미디어 디자이너에게 학술 저널 투고는 직무와 완전히 무관하다.",
+    "평온한 정년퇴직을 바라는 미디어 디자이너에게 논문 심사 루프는 무관하다.",
+    "리빙 소품 브랜드 론칭에 편집 가능한 수식 초안은 아무 도움이 안 된다."
+  ],
+  "children": [
+    {
+      "id": "gen01_ko_v1_negation_formula_broad",
+      "headline": "수식을 이미지로 바꾸지 마세요",
+      "body": "PDF·DOCX·HWPX를 변환해도 수식은 편집 가능한 OMML 객체로, 표 레이아웃과 스타일은 그대로 유지됩니다.",
+      "cta": "무료 체험 시작",
+      "angle": "부정형-수식보존(문서 변환 전반으로 확장)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen01_ko_v2_question_table_formula",
+      "headline": "표와 수식, 정말 안 깨질까요?",
+      "body": "47개 형식을 오가며 변환해도 편집 가능한 OMML 수식과 표 레이아웃이 그대로 남습니다. 직접 열어 확인해 보세요.",
+      "cta": "무료 체험 시작",
+      "angle": "질문형-변환신뢰(범용 문서 사용자 대상)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen01_ko_v3_number_formats_price",
+      "headline": "형식 변환 47개, 호출당 2,800원",
+      "body": "HWPX·DOCX·PDF 등 47개 형식 상호 변환이 종량제 ₩2,800/호출. PDF 속 그림까지 추출해 결과 문서에 재삽입합니다.",
+      "cta": "무료 체험 시작",
+      "angle": "숫자형-형식개수(최저가·그림 추출 강조)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen01_ko_v4_biz_beyond_paper",
+      "headline": "논문만? 사업계획서도 자동으로",
+      "body": "RFP나 연구 결과를 사업계획서·연구제안서로 자동 구조화해 HWPX·DOC·PPT·PDF로 제공. 종량제 ₩4,100/호출로 시작합니다.",
+      "cta": "무료 체험 시작",
+      "angle": "확장-제안서(비연구자 걸림돌 해소)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen01_ko_v5_free_journal_match",
+      "headline": "저널 매칭은 무료, 부담 없이",
+      "body": "초록을 붙여넣으면 주제 적합도 기준으로 SCI 저널을 추천하고, 투고 요건을 체크리스트로 정리해 누락을 막아 줍니다.",
+      "cta": "무료로 매칭받기",
+      "angle": "무료-진입부담제거(저널 매칭 무료)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    }
+  ],
+  "meta": {
+    "cost_usd": 0.26004625000000003,
+    "duration_ms": 55730
+  }
+}

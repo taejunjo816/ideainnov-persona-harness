@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen04_ko_gen04_ko_trade_forms_intact",
+  "variant": {
+    "id": "gen04_ko_gen04_ko_trade_forms_intact",
+    "headline": "거래 서류, 형식 바꿔도 양식 그대로",
+    "body": "HWPX·DOCX·PDF 등 47개 형식을 오가도 표 레이아웃과 스타일 그대로. 20MB·30페이지 지원, 초과 시 자동 분할. ₩2,800/호출.",
+    "cta": "무료 체험 시작",
+    "angle": "무역·서류 실무 걸림돌 해소: 정해진 양식이 형식 변환 중에도 보존됨을 강조(일상 서류 관련성)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.432454,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 52.0,
+    "no": 36.0,
+    "yes": 12.0
+  },
+  "mean_trust": 3.56,
+  "top_hook_phrases": [
+    [
+      "표 레이아웃과 스타일 그대로",
+      5
+    ],
+    [
+      "거래 서류, 형식 바꿔도 양식 그대로",
+      4
+    ],
+    [
+      "HWPX·DOCX·PDF 등 47개 형식",
+      3
+    ],
+    [
+      "양식 그대로",
+      2
+    ],
+    [
+      "20MB·30페이지 지원, 초과 시 자동 분할",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "₩2,800/호출 과금이 개인 경리 실무자에게 회사 승인 없이 쓰기 부담스럽다.",
+      1
+    ],
+    [
+      "리빙 소품 유통이라 표 서류 형식 변환보다 상품 브랜딩·판매가 관심사다.",
+      1
+    ],
+    [
+      "기계공학 시험 현장 업무라 문서 형식 변환 니즈가 거의 없다.",
+      1
+    ],
+    [
+      "디자이너지만 주로 미디어 콘텐츠 작업이라 문서 표 변환 빈도가 낮다.",
+      1
+    ],
+    [
+      "₩2,800/호출 단가가 반복 거래 서류 처리 시 누적 비용으로 느껴진다.",
+      1
+    ]
+  ]
+}

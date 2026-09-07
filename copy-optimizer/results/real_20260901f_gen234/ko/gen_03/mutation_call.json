@@ -1,0 +1,105 @@
+{
+  "elites": [
+    "gen01_ko_v2_question_table_formula",
+    "gen03_ko_gen02_ko_v3_table_image_intact",
+    "gen03_ko_gen02_ko_v1_convert_everyday"
+  ],
+  "hook_phrases_sampled": [
+    "HWPX·DOCX·PDF",
+    "표 레이아웃과 스타일 그대로",
+    "PDF 속 그림까지 추출해 재삽입",
+    "HWPX·DOCX·PDF 등 47개 형식을 오가도 표 레이아웃과 스타일 그대로",
+    "가장 저렴한 ₩2,800/호출",
+    "표 레이아웃도 그대로",
+    "PDF 속 그림·도식을 추출해 결과 문서에 재삽입",
+    "무료 체험 시작",
+    "표·그림 안 깨지는 문서 변환",
+    "20MB·30페이지 지원, 초과 시 자동 분할",
+    "표 레이아웃이 그대로 남습니다",
+    "47개 형식을 오가며 변환해도",
+    "편집 가능한 OMML 수식과 표 레이아웃",
+    "표",
+    "편집 가능한 OMML 수식과 표"
+  ],
+  "blockers_sampled": [
+    "현장 기계공학 시험원 업무는 문서 제안서가 아니라 시험·측정 실무라 관련성이 없다.",
+    "경리 실무엔 사업계획서·연구제안서 작성이 없어 종량제 문서 자동화가 업무와 무관하다.",
+    "온라인 쇼핑 판매는 상품 등록 위주라 47개 형식 문서 변환이 필요한 업무 상황이 거의 없다.",
+    "디자이너는 전용 편집툴을 쓰기에 이 변환기가 워크플로에 꼭 필요한지 확신이 서지 않는다.",
+    "온라인 쇼핑 판매원으로 SCI 저널 투고와 완전히 동떨어진 삶을 산다.",
+    "무역 실무자로 논문 초록을 붙여넣을 일 자체가 없다.",
+    "무역 서류는 정해진 양식 위주라 47개 형식 변환까지는 과한 기능으로 느껴질 수 있다.",
+    "경리 사무원으로 SCI 논문을 쓸 일이 전혀 없어 저널 매칭 서비스가 무의미하다."
+  ],
+  "children": [
+    {
+      "id": "gen04_ko_gen04_ko_trade_forms_intact",
+      "headline": "거래 서류, 형식 바꿔도 양식 그대로",
+      "body": "HWPX·DOCX·PDF 등 47개 형식을 오가도 표 레이아웃과 스타일 그대로. 20MB·30페이지 지원, 초과 시 자동 분할. ₩2,800/호출.",
+      "cta": "무료 체험 시작",
+      "angle": "무역·서류 실무 걸림돌 해소: 정해진 양식이 형식 변환 중에도 보존됨을 강조(일상 서류 관련성)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_ko_gen04_ko_office_table_safe",
+      "headline": "매일 다루는 문서, 표 안 깨지게 변환",
+      "body": "견적서·정산서 같은 문서도 HWPX·DOCX·PDF로 오가며 표 레이아웃과 스타일 그대로. 가장 저렴한 ₩2,800/호출로 처리하세요.",
+      "cta": "무료 체험 시작",
+      "angle": "경리·사무 걸림돌 해소: 논문/제안서가 아닌 일상 사무 문서의 표 보존으로 관련성 제시",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_ko_gen04_ko_designer_image_reinsert",
+      "headline": "PDF 속 그림·도식, 추출해 재삽입",
+      "body": "전용 편집툴 결과물도 PDF 속 그림·도식을 추출해 결과 문서에 재삽입, 표 레이아웃과 스타일 그대로. ₩2,800/호출.",
+      "cta": "무료 체험 시작",
+      "angle": "디자이너 걸림돌 해소: 편집툴을 대체하지 않고 그림 추출·재삽입으로 워크플로를 보조",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_ko_gen04_ko_seller_product_docs",
+      "headline": "상품 서류도 형식 걱정 없이 변환",
+      "body": "상세 문서를 HWPX·DOCX·PDF 등 47개 형식으로 오가도 표·그림 그대로. PDF 속 그림 추출해 재삽입, ₩2,800/호출.",
+      "cta": "무료 체험 시작",
+      "angle": "온라인 판매 걸림돌 해소: 상품 관련 서류의 형식 변환 상황으로 업무 관련성 부여",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_ko_gen04_ko_universal_cheapest",
+      "headline": "47개 형식 변환, 호출당 2,800원",
+      "body": "편집 가능한 OMML 수식과 표 레이아웃, PDF 속 그림까지 그대로 살려 47개 형식을 오갑니다. 가장 저렴한 ₩2,800/호출.",
+      "cta": "무료 체험 시작",
+      "angle": "범용 최저가: 직군 무관하게 통하는 형식 개수·최저가·수식·표·그림 보존 훅 집약",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    }
+  ],
+  "meta": {
+    "cost_usd": 0.27100425,
+    "duration_ms": 56606
+  }
+}

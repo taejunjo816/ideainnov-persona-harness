@@ -1,0 +1,71 @@
+{
+  "variant_id": "gen01_ko_v3_number_formats_price",
+  "variant": {
+    "id": "gen01_ko_v3_number_formats_price",
+    "headline": "형식 변환 47개, 호출당 2,800원",
+    "body": "HWPX·DOCX·PDF 등 47개 형식 상호 변환이 종량제 ₩2,800/호출. PDF 속 그림까지 추출해 결과 문서에 재삽입합니다.",
+    "cta": "무료 체험 시작",
+    "angle": "숫자형-형식개수(최저가·그림 추출 강조)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.290045,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 60.0,
+    "no": 40.0
+  },
+  "mean_trust": 3.44,
+  "top_hook_phrases": [
+    [
+      "HWPX·DOCX·PDF",
+      4
+    ],
+    [
+      "형식 변환 47개",
+      4
+    ],
+    [
+      "PDF 속 그림까지 추출해 결과 문서에 재삽입",
+      3
+    ],
+    [
+      "PDF 속 그림까지 추출",
+      2
+    ],
+    [
+      "무료 체험 시작",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "종량제 ₩2,800/호출이 하루 여러 문서를 다루는 경리 실무엔 누적 비용 부담으로 느껴진다.",
+      1
+    ],
+    [
+      "온라인 쇼핑 판매는 상품 등록 위주라 47개 형식 문서 변환이 필요한 업무 상황이 거의 없다.",
+      1
+    ],
+    [
+      "기계 시험원은 현장 측정 업무 중심이라 다형식 문서 변환 수요가 적다.",
+      1
+    ],
+    [
+      "디자이너는 전용 편집툴을 쓰기에 이 변환기가 워크플로에 꼭 필요한지 확신이 서지 않는다.",
+      1
+    ],
+    [
+      "무역 서류는 정해진 양식 위주라 47개 형식 변환까지는 과한 기능으로 느껴질 수 있다.",
+      1
+    ]
+  ]
+}

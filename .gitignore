@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 _prep.log
 _*.md
+results/test30_dry/
+data/personas_kr_test30.jsonl

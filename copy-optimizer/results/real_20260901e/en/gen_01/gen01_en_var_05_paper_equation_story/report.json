@@ -1,0 +1,71 @@
+{
+  "variant_id": "gen01_en_var_05_paper_equation_story",
+  "variant": {
+    "id": "gen01_en_var_05_paper_equation_story",
+    "headline": "One sentence in, a full draft out",
+    "body": "I typed one sentence and got a draft with 47 editable equations - after a virtual SCI-Q1 reviewer rejected it thrice.",
+    "cta": "Start free trial",
+    "angle": "숫자형·스토리-equation_count (core-author elite retained)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.35844299999999996,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 76.0,
+    "maybe": 24.0
+  },
+  "mean_trust": 2.16,
+  "top_hook_phrases": [
+    [
+      "47 editable equations",
+      2
+    ],
+    [
+      "SCI-Q1 reviewer",
+      2
+    ],
+    [
+      "One sentence in, a full draft out",
+      2
+    ],
+    [
+      "Start free trial",
+      1
+    ],
+    [
+      "editable equations",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "Academic paper drafting with equations has nothing to do with her operations and gardening life.",
+      1
+    ],
+    [
+      "She writes no scientific papers; equation-heavy academic tooling is outside her transit-service world.",
+      1
+    ],
+    [
+      "He sells retail, not research papers, so the SCI-Q1 academic framing feels off-target.",
+      1
+    ],
+    [
+      "A bedside nurse near retirement has no need to draft equation-laden SCI-Q1 papers.",
+      1
+    ],
+    [
+      "Accounting and ESG reporting don't require SCI-Q1 papers full of equations.",
+      1
+    ]
+  ]
+}

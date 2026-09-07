@@ -1,0 +1,66 @@
+{
+  "variant_id": "seed_04_ko_정체성호명_연구자호명",
+  "variant": {
+    "id": "seed_04_ko_정체성호명_연구자호명",
+    "lang": "ko",
+    "headline": "대학원생과 연구원을 위해 만들었습니다",
+    "body": "SCI Q1 11절 자동 심사 루프를 거쳐 편집 가능한 수식과 참고문헌이 정리된 논문 초안을 받습니다.",
+    "cta": "가입 즉시 무료 체험",
+    "angle": "정체성호명-연구자호명",
+    "hook_type": "정체성호명",
+    "hook_template": "특정 독자 직접 호명 + 그 독자에게 맞춘 약속",
+    "source_evidence": "youtube_hooks.json[ko]: 훅유형 '정체성호명' 가중 비중 245.4 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '특정 독자 직접 호명 + 그 독자에게 맞춘 약속' 적용",
+    "evidence": [
+      "programs.paper.features[3]",
+      "programs.paper.features[4]"
+    ],
+    "products_program": "paper"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.420698,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 88.0,
+    "maybe": 12.0
+  },
+  "mean_trust": 2.16,
+  "top_hook_phrases": [
+    [
+      "대학원생과 연구원",
+      2
+    ],
+    [
+      "연구원을 위해 만들었습니다",
+      2
+    ],
+    [
+      "대학원생과 연구원을 위해 만들었습니다",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "순천에서 경리 실무만 하는 전문대 졸업자로 논문 초안 작성과는 아무 접점이 없다.",
+      1
+    ],
+    [
+      "리빙 소품 브랜드를 꿈꾸는 온라인 판매원에게 학술 논문 도구는 전혀 필요 없다.",
+      1
+    ],
+    [
+      "현장 시험원이자 기계정비산업기사를 준비하는 사람에게 SCI 논문은 목표와 무관하다.",
+      1
+    ],
+    [
+      "평온한 정년퇴직을 바라는 미디어 디자이너에게 논문 심사 루프는 무관하다.",
+      1
+    ],
+    [
+      "무역 실무와 내 집 마련이 관심사인 사무원에게 논문 초안 서비스는 쓸모가 없다.",
+      1
+    ]
+  ]
+}

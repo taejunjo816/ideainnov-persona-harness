@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen01_en_var_03_rfp_proposal_broaden",
+  "variant": {
+    "id": "gen01_en_var_03_rfp_proposal_broaden",
+    "headline": "One RFP upload, 3 Win Themes",
+    "body": "Upload an RFP overnight and get 3 Win Themes, KPI rationale, and channel-ready copy with hashtags.",
+    "cta": "Start free trial",
+    "angle": "숫자형-proposal (fixes 'no manuscript' blocker via business/RFP use case)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.38498375,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 80.0,
+    "maybe": 16.0,
+    "yes": 4.0
+  },
+  "mean_trust": 2.56,
+  "top_hook_phrases": [
+    [
+      "KPI rationale",
+      6
+    ],
+    [
+      "channel-ready copy with hashtags",
+      3
+    ],
+    [
+      "One RFP upload, 3 Win Themes",
+      2
+    ],
+    [
+      "One RFP upload",
+      2
+    ],
+    [
+      "Win Themes",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "She runs operations, not proposal/RFP bids, so a Win Themes generator doesn't fit her daily work.",
+      1
+    ],
+    [
+      "A transportation service attendant has no reason to draft RFP win themes or marketing copy.",
+      1
+    ],
+    [
+      "Floor retail sales work doesn't involve RFPs, making the core promise irrelevant to him now.",
+      1
+    ],
+    [
+      "A bedside nurse near part-time retirement has zero use for RFP or marketing-copy tools.",
+      1
+    ],
+    [
+      "Auditing and ESG reporting don't require RFP win themes or hashtag copy.",
+      1
+    ]
+  ]
+}

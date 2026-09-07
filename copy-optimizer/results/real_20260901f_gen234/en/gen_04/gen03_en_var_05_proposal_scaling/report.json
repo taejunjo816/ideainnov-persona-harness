@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen03_en_var_05_proposal_scaling",
+  "variant": {
+    "id": "gen03_en_var_05_proposal_scaling",
+    "headline": "One proposal, many deliverables",
+    "body": "One proposal scales into patent planning, specs, and an IR pitch deck, backed by economic and legal analysis.",
+    "cta": "Start free",
+    "angle": "Proposal-to-deliverables scaling for business professionals (widens audience beyond paper writers)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.210999,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 40.0,
+    "no": 52.0,
+    "yes": 8.0
+  },
+  "mean_trust": 2.48,
+  "top_hook_phrases": [
+    [
+      "One proposal",
+      5
+    ],
+    [
+      "One proposal scales",
+      3
+    ],
+    [
+      "economic and legal analysis",
+      3
+    ],
+    [
+      "patent planning",
+      2
+    ],
+    [
+      "specs",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "Patent planning and IR pitch decks fall outside her operations-and-sustainability consulting focus.",
+      1
+    ],
+    [
+      "Patent planning and IR pitch decks have nothing to do with her transportation service work.",
+      1
+    ],
+    [
+      "He's still a floor salesperson, not yet launching the tech boutique that would need patents or IR decks.",
+      1
+    ],
+    [
+      "Nothing here connects to nursing, palliative care, or her community caregiver workshops.",
+      1
+    ],
+    [
+      "The patent-and-IR startup framing feels aimed at founders, not an auditor building compliance expertise.",
+      1
+    ]
+  ]
+}

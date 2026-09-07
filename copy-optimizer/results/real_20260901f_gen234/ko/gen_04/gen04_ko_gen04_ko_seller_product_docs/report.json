@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen04_ko_gen04_ko_seller_product_docs",
+  "variant": {
+    "id": "gen04_ko_gen04_ko_seller_product_docs",
+    "headline": "상품 서류도 형식 걱정 없이 변환",
+    "body": "상세 문서를 HWPX·DOCX·PDF 등 47개 형식으로 오가도 표·그림 그대로. PDF 속 그림 추출해 재삽입, ₩2,800/호출.",
+    "cta": "무료 체험 시작",
+    "angle": "온라인 판매 걸림돌 해소: 상품 관련 서류의 형식 변환 상황으로 업무 관련성 부여",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.4384175,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 60.0,
+    "yes": 20.0,
+    "no": 20.0
+  },
+  "mean_trust": 3.52,
+  "top_hook_phrases": [
+    [
+      "형식 걱정 없이 변환",
+      5
+    ],
+    [
+      "표·그림 그대로",
+      4
+    ],
+    [
+      "PDF 속 그림 추출해 재삽입",
+      3
+    ],
+    [
+      "무료 체험 시작",
+      3
+    ],
+    [
+      "HWPX·DOCX·PDF",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "회사에서 쓰는 회계 문서는 정해진 양식이라 굳이 변환 도구를 찾을 필요를 못 느낄 수 있다.",
+      1
+    ],
+    [
+      "기계공학 시험 현장 실무자라 문서 형식 변환 수요가 크지 않아 관심 밖이다.",
+      1
+    ],
+    [
+      "전문 디자인 툴을 이미 쓰는 그에게 범용 변환기의 그림 추출 품질이 미덥지 않을 수 있다.",
+      1
+    ],
+    [
+      "간호조무사 업무에 문서 형식 변환이 개입할 일이 거의 없다.",
+      1
+    ],
+    [
+      "손해 사정 문서는 회사 시스템을 쓰는 경우가 많아 외부 변환 도구 필요성이 낮을 수 있다.",
+      1
+    ]
+  ]
+}

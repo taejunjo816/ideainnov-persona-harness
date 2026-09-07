@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_13_en_역설_반전_tos_safe",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The vague 'free matching' offer has no clear tie to her operations leadership or gardening interests.",
+      "trust": 2,
+      "reasoning": "As a 58-year-old operations specialist focused on strategic leadership, this cryptic automation-plus-ToS pitch signals nothing relevant to her goals."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The copy's automation-and-matching claim connects to nothing in her transportation service or community work.",
+      "trust": 2,
+      "reasoning": "A 60-year-old transit attendant into gardening and community theater sees no relevance in a ToS-safe automated matching tool."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "maybe",
+      "hook_phrase": "Automated",
+      "blocker": "The vague 'free matching' target leaves him unsure whether it helps his retail-management or tech ambitions.",
+      "trust": 3,
+      "reasoning": "As a STEM-educated PC builder who researches tech trends, the automation-with-manual-submit hook intrigues his engineering curiosity even if the offer is unclear."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A cryptic automated-matching product has no bearing on her palliative-care and mentoring focus.",
+      "trust": 2,
+      "reasoning": "A 64-year-old nurse drawn to knitting, birdwatching and hospice work finds no personal relevance in ToS-safe automation copy."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "maybe",
+      "hook_phrase": "Automated",
+      "blocker": "The unexplained 'matching' and shortcut-flavored ToS framing feel too vague for an audit-minded professional.",
+      "trust": 2,
+      "reasoning": "An accountant interested in AI-driven analytics notices the automation hook but her precision demands clearer specifics before trusting."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The ambiguous matching pitch offers nothing tied to his retail management path or Mexican-culture goals.",
+      "trust": 2,
+      "reasoning": "A 26-year-old retail salesperson focused on store leadership sees no connection in a vague ToS-safe automation ad."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The unclear automated-matching offer doesn't relate to his CPA track or outdoor hobbies.",
+      "trust": 2,
+      "reasoning": "A detail-obsessed accountant hiking and studying finance has no use for a cryptic ToS-safe automation product."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A ToS-safe automated matching tool is irrelevant to her nursing, art, and community-health pursuits.",
+      "trust": 2,
+      "reasoning": "A 52-year-old nurse passionate about art therapy and community care finds nothing meaningful in this automation pitch."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "ToS-safe",
+      "blocker": "The circumvention-flavored 'ToS-safe' framing feels risky to an HR professional who guards compliance.",
+      "trust": 2,
+      "reasoning": "A seasoned HR worker championing inclusive policies would distrust a product hinting at gaming platform terms of service."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The vague matching automation connects to nothing in his logistics management or watercolor life.",
+      "trust": 2,
+      "reasoning": "A 57-year-old operations manager focused on sustainable supply chains and art sees no relevance in cryptic automation copy."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "Automated - except the last click",
+      "blocker": "The undefined 'matching' leaves an automation-savvy manager unsure what the tool actually does.",
+      "trust": 3,
+      "reasoning": "An IT manager who champions AI process automation and DIY electronics finds the automate-except-final-click paradox professionally intriguing."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "no",
+      "hook_phrase": "ToS-safe",
+      "blocker": "His skeptical eye on shortcuts makes the ToS-safe automation framing feel like a red flag.",
+      "trust": 2,
+      "reasoning": "A STEM-grad kitchen technologist who distrusts shortcuts reads 'ToS-safe automation' as exactly the kind of hack he avoids."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A cryptic automated matching product bears no relation to her caregiving and community goals.",
+      "trust": 2,
+      "reasoning": "A 60-year-old home health aide into gardening and senior outreach finds no relevance in this vague automation ad."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The ambiguous automation-matching pitch has nothing to do with her hair artistry or salon dreams.",
+      "trust": 2,
+      "reasoning": "A 23-year-old hairstylist focused on color correction and cultural branding sees no connection in a ToS-safe automation ad."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "maybe",
+      "hook_phrase": "Automated",
+      "blocker": "The vague 'free matching' target doesn't clarify how it serves a finance specialist's needs.",
+      "trust": 2,
+      "reasoning": "A financial specialist who explores fintech gadgets notices the automation hook but needs clearer purpose before trusting the offer."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "maybe",
+      "hook_phrase": "Everything up to submission runs on its own",
+      "blocker": "The undefined 'matching' subject makes it unclear if it aids his supply-chain ambitions.",
+      "trust": 3,
+      "reasoning": "A logistics-focused mover who reads about automation and loves strategy is curious about a system that runs everything but the final submit."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "maybe",
+      "hook_phrase": "Automated - except the last click",
+      "blocker": "The vague matching scope leaves a software engineer unsure whether it's worth exploring.",
+      "trust": 3,
+      "reasoning": "A STEM computer professional and meticulous planner finds the automate-except-the-last-click design clever, though the unclear purpose gives pause."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "maybe",
+      "hook_phrase": "Automated",
+      "blocker": "The undefined 'matching' offer doesn't obviously map to his renewable-energy business goals.",
+      "trust": 2,
+      "reasoning": "A restless STEM CEO who runs coding workshops is momentarily drawn to the automation hook but wants substance behind it."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "Automated",
+      "blocker": "The vague matching product doesn't connect to his engineering, DIY, or sustainability interests.",
+      "trust": 2,
+      "reasoning": "A hands-on engineer reading tech trends notes the automation word but the ambiguous offer offers nothing relevant to his work."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A cryptic automated matching tool has no relevance to her auto-detailing or art pursuits.",
+      "trust": 2,
+      "reasoning": "A 43-year-old vehicle detailer focused on eco-friendly detailing and painting sees no connection in this vague automation ad."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The ambiguous automation-matching pitch doesn't relate to his facilities-management or fishing life.",
+      "trust": 2,
+      "reasoning": "A 47-year-old janitor pursuing facilities certifications finds no personal relevance in a cryptic ToS-safe automation offer."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vague automated matching product means nothing to his aircraft-mechanic and country-life world.",
+      "trust": 2,
+      "reasoning": "A 22-year-old aircraft mechanic into fishing and model planes sees no connection in this abstract automation copy."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The cryptic matching automation is irrelevant to her speech-pathology and telehealth ambitions.",
+      "trust": 2,
+      "reasoning": "A methodical 55-year-old speech-language pathologist focused on senior care finds no relevance in this vague automation pitch."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The undefined automated-matching offer connects to nothing in his stockroom or woodworking life.",
+      "trust": 2,
+      "reasoning": "A 58-year-old stocker into fishing and BBQ sees no personal relevance in a cryptic ToS-safe automation ad."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "The vague automation-matching claim has no bearing on her finance career or quiet hobbies.",
+      "trust": 2,
+      "reasoning": "A 62-year-old financial manager valuing disciplined analysis finds this cryptic ToS-safe automation offer both irrelevant and unconvincing."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.36752799999999997,
+    "duration_ms": 67237,
+    "session_id": "adc0e79a-8b1b-44a0-9046-9796aaf62188"
+  }
+}

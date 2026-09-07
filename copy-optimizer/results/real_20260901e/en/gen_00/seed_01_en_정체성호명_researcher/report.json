@@ -1,0 +1,62 @@
+{
+  "variant_id": "seed_01_en_정체성호명_researcher",
+  "variant": {
+    "id": "seed_01_en_정체성호명_researcher",
+    "lang": "en",
+    "headline": "Built for grad students and researchers",
+    "body": "A built-in Q1 reviewer checks your work, then returns a draft with editable equations and a reference list.",
+    "cta": "Start free now",
+    "angle": "정체성호명-researcher",
+    "hook_type": "정체성호명",
+    "hook_template": "특정 독자 직접 호명 + 그 독자에게 맞춘 약속",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '정체성호명' 가중 비중 72011.6 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '특정 독자 직접 호명 + 그 독자에게 맞춘 약속' 적용",
+    "evidence": [
+      "programs.paper.differentiators_en[0]",
+      "programs.paper.sends_en[2]"
+    ],
+    "products_program": "paper"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.17833174999999998,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 92.0,
+    "maybe": 8.0
+  },
+  "mean_trust": 2.12,
+  "top_hook_phrases": [
+    [
+      "researchers",
+      4
+    ],
+    [
+      "grad students and researchers",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "She is an operations specialist with an arts background, not a grad student or researcher writing papers with equations.",
+      1
+    ],
+    [
+      "A transportation attendant with some college has no need for a research-paper reviewer tool.",
+      1
+    ],
+    [
+      "He is a retail salesperson, not a grad student or researcher, so the academic tool doesn't fit him.",
+      1
+    ],
+    [
+      "A bedside nurse writing a caregiver guidebook doesn't need Q1 review or editable equations.",
+      1
+    ],
+    [
+      "She is an accountant pursuing a CPA, not writing academic research papers.",
+      1
+    ]
+  ]
+}

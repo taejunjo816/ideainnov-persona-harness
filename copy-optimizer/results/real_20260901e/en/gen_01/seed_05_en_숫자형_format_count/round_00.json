@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_05_en_숫자형_format_count",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "Convert across 47 formats",
+      "blocker": "As a US operations specialist she has no use for a Korean-priced developer conversion API with HWPX formats.",
+      "trust": 3,
+      "reasoning": "Her operations mindset likes efficiency, but Korean-won per-call pricing and HWPX formats signal a niche developer tool irrelevant to her work."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant with book-club and gardening interests has zero need for a document-conversion API.",
+      "trust": 2,
+      "reasoning": "Nothing in her transportation-attendant work or community hobbies connects to converting HWPX/DOCX files via a paid API."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "maybe",
+      "hook_phrase": "47 formats",
+      "blocker": "The Korean-won pricing and HWPX format suggest a niche tool unrelated to his retail or PC-building projects.",
+      "trust": 3,
+      "reasoning": "His STEM background and open-source hardware tinkering make the technical format-count pitch mildly intriguing, though he has no clear document-conversion need."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A retiring nurse focused on palliative care has no use for a document-conversion API.",
+      "trust": 2,
+      "reasoning": "Her nursing, knitting, and birdwatching life gives no reason to care about converting files across 47 technical formats."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX, DOCX, PDF",
+      "blocker": "The per-call API pricing in Korean won feels like a developer tool, not the accounting software she actually uses.",
+      "trust": 3,
+      "reasoning": "As an accountant handling DOCX and PDF reports she notices the format mention, but a Korean-priced conversion API sits outside her workflow."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young retail salesperson focused on store management sees no relevance in a document-conversion API.",
+      "trust": 2,
+      "reasoning": "His retail-management ambitions and outdoor hobbies give no reason to pay per call for format conversion."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "DOCX, PDF",
+      "blocker": "He handles finances with standard software, not a Korean-priced per-call conversion API with unfamiliar HWPX formats.",
+      "trust": 3,
+      "reasoning": "The DOCX/PDF mention brushes his accounting work, but a per-call API in won is far from his straightforward tax-and-audit tasks."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A community-focused nurse and salsa dancer has no need for a technical file-conversion service.",
+      "trust": 2,
+      "reasoning": "Her nursing and art-therapy pursuits are unrelated to converting documents across 47 formats via a paid API."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "47 formats",
+      "blocker": "HR paperwork uses standard tools, not a Korean-won developer API for HWPX conversions.",
+      "trust": 3,
+      "reasoning": "Though HR involves documents, her people-focused, low-tech style makes a per-call format-conversion API feel foreign and unnecessary."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "Convert across 47 formats",
+      "blocker": "The Korean-won API pricing and HWPX formats are irrelevant to his Midwestern agricultural logistics work.",
+      "trust": 3,
+      "reasoning": "His logistics and sustainability focus values efficiency, but a paid conversion API with Korean formats doesn't fit his operational reality."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "starting at ₩2,800 per call",
+      "blocker": "He may not need document conversion in his cloud-and-automation IT roadmap, and Korean-won pricing signals a non-US product.",
+      "trust": 4,
+      "reasoning": "As an IT manager with API and Raspberry-Pi fluency he understands per-call pricing and could see integration value, making the pitch credible."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "no",
+      "hook_phrase": "47 formats",
+      "blocker": "A food-prep supervisor building smart-kitchen gadgets has no document-conversion workflow to justify this.",
+      "trust": 3,
+      "reasoning": "His STEM and gadget curiosity notes the tech framing, but converting HWPX/DOCX files is unrelated to his restaurant and food-science pursuits."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide tending seniors and gardens has no use for a file-conversion API.",
+      "trust": 2,
+      "reasoning": "Her caregiving and New-England-craft life offers no connection to paid document conversion across technical formats."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young hairstylist focused on beauty and dance has no reason to convert document formats.",
+      "trust": 2,
+      "reasoning": "Her salon and creative pursuits are entirely disconnected from a per-call document-conversion API."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "47 formats",
+      "blocker": "As a financial specialist he uses standard tools, not a Korean-priced conversion API with unfamiliar HWPX formats.",
+      "trust": 3,
+      "reasoning": "His fintech gadget interest catches the number-driven pitch, but per-call format conversion in won doesn't match his advisory workflow."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "47 formats",
+      "blocker": "His logistics and warehouse focus involves inventory data, not document-format conversion via a paid API.",
+      "trust": 3,
+      "reasoning": "He reads logistics-tech nonfiction but sees no fit between his freight-moving work and a Korean-priced document-conversion service."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "maybe",
+      "hook_phrase": "starting at ₩2,800 per call",
+      "blocker": "As a software engineer she might not need document conversion specifically, and won pricing signals a non-US API.",
+      "trust": 4,
+      "reasoning": "Her STEM software background makes per-call API pricing instantly legible and potentially useful for a project, lending the copy credibility."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "maybe",
+      "hook_phrase": "47 formats",
+      "blocker": "A busy CEO won't personally adopt a per-call conversion API unless it clearly serves his renewable-tech venture.",
+      "trust": 3,
+      "reasoning": "His STEM background and community-coding interest let him grasp the tool's value, though it's peripheral to his executive priorities."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hands-on engineer restoring cars and playing guitar has no document-conversion need for this API.",
+      "trust": 2,
+      "reasoning": "His mechanical engineering and DIY hobbies don't intersect with paid format conversion across HWPX and DOCX files."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An auto detailer and desert artist has no connection to a document-conversion API.",
+      "trust": 2,
+      "reasoning": "Her vehicle-cleaning work and art hobbies are wholly unrelated to converting files across technical document formats."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A janitor pursuing facilities management has no document-conversion workflow requiring this API.",
+      "trust": 2,
+      "reasoning": "His cleaning and facilities ambitions, plus fishing and woodworking hobbies, give no reason to pay per call for format conversion."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young aircraft mechanic into fishing and country music has no use for a file-conversion service.",
+      "trust": 2,
+      "reasoning": "His hands-on aviation-maintenance work and rural hobbies are completely disconnected from a paid document-conversion API."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "no",
+      "hook_phrase": "DOCX, PDF",
+      "blocker": "A speech-language pathologist uses clinical documents but not a Korean-priced per-call conversion API.",
+      "trust": 3,
+      "reasoning": "The DOCX/PDF mention brushes her report-writing, but a technical conversion API with HWPX formats is irrelevant to her telehealth practice."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A stocker nearing retirement with woodworking hobbies has no document-conversion need.",
+      "trust": 2,
+      "reasoning": "His warehouse and craft-fair life offers no touchpoint with a paid API converting files across 47 technical formats."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "HWPX, DOCX, PDF",
+      "blocker": "A finance veteran uses established tools, not a Korean-won per-call API with unfamiliar HWPX formats.",
+      "trust": 3,
+      "reasoning": "The document-format mention grazes her finance reporting, but per-call conversion pricing in won feels foreign to her quiet, standard workflow."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.2177435,
+    "duration_ms": 76306,
+    "session_id": "6a272b3e-f8e7-41d9-a851-dedbdd2beca0"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "generation": 3,
+  "ranking": [
+    {
+      "variant_id": "gen03_ko_gen02_ko_v1_convert_everyday",
+      "score": 68.0,
+      "hook_type": null,
+      "headline": "문서 변환 47개 형식, 호출당 2,800원"
+    },
+    {
+      "variant_id": "gen03_ko_gen02_ko_v3_table_image_intact",
+      "score": 67.84,
+      "hook_type": null,
+      "headline": "표·그림 안 깨지는 문서 변환"
+    },
+    {
+      "variant_id": "gen01_ko_v2_question_table_formula",
+      "score": 52.64,
+      "hook_type": null,
+      "headline": "표와 수식, 정말 안 깨질까요?"
+    },
+    {
+      "variant_id": "gen01_ko_v3_number_formats_price",
+      "score": 51.52,
+      "hook_type": null,
+      "headline": "형식 변환 47개, 호출당 2,800원"
+    },
+    {
+      "variant_id": "gen01_ko_v4_biz_beyond_paper",
+      "score": 51.2,
+      "hook_type": null,
+      "headline": "논문만? 사업계획서도 자동으로"
+    },
+    {
+      "variant_id": "gen03_ko_gen02_ko_v2_rfp_to_bizplan",
+      "score": 48.0,
+      "hook_type": null,
+      "headline": "RFP를 사업계획서로 자동 구조화"
+    },
+    {
+      "variant_id": "gen03_ko_gen02_ko_v5_brand_launch_strategy",
+      "score": 37.12,
+      "hook_type": null,
+      "headline": "브랜드 론칭, 사업계획서부터 전략까지"
+    },
+    {
+      "variant_id": "gen03_ko_gen02_ko_v4_free_journal",
+      "score": 20.16,
+      "hook_type": null,
+      "headline": "SCI 저널 추천, 저널 매칭은 무료"
+    }
+  ],
+  "elites": [
+    "gen03_ko_gen02_ko_v1_convert_everyday",
+    "gen03_ko_gen02_ko_v3_table_image_intact",
+    "gen01_ko_v2_question_table_formula"
+  ]
+}

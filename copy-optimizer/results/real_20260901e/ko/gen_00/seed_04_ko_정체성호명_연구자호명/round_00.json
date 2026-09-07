@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_04_ko_정체성호명_연구자호명",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "순천에서 경리 실무만 하는 전문대 졸업자로 논문 초안 작성과는 아무 접점이 없다.",
+      "trust": 2,
+      "reasoning": "경리 사무원이자 총무과 이직이 목표인 23세라 SCI 논문 작성 도구는 직무·관심과 완전히 무관하다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "리빙 소품 브랜드를 꿈꾸는 온라인 판매원에게 학술 논문 도구는 전혀 필요 없다.",
+      "trust": 2,
+      "reasoning": "통영에서 리빙 소품 브랜드 론칭을 꿈꾸는 판매원에게 SCI 논문 심사 루프는 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "현장 시험원이자 기계정비산업기사를 준비하는 사람에게 SCI 논문은 목표와 무관하다.",
+      "trust": 2,
+      "reasoning": "기계공학 시험원이지만 국가기술자격증과 연봉 상승이 목표라 SCI 논문 초안 도구는 필요 없다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "평온한 정년퇴직을 바라는 미디어 디자이너에게 논문 심사 루프는 무관하다.",
+      "trust": 2,
+      "reasoning": "광주의 미디어 콘텐츠 디자이너로 학술 연구와 접점이 없어 이 정체성 호명이 자신을 부르지 않는다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "무역 실무와 내 집 마련이 관심사인 사무원에게 논문 초안 서비스는 쓸모가 없다.",
+      "trust": 2,
+      "reasoning": "ICT 전공이지만 익산에서 무역 실무 책임자를 지향하는 가장이라 SCI 논문 도구와는 무관하다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "실무 숙련 유지가 목표인 간호조무사에게 학술 논문 자동 작성은 관심 밖이다.",
+      "trust": 2,
+      "reasoning": "안산의 간호조무사로 승진보다 실무 만족을 추구해 SCI 논문 심사 루프는 삶과 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "no",
+      "hook_phrase": "대학원생과 연구원",
+      "blocker": "손해사정 실무자로 학술 논문을 쓸 일이 없어 정체성 호명이 자신을 겨냥하지 않는다.",
+      "trust": 3,
+      "reasoning": "보건복지 전공 대졸이지만 손해사정 실무와 노인 상담소 운영이 목표라 논문 작성 도구는 불필요하다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고졸 실전파 마케터에게 SCI Q1 논문 심사 루프는 이해·필요 모두 없는 영역이다.",
+      "trust": 2,
+      "reasoning": "현장 실무형 마케팅 전문가이자 은퇴 후 취미형 상담소를 꿈꿔 학술 논문과는 완전히 무관하다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "사회복지사 자격증이 목표인 교육 보조원에게 SCI 논문 초안은 쓸모가 없다.",
+      "trust": 2,
+      "reasoning": "고졸 교육 보조원으로 월급 안정과 자녀 교육비가 관심사라 학술 논문 도구는 전혀 필요 없다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "연구원을 위해 만들었습니다",
+      "blocker": "산업체 고무 공정 연구원이자 기술사 준비생이라 SCI 저널 논문 투고와는 결이 다르다.",
+      "trust": 3,
+      "reasoning": "공학 대졸 '연구원' 정체성 호명이 눈길을 끌지만 SCI 논문보다 기술사·내 집 마련이 실제 목표다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "no",
+      "hook_phrase": "대학원생과 연구원",
+      "blocker": "대학원 학위는 있으나 현재는 소매 마케터로 학술 논문 작성과 무관하다.",
+      "trust": 3,
+      "reasoning": "교육학 대학원 출신이나 소매점 운영 시스템화가 목표라 SCI 논문 초안 도구는 지금 삶과 무관하다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "법학 전공 상품 기획자로 구독형 서비스가 목표라 SCI 논문 심사 루프는 접점이 없다.",
+      "trust": 2,
+      "reasoning": "세종의 임대 상품 기획자로 라이프스타일 서비스 런칭을 꿈꿔 학술 논문 도구와는 무관하다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "통신사 마케터로 학술 논문을 쓸 일이 없어 연구자 호명이 자신을 부르지 않는다.",
+      "trust": 2,
+      "reasoning": "예술인문 대졸 마케팅 전문가로 실무 입지와 워라밸이 목표라 SCI 논문 심사 루프는 관심 밖이다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "maybe",
+      "hook_phrase": "대학원생과 연구원을 위해 만들었습니다",
+      "blocker": "자연과학 대학원 출신이나 현재는 경영지원 관리자라 논문 투고 실무에서 멀어져 있다.",
+      "trust": 3,
+      "reasoning": "자연과학·수학 대학원 이력과 완벽주의 성향에 정체성 호명이 닿지만 현 직무는 논문과 거리가 있다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담 관리로 전환하려는 상담원에게 SCI 논문 초안은 무관한 서비스다.",
+      "trust": 2,
+      "reasoning": "대구의 전화 상담원으로 후배 양성과 업무 강도 조절이 목표라 학술 논문 도구는 필요 없다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 선임으로 안정적 정년이 목표인 사람에게 논문 심사 루프는 무관하다.",
+      "trust": 2,
+      "reasoning": "고객 상담 사무원으로 멘토 역할과 안정 근무를 지향해 SCI 논문 초안 서비스와는 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "maybe",
+      "hook_phrase": "연구원을 위해 만들었습니다",
+      "blocker": "ICT 대학원 출신이지만 시스템 운영자로 논문을 쓰지 않아 실사용 필요가 없다.",
+      "trust": 3,
+      "reasoning": "정보통신 대학원 학위 보유자로 호명에 눈이 가지만 현업은 시스템 무결성 유지라 논문 작성과 멀다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "부동산 감정 실무자로 학술 논문을 쓸 일이 없어 연구자 호명이 무관하다.",
+      "trust": 2,
+      "reasoning": "서비스 전공 대졸 감정평가사로 선임 입지와 멘토 역할이 목표라 SCI 논문 도구는 필요 없다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "공학 대졸이지만 농기계 기술 영업직이라 학술 논문 초안과는 접점이 없다.",
+      "trust": 2,
+      "reasoning": "송도의 기술 영업원으로 현장 신뢰 구축이 목표라 SCI 논문 심사 루프는 직무와 무관하다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "은퇴를 준비하는 음식 서비스 종사자에게 학술 논문 도구는 전혀 무관하다.",
+      "trust": 1,
+      "reasoning": "63세 음식 서비스 종사원으로 안정 생활과 건강이 관심사라 SCI 논문 초안은 삶과 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "베테랑 치과위생사로 논문을 쓸 일이 없어 정체성 호명이 자신을 부르지 않는다.",
+      "trust": 2,
+      "reasoning": "아산의 치과위생사로 숙련도 유지와 워라밸이 목표라 학술 논문 자동 작성 서비스는 불필요하다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "경영기획 실무자로 학술 논문 투고와 무관해 연구자 호명이 겨냥하지 않는다.",
+      "trust": 2,
+      "reasoning": "경영행정법 대졸 기획 사무원으로 업무 자동화와 휴식 확보가 목표라 SCI 논문 도구는 관심 밖이다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "초등학교 교사로 SCI 저널 논문을 쓸 일이 없어 정체성 호명이 자신과 무관하다.",
+      "trust": 2,
+      "reasoning": "교육 전공 초등교사로 다정한 교사가 목표라 대학원생·연구원 대상 논문 도구는 직무와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "토목 기술자로 기술사가 목표라 SCI 저널 논문 초안 서비스와는 결이 다르다.",
+      "trust": 2,
+      "reasoning": "공학 대졸 토목 기술자로 현장 선임 인정과 기술사 취득이 목표라 학술 논문 심사 루프는 무관하다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유치원 교사로 학술 논문과 접점이 없어 연구자 호명이 자신을 부르지 않는다.",
+      "trust": 2,
+      "reasoning": "교육 전공 유치원 교사로 아이들의 예술 공간 마련이 목표라 SCI 논문 초안 도구는 삶과 무관하다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.420698,
+    "duration_ms": 90547,
+    "session_id": "60eacfc3-81f8-4b02-bae3-716105da82e4"
+  }
+}

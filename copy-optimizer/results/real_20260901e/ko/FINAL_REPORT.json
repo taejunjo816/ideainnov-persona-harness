@@ -1,0 +1,211 @@
+{
+  "lang": "ko",
+  "seed": 42,
+  "generations_requested": 2,
+  "generations_run": 2,
+  "stopped_reason": "generations_reached",
+  "weights": {
+    "w_yes": 100.0,
+    "w_maybe": 40.0,
+    "w_trust": 8.0
+  },
+  "winning_variant": {
+    "id": "gen01_ko_v2_question_table_formula",
+    "headline": "표와 수식, 정말 안 깨질까요?",
+    "body": "47개 형식을 오가며 변환해도 편집 가능한 OMML 수식과 표 레이아웃이 그대로 남습니다. 직접 열어 확인해 보세요.",
+    "cta": "무료 체험 시작",
+    "angle": "질문형-변환신뢰(범용 문서 사용자 대상)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "winning_score": 55.68,
+  "winning_generation": 1,
+  "winning_report": {
+    "variant_id": "gen01_ko_v2_question_table_formula",
+    "variant": {
+      "id": "gen01_ko_v2_question_table_formula",
+      "headline": "표와 수식, 정말 안 깨질까요?",
+      "body": "47개 형식을 오가며 변환해도 편집 가능한 OMML 수식과 표 레이아웃이 그대로 남습니다. 직접 열어 확인해 보세요.",
+      "cta": "무료 체험 시작",
+      "angle": "질문형-변환신뢰(범용 문서 사용자 대상)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    "n_personas": 25,
+    "batch_size": 25,
+    "n_calls": 1,
+    "total_cost_usd": 0.43968175,
+    "dry_run": false,
+    "n": 25,
+    "would_click_pct": {
+      "maybe": 36.0,
+      "no": 48.0,
+      "yes": 16.0
+    },
+    "mean_trust": 3.16,
+    "top_hook_phrases": [
+      [
+        "편집 가능한 OMML 수식과 표 레이아웃이 그대로",
+        4
+      ],
+      [
+        "표 레이아웃",
+        3
+      ],
+      [
+        "47개 형식을 오가며 변환해도",
+        3
+      ],
+      [
+        "표 레이아웃이 그대로 남습니다",
+        2
+      ],
+      [
+        "표와 수식",
+        1
+      ]
+    ],
+    "top_blockers": [
+      [
+        "경리 업무는 엑셀 표 중심이라 OMML 수식 보존이라는 핵심 소구가 자신의 실무와 어긋난다.",
+        1
+      ],
+      [
+        "리빙 소품 유통과 브랜드 론칭이 관심사라 학술적 문서 변환 도구는 일상 업무와 전혀 무관하다.",
+        1
+      ],
+      [
+        "시험 성적서가 정해진 사내 양식이라 다양한 포맷 변환 자유가 실무에 꼭 필요하진 않다.",
+        1
+      ],
+      [
+        "미디어 콘텐츠 디자인은 이미지·영상 작업 중심이라 수식·표 문서 변환 니즈가 거의 없다.",
+        1
+      ],
+      [
+        "무역 서류는 인보이스·계약서 표 위주라 OMML 수식 보존은 자신에게 과한 기능처럼 느껴진다.",
+        1
+      ]
+    ]
+  },
+  "score_progression": [
+    {
+      "generation": 0,
+      "population_size": 8,
+      "best_score": 37.76,
+      "best_variant_id": "seed_02_ko_숫자형_형식개수",
+      "mean_score": 24.88
+    },
+    {
+      "generation": 1,
+      "population_size": 8,
+      "best_score": 55.68,
+      "best_variant_id": "gen01_ko_v2_question_table_formula",
+      "mean_score": 39.08
+    }
+  ],
+  "top_hook_phrases_overall": [
+    [
+      "HWPX·DOCX·PDF",
+      14
+    ],
+    [
+      "47개 형식 상호 변환",
+      8
+    ],
+    [
+      "편집 가능한 OMML 객체",
+      8
+    ],
+    [
+      "무료 체험 시작",
+      6
+    ],
+    [
+      "수식 47개",
+      5
+    ]
+  ],
+  "top_blockers_overall": [
+    [
+      "경리 실무에 수식 47개짜리 학술 초안은 전혀 쓸 일이 없다.",
+      1
+    ],
+    [
+      "리빙 소품 브랜드 론칭에 편집 가능한 수식 초안은 아무 도움이 안 된다.",
+      1
+    ],
+    [
+      "기계정비산업기사 자격증 준비지 논문 초안 작성이 아니라서 실익이 없다.",
+      1
+    ],
+    [
+      "미디어 디자인 실무에 수식·심사위원 서비스는 관련성이 없다.",
+      1
+    ],
+    [
+      "무역 실무자라 수식 47개 논문 초안을 쓸 상황이 없다.",
+      1
+    ]
+  ],
+  "final_elites": [
+    {
+      "id": "gen01_ko_v2_question_table_formula",
+      "headline": "표와 수식, 정말 안 깨질까요?",
+      "body": "47개 형식을 오가며 변환해도 편집 가능한 OMML 수식과 표 레이아웃이 그대로 남습니다. 직접 열어 확인해 보세요.",
+      "cta": "무료 체험 시작",
+      "angle": "질문형-변환신뢰(범용 문서 사용자 대상)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen01_ko_v3_number_formats_price",
+      "headline": "형식 변환 47개, 호출당 2,800원",
+      "body": "HWPX·DOCX·PDF 등 47개 형식 상호 변환이 종량제 ₩2,800/호출. PDF 속 그림까지 추출해 결과 문서에 재삽입합니다.",
+      "cta": "무료 체험 시작",
+      "angle": "숫자형-형식개수(최저가·그림 추출 강조)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen01_ko_v4_biz_beyond_paper",
+      "headline": "논문만? 사업계획서도 자동으로",
+      "body": "RFP나 연구 결과를 사업계획서·연구제안서로 자동 구조화해 HWPX·DOC·PPT·PDF로 제공. 종량제 ₩4,100/호출로 시작합니다.",
+      "cta": "무료 체험 시작",
+      "angle": "확장-제안서(비연구자 걸림돌 해소)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    }
+  ],
+  "total_calls_this_lang": 17,
+  "total_cost_usd_this_lang": 6.4135,
+  "dry_run": false,
+  "seed_hook_type_mix": {
+    "숫자형": 2,
+    "정체성호명": 1,
+    "호기심갭": 1,
+    "질문형": 2,
+    "역설·반전": 1,
+    "부정형": 1
+  }
+}

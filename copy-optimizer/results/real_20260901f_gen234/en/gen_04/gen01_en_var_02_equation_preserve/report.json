@@ -1,0 +1,63 @@
+{
+  "variant_id": "gen01_en_var_02_equation_preserve",
+  "variant": {
+    "id": "gen01_en_var_02_equation_preserve",
+    "headline": "Don't let equations become images",
+    "body": "Equations stay editable objects after conversion, never flattened - nothing to fix afterward.",
+    "cta": "Convert free",
+    "angle": "부정형-equation_preserve (keeps top hook phrases intact)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.19617049999999997,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 84.0,
+    "maybe": 16.0
+  },
+  "mean_trust": 3.08,
+  "top_hook_phrases": [
+    [
+      "Convert free",
+      3
+    ],
+    [
+      "Equations stay editable objects after conversion",
+      3
+    ],
+    [
+      "never flattened",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "Her operations and arts-humanities work never involves editable equations in documents.",
+      1
+    ],
+    [
+      "A transportation attendant has no documents with equations to convert.",
+      1
+    ],
+    [
+      "Retail sales work doesn't involve equation-heavy documents despite his tech hobbies.",
+      1
+    ],
+    [
+      "A nurse's charting and care work never touches editable math equations.",
+      1
+    ],
+    [
+      "Accounting uses spreadsheets and figures, not editable equation objects in documents.",
+      1
+    ]
+  ]
+}

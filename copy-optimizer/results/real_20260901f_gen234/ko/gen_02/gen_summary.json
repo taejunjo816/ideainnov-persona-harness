@@ -1,0 +1,28 @@
+{
+  "generation": 2,
+  "ranking": [
+    {
+      "variant_id": "gen01_ko_v4_biz_beyond_paper",
+      "score": 49.44,
+      "hook_type": null,
+      "headline": "논문만? 사업계획서도 자동으로"
+    },
+    {
+      "variant_id": "gen01_ko_v3_number_formats_price",
+      "score": 48.16,
+      "hook_type": null,
+      "headline": "형식 변환 47개, 호출당 2,800원"
+    },
+    {
+      "variant_id": "gen01_ko_v2_question_table_formula",
+      "score": 47.2,
+      "hook_type": null,
+      "headline": "표와 수식, 정말 안 깨질까요?"
+    }
+  ],
+  "elites": [
+    "gen01_ko_v4_biz_beyond_paper",
+    "gen01_ko_v3_number_formats_price",
+    "gen01_ko_v2_question_table_formula"
+  ]
+}

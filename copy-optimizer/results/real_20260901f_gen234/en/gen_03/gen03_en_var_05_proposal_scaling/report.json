@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen03_en_var_05_proposal_scaling",
+  "variant": {
+    "id": "gen03_en_var_05_proposal_scaling",
+    "headline": "One proposal, many deliverables",
+    "body": "One proposal scales into patent planning, specs, and an IR pitch deck, backed by economic and legal analysis.",
+    "cta": "Start free",
+    "angle": "Proposal-to-deliverables scaling for business professionals (widens audience beyond paper writers)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.37599675000000005,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 28.0,
+    "no": 64.0,
+    "yes": 8.0
+  },
+  "mean_trust": 2.64,
+  "top_hook_phrases": [
+    [
+      "economic and legal analysis",
+      4
+    ],
+    [
+      "patent planning",
+      3
+    ],
+    [
+      "IR pitch deck",
+      3
+    ],
+    [
+      "specs",
+      3
+    ],
+    [
+      "One proposal scales",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "Her operations focus is on efficiency and sustainability, not patents or investor decks, so the pitch feels tangential.",
+      1
+    ],
+    [
+      "A transportation attendant focused on senior service outreach has no use for patent planning or IR decks.",
+      1
+    ],
+    [
+      "He's still a floor salesperson years from launching a tech boutique, so the deliverables feel premature.",
+      1
+    ],
+    [
+      "A nurse pursuing palliative-care certification has zero connection to business proposals or investor decks.",
+      1
+    ],
+    [
+      "The patent and IR-deck framing skews toward founders, not an auditor focused on ESG and compliance.",
+      1
+    ]
+  ]
+}

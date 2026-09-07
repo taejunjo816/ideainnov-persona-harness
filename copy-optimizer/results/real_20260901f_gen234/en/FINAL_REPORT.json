@@ -1,0 +1,217 @@
+{
+  "lang": "en",
+  "seed": 43,
+  "generations_requested": 3,
+  "generations_run": 3,
+  "stopped_reason": "generations_reached",
+  "weights": {
+    "w_yes": 100.0,
+    "w_maybe": 40.0,
+    "w_trust": 8.0
+  },
+  "winning_variant": {
+    "id": "gen03_en_var_05_proposal_scaling",
+    "headline": "One proposal, many deliverables",
+    "body": "One proposal scales into patent planning, specs, and an IR pitch deck, backed by economic and legal analysis.",
+    "cta": "Start free",
+    "angle": "Proposal-to-deliverables scaling for business professionals (widens audience beyond paper writers)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "winning_score": 43.84,
+  "winning_generation": 4,
+  "winning_report": {
+    "variant_id": "gen03_en_var_05_proposal_scaling",
+    "variant": {
+      "id": "gen03_en_var_05_proposal_scaling",
+      "headline": "One proposal, many deliverables",
+      "body": "One proposal scales into patent planning, specs, and an IR pitch deck, backed by economic and legal analysis.",
+      "cta": "Start free",
+      "angle": "Proposal-to-deliverables scaling for business professionals (widens audience beyond paper writers)",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    "n_personas": 25,
+    "batch_size": 25,
+    "n_calls": 1,
+    "total_cost_usd": 0.210999,
+    "dry_run": false,
+    "n": 25,
+    "would_click_pct": {
+      "maybe": 40.0,
+      "no": 52.0,
+      "yes": 8.0
+    },
+    "mean_trust": 2.48,
+    "top_hook_phrases": [
+      [
+        "One proposal",
+        5
+      ],
+      [
+        "One proposal scales",
+        3
+      ],
+      [
+        "economic and legal analysis",
+        3
+      ],
+      [
+        "patent planning",
+        2
+      ],
+      [
+        "specs",
+        2
+      ]
+    ],
+    "top_blockers": [
+      [
+        "Patent planning and IR pitch decks fall outside her operations-and-sustainability consulting focus.",
+        1
+      ],
+      [
+        "Patent planning and IR pitch decks have nothing to do with her transportation service work.",
+        1
+      ],
+      [
+        "He's still a floor salesperson, not yet launching the tech boutique that would need patents or IR decks.",
+        1
+      ],
+      [
+        "Nothing here connects to nursing, palliative care, or her community caregiver workshops.",
+        1
+      ],
+      [
+        "The patent-and-IR startup framing feels aimed at founders, not an auditor building compliance expertise.",
+        1
+      ]
+    ]
+  },
+  "score_progression": [
+    {
+      "generation": 2,
+      "population_size": 3,
+      "best_score": 38.88,
+      "best_variant_id": "gen01_en_var_02_equation_preserve",
+      "mean_score": 34.507
+    },
+    {
+      "generation": 3,
+      "population_size": 8,
+      "best_score": 40.32,
+      "best_variant_id": "gen03_en_var_05_proposal_scaling",
+      "mean_score": 30.86
+    },
+    {
+      "generation": 4,
+      "population_size": 8,
+      "best_score": 43.84,
+      "best_variant_id": "gen03_en_var_05_proposal_scaling",
+      "mean_score": 32.24
+    }
+  ],
+  "top_hook_phrases_overall": [
+    [
+      "Automated",
+      20
+    ],
+    [
+      "KPI rationale",
+      14
+    ],
+    [
+      "nothing to fix afterward",
+      13
+    ],
+    [
+      "Equations stay editable objects after conversion",
+      12
+    ],
+    [
+      "economic and legal analysis",
+      11
+    ]
+  ],
+  "top_blockers_overall": [
+    [
+      "A transportation attendant has no documents with equations to convert.",
+      2
+    ],
+    [
+      "The copy never says what is being matched, so its relevance to her operations work is unclear.",
+      1
+    ],
+    [
+      "A ToS-safe automated matching tool has nothing to do with her transportation attendant work or community hobbies.",
+      1
+    ],
+    [
+      "It never names what gets matched or submitted, so the STEM tinkerer can't tell if it's useful or a spammy bot.",
+      1
+    ],
+    [
+      "Automated submission matching is irrelevant to a semi-retired nurse focused on palliative care and gardening.",
+      1
+    ]
+  ],
+  "final_elites": [
+    {
+      "id": "gen03_en_var_05_proposal_scaling",
+      "headline": "One proposal, many deliverables",
+      "body": "One proposal scales into patent planning, specs, and an IR pitch deck, backed by economic and legal analysis.",
+      "cta": "Start free",
+      "angle": "Proposal-to-deliverables scaling for business professionals (widens audience beyond paper writers)",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_en_gen04_en_var_01_rfp_business",
+      "headline": "One RFP upload, ready to pitch",
+      "body": "One upload becomes 3 Win Themes, KPI rationale, and channel-ready copy with hashtags.",
+      "cta": "Start free",
+      "angle": "RFP/business angle for operations & finance pros - answers non-researcher relevance blockers directly",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_en_gen04_en_var_02_proposal_scaling",
+      "headline": "One proposal, many deliverables",
+      "body": "One proposal scales into patent planning, specs, and an IR pitch deck, backed by economic and legal analysis.",
+      "cta": "Start free",
+      "angle": "Proposal-to-deliverables scaling to widen audience beyond paper writers",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    }
+  ],
+  "total_calls_this_lang": 21,
+  "total_cost_usd_this_lang": 6.5687,
+  "dry_run": false,
+  "seed_hook_type_mix": {
+    "역설·반전": 1,
+    "미분류": 1,
+    "부정형": 1
+  },
+  "population_origin": "resumed_elites:results\\real_20260901e",
+  "generation_start": 2
+}

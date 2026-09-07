@@ -1,0 +1,58 @@
+{
+  "variant_id": "seed_10_en_질문형_authority",
+  "variant": {
+    "id": "seed_10_en_질문형_authority",
+    "lang": "en",
+    "headline": "Rejected 3 times by a virtual reviewer?",
+    "body": "A built-in Q1 reviewer checks math, experiments, statistics, and the document, then sends it back until it holds up.",
+    "cta": "Start free now",
+    "angle": "질문형-authority",
+    "hook_type": "질문형",
+    "hook_template": "정체성/상황 호명 + 물음표로 끝나는 질문",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '질문형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '정체성/상황 호명 + 물음표로 끝나는 질문' 적용",
+    "evidence": [
+      "programs.paper.hooks_en.short[1]",
+      "programs.paper.hooks_en.thread[0]"
+    ],
+    "products_program": "paper"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.3465395,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 92.0,
+    "maybe": 8.0
+  },
+  "mean_trust": 2.04,
+  "top_hook_phrases": [
+    [
+      "checks math, experiments, statistics",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "She writes operations strategy and reads classics, not academic papers needing a Q1 journal reviewer.",
+      1
+    ],
+    [
+      "A transportation attendant with no research writing has zero use for a Q1 paper reviewer.",
+      1
+    ],
+    [
+      "He is a retail salesperson chasing store management, not writing peer-reviewed academic papers.",
+      1
+    ],
+    [
+      "She reads journals and plans a lay guidebook, not submitting statistics-heavy Q1 research papers.",
+      1
+    ],
+    [
+      "An accountant pursuing CPA and ESG reporting does not submit academic papers to Q1 journals.",
+      1
+    ]
+  ]
+}

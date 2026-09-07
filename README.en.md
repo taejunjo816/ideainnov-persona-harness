@@ -50,6 +50,58 @@ python3 data/prepare_personas.py --country Korea --n 2000 --slim --out data/pers
 - Sample bias: the 25 came from offsets 0–25, not a shuffle, so the sample skews older; `prepare_personas.py`'s reservoir sampling would fix this given internet access.
 - Proxy-mangled input: network limits forced the HF datasets-server API through a web proxy — of the rows retrieved, 15 came back as original Korean and 10 were paraphrased into English.
 
+[Extension — evolving ad copy with the same harness (copy-optimizer/)]
+
+Put ad copy where `product/ideainnov.json` sits, and change the verdict schema to "would you click this, and what stops you", and the same mechanism becomes a copy optimizer. That implementation is `copy-optimizer/`.
+
+How it runs: 8 human-written seed lines are judged by 25 personas and scored; the top 3 survive, and the blockers cited by the losers become raw material for 5 children in the next generation. Score is `100*P(yes) + 40*P(maybe) + 8*mean(trust)`.
+
+Results (2026-09-01 to 02, 5 generations, 26.45 USD actual spend over 76 calls):
+
+| Generation | Korean best | English best |
+|---:|---:|---:|
+| 0 | 37.76 | 37.12 |
+| 1 | 55.68 | 35.20 |
+| 2 | 49.44 | 38.88 |
+| 3 | 68.00 | 40.32 |
+| 4 | 72.16 | 43.84 |
+
+Winning copy is in `copy-optimizer/copy/winning_ko.json` and `winning_en.json`; full reports are under `copy-optimizer/results/`.
+
+Three things to keep in mind when reading those numbers.
+
+First, these are simulated click-intent scores predicted by synthetic personas, not measured click-through rates. They do not replace a real A/B test.
+
+Second, the English score rose while mean trust fell from 3.44 to 2.48. The score function weights stated intent at 100 and 40 but trust at only 8, so copy can win by becoming more tempting and less believable. Change the weights and a different line wins.
+
+Third, the two languages diverged onto different products. Korean converged on document conversion, English on the proposal engine, and the US sample judged the HWP format problem irrelevant to their work. That is consistent with it being a Korea-specific pain.
+
+The sample is filtered, not random. The rule and pass rates are in `data/ATTRIBUTION.en.md`.
+
+Running it:
+
+```bash
+cd copy-optimizer
+# free dry run - walks the whole pipeline with no paid call
+python3 optimize/evolve.py --lang both --generations 2 --dry-run   --personas-ko data/personas_kr_25_filtered.jsonl   --personas-en data/personas_us_25_filtered.jsonl --out-dir results/dry
+
+# real run. projects an upper-bound cost before the first paid call and refuses to start if it exceeds the cap
+python3 optimize/evolve.py --lang both --generations 2 --max-budget-usd 15   --personas-ko data/personas_kr_25_filtered.jsonl   --personas-en data/personas_us_25_filtered.jsonl --out-dir results/my_run
+
+# continue from a previous run's elites instead of restarting from seeds
+python3 optimize/evolve.py --lang both --generations 3 --resume-from results/my_run   --out-dir results/my_run_more
+```
+
+[Videos (video/)]
+
+`video/` holds three 22-second vertical reels, 1080x1920 at 30fps.
+
+- `릴스_persona_harness_KO_22s_2026-08-31.mp4` - introduces this harness itself (pre-launch demand validation), Korean
+- `릴스_ideainnov_카피최적화_KO_22s_2026-09-02_gen4.mp4` - generation 4 Korean winning copy
+- `릴스_ideainnov_카피최적화_EN_22s_2026-09-02_gen4.mp4` - generation 4 English winning copy
+
+The builder is `copy-optimizer/video/build_copy_reel_22s.py`. Every number in a video is pulled from the product fact sheet, and the builder refuses to render a claim it cannot source.
+
 [License]
 
 - Code: no license yet, all rights reserved until one is picked.

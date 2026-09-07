@@ -1,0 +1,70 @@
+{
+  "variant_id": "seed_16_en_부정형_equation_preserve",
+  "variant": {
+    "id": "seed_16_en_부정형_equation_preserve",
+    "lang": "en",
+    "headline": "Don't let your equations become images",
+    "body": "Equations stay editable objects after conversion, never flattened into images - nothing to fix afterward.",
+    "cta": "Start free now",
+    "angle": "부정형-equation_preserve",
+    "hook_type": "부정형",
+    "hook_template": "부정 명령('~하지 마세요') + 이유",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '부정형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '부정 명령('~하지 마세요') + 이유' 적용",
+    "evidence": [
+      "programs.hwp.differentiators_en[1]",
+      "programs.hwp.differentiators_en[0]"
+    ],
+    "products_program": "hwp"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.18570825000000002,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 80.0,
+    "maybe": 20.0
+  },
+  "mean_trust": 3.2,
+  "top_hook_phrases": [
+    [
+      "nothing to fix afterward",
+      2
+    ],
+    [
+      "Equations stay editable objects after conversion",
+      2
+    ],
+    [
+      "never flattened into images",
+      2
+    ],
+    [
+      "editable objects",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "As an arts-humanities operations specialist she never converts documents containing equations.",
+      1
+    ],
+    [
+      "A transportation attendant has no documents with equations to convert.",
+      1
+    ],
+    [
+      "Retail sales and PC-building don't involve authoring math-equation documents.",
+      1
+    ],
+    [
+      "A nurse's charting and caregiving never involves converting equation-laden documents.",
+      1
+    ],
+    [
+      "Accountants work in spreadsheets, not editable-equation documents that flatten into images.",
+      1
+    ]
+  ]
+}

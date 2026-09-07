@@ -1,0 +1,3 @@
+[variant gen04_en_gen04_en_var_02_proposal_scaling] lang=en 25 personas -> 1 call(s) of up to 25 (dry_run=False)
+  batch 0: 25 verdicts, cost=$0.3713, wall=70.5s -> round_00.json
+[variant gen04_en_gen04_en_var_02_proposal_scaling] done. n=25 would_click_pct={'maybe': 40.0, 'no': 56.0, 'yes': 4.0} mean_trust=2.56 total_cost_usd=0.3713

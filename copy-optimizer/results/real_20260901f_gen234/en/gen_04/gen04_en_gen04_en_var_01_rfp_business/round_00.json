@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen04_en_gen04_en_var_01_rfp_business",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "maybe",
+      "hook_phrase": "ready to pitch",
+      "blocker": "RFP response writing isn't her core operations work, so relevance feels indirect to daily tasks.",
+      "trust": 3,
+      "reasoning": "As an operations specialist eyeing boutique consulting, the pitch/Win Theme angle is adjacent but not central to her efficiency-focused work."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant has no use for RFP proposal-writing or marketing copy tools.",
+      "trust": 2,
+      "reasoning": "Her transit-service and community-outreach work is entirely unrelated to RFPs, Win Themes, or channel-ready marketing copy."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "maybe",
+      "hook_phrase": "channel-ready copy with hashtags",
+      "blocker": "RFP framing signals corporate bidding, not the retail floor sales he does today.",
+      "trust": 3,
+      "reasoning": "His e-commerce boutique ambition and data-driven mindset make the hashtag-ready copy mildly appealing, though RFPs aren't his current world."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A palliative-care nurse has zero need for RFP pitching or marketing content tools.",
+      "trust": 2,
+      "reasoning": "Her nursing, mentorship, and hospice goals have no connection to RFPs, Win Themes, or channel-ready copy."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "maybe",
+      "hook_phrase": "KPI rationale",
+      "blocker": "Audit and ESG work isn't about pitching RFPs, so the marketing output feels off-target.",
+      "trust": 3,
+      "reasoning": "The KPI rationale flickers interest for a detail-oriented accountant, but hashtags and pitch copy fall outside audit and compliance work."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "maybe",
+      "hook_phrase": "channel-ready copy with hashtags",
+      "blocker": "RFP language reads corporate, not fitting his current retail floor role.",
+      "trust": 3,
+      "reasoning": "His plans for a boutique grocery and e-commerce channels make the ready-to-post marketing copy somewhat relevant to future promotion needs."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "KPI rationale",
+      "blocker": "Accounting and forensic audit work has nothing to do with RFP pitching or hashtags.",
+      "trust": 3,
+      "reasoning": "Beyond the KPI phrase, this proposal/marketing tool is irrelevant to his CPA-track, tax-planning, work-life-balance focused ambitions."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A community-health nurse has no use for RFP or pitch-generation tools.",
+      "trust": 2,
+      "reasoning": "Her nursing, art-therapy, and cultural-health goals are wholly unrelated to RFPs, Win Themes, or channel-ready copy."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "maybe",
+      "hook_phrase": "ready to pitch",
+      "blocker": "HR culture and wellness work isn't proposal-bidding, so the RFP core misses her role.",
+      "trust": 3,
+      "reasoning": "A people-focused HR leader networks constantly but rarely writes RFPs, making the pitch angle only loosely relevant to her strategic goals."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "maybe",
+      "hook_phrase": "ready to pitch",
+      "blocker": "His logistics operations focus and planned consulting don't yet involve heavy RFP responses.",
+      "trust": 3,
+      "reasoning": "As a manager planning a lean-methodology consulting practice, the pitch-ready output has some appeal for future client proposals."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "One RFP upload",
+      "blocker": "IT managers receive RFPs but the marketing hashtags output doesn't match his technical work.",
+      "trust": 3,
+      "reasoning": "An IT leader driving digital transformation touches vendor RFPs, but Win Themes and channel copy skew toward sales, not his ops role."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A kitchen supervisor has no need for RFP proposal-writing or marketing copy generation.",
+      "trust": 2,
+      "reasoning": "His food-science and restaurant-operations ambitions have no overlap with RFPs, Win Themes, or channel-ready hashtags."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide has no professional use for RFP pitching tools.",
+      "trust": 2,
+      "reasoning": "Her caregiving, CNA-track, and senior-outreach goals are completely disconnected from RFPs and marketing copy generation."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "maybe",
+      "hook_phrase": "channel-ready copy with hashtags",
+      "blocker": "RFP context feels corporate and foreign to a young hairstylist's world.",
+      "trust": 3,
+      "reasoning": "Her planned bilingual YouTube channel and salon brand make the hashtag-ready social copy tempting, even if RFPs mean nothing to her."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "maybe",
+      "hook_phrase": "KPI rationale",
+      "blocker": "His advisory work is client relationship-driven, not RFP-response heavy right now.",
+      "trust": 3,
+      "reasoning": "A financial specialist launching a boutique advisory practice could value KPI rationale and pitch material when bidding for clients."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "maybe",
+      "hook_phrase": "One RFP upload",
+      "blocker": "As a current freight mover, RFP bidding is a distant future goal, not present work.",
+      "trust": 3,
+      "reasoning": "His long-term freight brokerage dream involves RFPs, but the marketing-copy output is peripheral to his logistics and supply-chain focus."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A software engineer doesn't write RFP pitches or marketing hashtags in her work.",
+      "trust": 3,
+      "reasoning": "Her engineering, AWS-certification, and mentorship goals don't connect to RFP responses, Win Themes, or channel-ready copy."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "maybe",
+      "hook_phrase": "3 Win Themes",
+      "blocker": "A CEO likely delegates RFP drafting rather than uploading documents himself.",
+      "trust": 3,
+      "reasoning": "As a growth-hungry CEO pursuing partnerships and revenue doubling, the Win Themes and pitch angle genuinely speaks to his business-development needs."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hands-on engineer has no need for RFP proposal writing or marketing copy.",
+      "trust": 2,
+      "reasoning": "His sustainability engineering and PE-license goals are unrelated to RFPs, Win Themes, or channel-ready hashtag content."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "channel-ready copy with hashtags",
+      "blocker": "A vehicle detailer isn't dealing with RFPs, and the corporate framing feels alien.",
+      "trust": 2,
+      "reasoning": "Though she dreams of an eco-detailing business, RFP pitching and Win Themes don't match her hands-on, art-driven detailing work."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "maybe",
+      "hook_phrase": "ready to pitch",
+      "blocker": "As a current frontline janitor, RFP bidding is a future consultancy goal, not today's work.",
+      "trust": 3,
+      "reasoning": "His planned eco-cleaning consultancy would bid on facility RFPs, giving the pitch-ready output modest long-term relevance to his ambitions."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An aircraft mechanic has no professional need for RFP or marketing copy tools.",
+      "trust": 2,
+      "reasoning": "His A&P licensing and avionics-technician goals are entirely unrelated to RFPs, Win Themes, or channel-ready hashtags."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A speech-language pathologist has no use for RFP pitching or marketing content.",
+      "trust": 2,
+      "reasoning": "Her clinical, telehealth, and research ambitions have no overlap with RFPs, Win Themes, or channel-ready copy."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A stocker's warehouse work has nothing to do with RFP pitching or marketing.",
+      "trust": 2,
+      "reasoning": "His supply-chain supervisory and woodworking side-venture goals don't connect to RFPs, Win Themes, or hashtag-ready copy."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "maybe",
+      "hook_phrase": "KPI rationale",
+      "blocker": "Her finance-management and advisory work isn't centered on RFP response drafting.",
+      "trust": 3,
+      "reasoning": "A disciplined financial manager launching an advisory practice may value KPI rationale, though marketing hashtags fall outside her analytical focus."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.3850475,
+    "duration_ms": 73428,
+    "session_id": "ddf7128c-a012-4f87-95f7-f69c222bf3f6"
+  }
+}

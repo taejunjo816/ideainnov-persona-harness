@@ -1,0 +1,63 @@
+{
+  "variant_id": "gen04_en_gen04_en_var_05_blank_page_draft",
+  "variant": {
+    "id": "gen04_en_gen04_en_var_05_blank_page_draft",
+    "headline": "One sentence to a full SCI draft",
+    "body": "Type one sentence, get a draft with 47 editable equations after a virtual SCI-Q1 reviewer's three rejections.",
+    "cta": "Draft free",
+    "angle": "Blank-page pain for actual paper writers, concrete proof (47 equations, 3 rejections) to earn trust",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.34029175,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 88.0,
+    "maybe": 12.0
+  },
+  "mean_trust": 2.04,
+  "top_hook_phrases": [
+    [
+      "editable equations",
+      2
+    ],
+    [
+      "SCI-Q1 reviewer",
+      2
+    ],
+    [
+      "virtual SCI-Q1 reviewer's three rejections",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "As an operations specialist with an arts background, she has no need to write SCI-Q1 scientific papers.",
+      1
+    ],
+    [
+      "A transportation attendant with some college never writes SCI journal papers with equations.",
+      1
+    ],
+    [
+      "A retail salesperson pursuing store management has no reason to draft scientific papers.",
+      1
+    ],
+    [
+      "A part-time-bound nurse writing a senior-care guidebook has no need for equation-heavy SCI drafts.",
+      1
+    ],
+    [
+      "Accounting and ESG reporting don't require SCI-Q1 papers with 47 equations.",
+      1
+    ]
+  ]
+}

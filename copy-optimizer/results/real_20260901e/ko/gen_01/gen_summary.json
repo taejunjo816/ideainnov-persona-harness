@@ -1,0 +1,58 @@
+{
+  "generation": 1,
+  "ranking": [
+    {
+      "variant_id": "gen01_ko_v2_question_table_formula",
+      "score": 55.68,
+      "hook_type": null,
+      "headline": "표와 수식, 정말 안 깨질까요?"
+    },
+    {
+      "variant_id": "gen01_ko_v3_number_formats_price",
+      "score": 50.88,
+      "hook_type": null,
+      "headline": "형식 변환 47개, 호출당 2,800원"
+    },
+    {
+      "variant_id": "gen01_ko_v4_biz_beyond_paper",
+      "score": 47.04,
+      "hook_type": null,
+      "headline": "논문만? 사업계획서도 자동으로"
+    },
+    {
+      "variant_id": "seed_02_ko_숫자형_형식개수",
+      "score": 42.88,
+      "hook_type": "숫자형",
+      "headline": "형식 변환 47개, 호출당 2,800원"
+    },
+    {
+      "variant_id": "gen01_ko_v1_negation_formula_broad",
+      "score": 42.24,
+      "hook_type": null,
+      "headline": "수식을 이미지로 바꾸지 마세요"
+    },
+    {
+      "variant_id": "seed_16_ko_부정형_수식보존",
+      "score": 26.56,
+      "hook_type": "부정형",
+      "headline": "수식을 이미지로 바꾸지 마세요"
+    },
+    {
+      "variant_id": "seed_11_ko_질문형_수식신뢰",
+      "score": 25.28,
+      "hook_type": "질문형",
+      "headline": "수식 47개, 정말 안 깨질까요?"
+    },
+    {
+      "variant_id": "gen01_ko_v5_free_journal_match",
+      "score": 22.08,
+      "hook_type": null,
+      "headline": "저널 매칭은 무료, 부담 없이"
+    }
+  ],
+  "elites": [
+    "gen01_ko_v2_question_table_formula",
+    "gen01_ko_v3_number_formats_price",
+    "gen01_ko_v4_biz_beyond_paper"
+  ]
+}

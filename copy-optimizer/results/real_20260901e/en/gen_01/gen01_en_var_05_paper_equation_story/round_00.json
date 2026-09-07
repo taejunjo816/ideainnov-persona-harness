@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen01_en_var_05_paper_equation_story",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Academic paper drafting with equations has nothing to do with her operations and gardening life.",
+      "trust": 2,
+      "reasoning": "As an arts-humanities operations veteran, SCI-Q1 reviewers and 47 equations are irrelevant to her strategic-efficiency and gardening interests."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "She writes no scientific papers; equation-heavy academic tooling is outside her transit-service world.",
+      "trust": 2,
+      "reasoning": "A transportation attendant focused on community outreach has no use for a virtual SCI-Q1 paper drafting tool."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "maybe",
+      "hook_phrase": "47 editable equations",
+      "blocker": "He sells retail, not research papers, so the SCI-Q1 academic framing feels off-target.",
+      "trust": 3,
+      "reasoning": "His STEM degree and tech-trend research curiosity might make the equation-generating AI intriguing, though academic writing is not his job."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A bedside nurse near retirement has no need to draft equation-laden SCI-Q1 papers.",
+      "trust": 2,
+      "reasoning": "Barbara reads historical novels and knits; an AI academic paper drafter with equations is unrelated to her nursing and hobbies."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Accounting and ESG reporting don't require SCI-Q1 papers full of equations.",
+      "trust": 2,
+      "reasoning": "Despite loving finance podcasts, an auditor has no use for a scientific-journal drafting tool with 47 equations."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Retail sales and store-management goals have no connection to academic paper writing.",
+      "trust": 2,
+      "reasoning": "Though he reads science magazines, a retail salesperson chasing a management track won't need a SCI-Q1 draft generator."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "CPA and forensic-accounting ambitions don't involve writing equation-heavy science papers.",
+      "trust": 2,
+      "reasoning": "An accountant reading finance books has no reason to trial a virtual scientific-reviewer drafting tool."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "SCI-Q1 reviewer",
+      "blocker": "Reading medical journals is not writing SCI papers, so the equation drafter overshoots her needs.",
+      "trust": 2,
+      "reasoning": "Though she reads medical journals, a bedside nurse pursuing a BSN won't need an AI SCI-Q1 paper drafter with equations."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "HR leadership and wellness programs are unrelated to equation-laden academic drafts.",
+      "trust": 2,
+      "reasoning": "A people-focused HR professional has no scientific-writing need that a SCI-Q1 equation generator would serve."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Logistics management and watercolor painting have no overlap with SCI-Q1 paper writing.",
+      "trust": 2,
+      "reasoning": "An operations manager and artist won't be drawn to an academic equation-drafting AI outside his supply-chain and art world."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "One sentence in, a full draft out",
+      "blocker": "He builds IT strategy, not academic papers, so the SCI-Q1 equation angle misses his workflow.",
+      "trust": 3,
+      "reasoning": "A tech manager fascinated by AI automation might click the AI drafting hook, though scientific equations aren't his daily need."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "maybe",
+      "hook_phrase": "47 editable equations",
+      "blocker": "He supervises a kitchen now, so academic paper drafting isn't part of his current work.",
+      "trust": 3,
+      "reasoning": "His graduate STEM background and food-science experimentation might spark curiosity about an equation-rich, peer-review-simulating draft tool."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide has no scientific manuscripts requiring equations to draft.",
+      "trust": 2,
+      "reasoning": "Tammy's caregiving and quilting life has zero overlap with a SCI-Q1 academic writing assistant."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Hairstyling and salon dreams are worlds away from equation-heavy science papers.",
+      "trust": 1,
+      "reasoning": "A young cosmetologist focused on color correction and dance won't need an AI scientific-paper drafter with equations."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Wealth-management advising doesn't involve drafting SCI-Q1 papers with equations.",
+      "trust": 2,
+      "reasoning": "A financial specialist eyeing a CFA and advisory practice has no use for a scientific-journal equation generator."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Warehouse logistics work never requires equation-laden academic manuscripts.",
+      "trust": 2,
+      "reasoning": "A material mover studying supply chain won't be pulled toward a SCI-Q1 paper-drafting AI unrelated to his field."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "maybe",
+      "hook_phrase": "One sentence in, a full draft out",
+      "blocker": "Software engineering isn't academic publishing, so the SCI-Q1 equation pitch is off-domain for her.",
+      "trust": 3,
+      "reasoning": "A STEM software engineer who mentors and values structure might click the AI drafting hook out of tech curiosity."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "maybe",
+      "hook_phrase": "Start free trial",
+      "blocker": "A CEO's product ambitions aren't in academic publishing, so the SCI-Q1 framing feels narrow.",
+      "trust": 3,
+      "reasoning": "His STEM background, coding workshops and free-trial-friendly visionary streak could prompt a curiosity click despite the academic niche."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "editable equations",
+      "blocker": "Practical engineering work doesn't require drafting SCI-Q1 journal papers.",
+      "trust": 2,
+      "reasoning": "A hands-on engineer reading tech trends may note the equations but has no academic-writing need this tool addresses."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Auto detailing and painting have nothing to do with scientific paper equations.",
+      "trust": 1,
+      "reasoning": "A vehicle cleaner and desert artist won't trial an academic SCI-Q1 drafting tool unrelated to her detailing craft."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Janitorial and facilities work involves no equation-heavy academic writing.",
+      "trust": 2,
+      "reasoning": "A building cleaner pursuing facility-management credentials has no use for a virtual SCI-Q1 paper drafter with equations."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Aircraft maintenance requires no scientific paper drafting with equations.",
+      "trust": 2,
+      "reasoning": "A young A&P-bound mechanic into fishing and country music has zero connection to SCI-Q1 academic writing tools."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "maybe",
+      "hook_phrase": "SCI-Q1 reviewer",
+      "blocker": "Equations are marginal for a speech-language clinician, and one-sentence drafts sound too good for real peer review.",
+      "trust": 3,
+      "reasoning": "She plans to publish peer-reviewed articles, so a SCI-Q1 reviewer drafting tool genuinely aligns with her research ambitions."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Warehouse stocking and woodworking never involve drafting scientific papers.",
+      "trust": 2,
+      "reasoning": "A stocker eyeing supply-chain credentials has no academic-writing need that a SCI-Q1 equation generator would meet."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Financial management and puzzles don't require equation-laden SCI-Q1 manuscripts.",
+      "trust": 2,
+      "reasoning": "A finance veteran pursuing CFP and quiet hobbies has no reason to trial an academic scientific-paper drafting AI."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.35844299999999996,
+    "duration_ms": 62872,
+    "session_id": "6c9c1f33-c0ba-4719-8a7e-f419e0080690"
+  }
+}

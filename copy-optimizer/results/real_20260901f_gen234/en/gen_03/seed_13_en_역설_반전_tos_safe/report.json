@@ -1,0 +1,65 @@
+{
+  "variant_id": "seed_13_en_역설_반전_tos_safe",
+  "variant": {
+    "id": "seed_13_en_역설_반전_tos_safe",
+    "lang": "en",
+    "headline": "Automated - except the last click",
+    "body": "Everything up to submission runs on its own; you press Submit yourself. A ToS-safe design, on purpose.",
+    "cta": "Start free matching",
+    "angle": "역설·반전-tos_safe",
+    "hook_type": "역설·반전",
+    "hook_template": "통념 제시 + '그런데/사실은' 반전 + 실제 사실",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '역설·반전' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '통념 제시 + '그런데/사실은' 반전 + 실제 사실' 적용",
+    "evidence": [
+      "programs.sci.differentiators_en[1]"
+    ],
+    "products_program": "sci"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.21482774999999998,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 36.0,
+    "no": 64.0
+  },
+  "mean_trust": 2.24,
+  "top_hook_phrases": [
+    [
+      "Automated",
+      6
+    ],
+    [
+      "ToS-safe design",
+      6
+    ],
+    [
+      "free matching",
+      3
+    ]
+  ],
+  "top_blockers": [
+    [
+      "The copy never says what is being matched or submitted, so its relevance to her operations work is unclear.",
+      1
+    ],
+    [
+      "Nothing ties automated matching to her transportation-attendant work or community-service life.",
+      1
+    ],
+    [
+      "It never states what platform or product the matching serves, leaving a PC-builder unsure it's worth exploring.",
+      1
+    ],
+    [
+      "A vague automation-matching pitch has no bearing on her nursing or hospice-care ambitions.",
+      1
+    ],
+    [
+      "The copy hides what it automates, and as an auditor she distrusts unspecified 'ToS-safe' claims.",
+      1
+    ]
+  ]
+}

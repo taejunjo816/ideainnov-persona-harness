@@ -1,0 +1,215 @@
+{
+  "lang": "ko",
+  "seed": 43,
+  "generations_requested": 3,
+  "generations_run": 3,
+  "stopped_reason": "generations_reached",
+  "weights": {
+    "w_yes": 100.0,
+    "w_maybe": 40.0,
+    "w_trust": 8.0
+  },
+  "winning_variant": {
+    "id": "gen04_ko_gen04_ko_seller_product_docs",
+    "headline": "상품 서류도 형식 걱정 없이 변환",
+    "body": "상세 문서를 HWPX·DOCX·PDF 등 47개 형식으로 오가도 표·그림 그대로. PDF 속 그림 추출해 재삽입, ₩2,800/호출.",
+    "cta": "무료 체험 시작",
+    "angle": "온라인 판매 걸림돌 해소: 상품 관련 서류의 형식 변환 상황으로 업무 관련성 부여",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "winning_score": 72.16,
+  "winning_generation": 4,
+  "winning_report": {
+    "variant_id": "gen04_ko_gen04_ko_seller_product_docs",
+    "variant": {
+      "id": "gen04_ko_gen04_ko_seller_product_docs",
+      "headline": "상품 서류도 형식 걱정 없이 변환",
+      "body": "상세 문서를 HWPX·DOCX·PDF 등 47개 형식으로 오가도 표·그림 그대로. PDF 속 그림 추출해 재삽입, ₩2,800/호출.",
+      "cta": "무료 체험 시작",
+      "angle": "온라인 판매 걸림돌 해소: 상품 관련 서류의 형식 변환 상황으로 업무 관련성 부여",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    "n_personas": 25,
+    "batch_size": 25,
+    "n_calls": 1,
+    "total_cost_usd": 0.4384175,
+    "dry_run": false,
+    "n": 25,
+    "would_click_pct": {
+      "maybe": 60.0,
+      "yes": 20.0,
+      "no": 20.0
+    },
+    "mean_trust": 3.52,
+    "top_hook_phrases": [
+      [
+        "형식 걱정 없이 변환",
+        5
+      ],
+      [
+        "표·그림 그대로",
+        4
+      ],
+      [
+        "PDF 속 그림 추출해 재삽입",
+        3
+      ],
+      [
+        "무료 체험 시작",
+        3
+      ],
+      [
+        "HWPX·DOCX·PDF",
+        2
+      ]
+    ],
+    "top_blockers": [
+      [
+        "회사에서 쓰는 회계 문서는 정해진 양식이라 굳이 변환 도구를 찾을 필요를 못 느낄 수 있다.",
+        1
+      ],
+      [
+        "기계공학 시험 현장 실무자라 문서 형식 변환 수요가 크지 않아 관심 밖이다.",
+        1
+      ],
+      [
+        "전문 디자인 툴을 이미 쓰는 그에게 범용 변환기의 그림 추출 품질이 미덥지 않을 수 있다.",
+        1
+      ],
+      [
+        "간호조무사 업무에 문서 형식 변환이 개입할 일이 거의 없다.",
+        1
+      ],
+      [
+        "손해 사정 문서는 회사 시스템을 쓰는 경우가 많아 외부 변환 도구 필요성이 낮을 수 있다.",
+        1
+      ]
+    ]
+  },
+  "score_progression": [
+    {
+      "generation": 2,
+      "population_size": 3,
+      "best_score": 49.44,
+      "best_variant_id": "gen01_ko_v4_biz_beyond_paper",
+      "mean_score": 48.267
+    },
+    {
+      "generation": 3,
+      "population_size": 8,
+      "best_score": 68.0,
+      "best_variant_id": "gen03_ko_gen02_ko_v1_convert_everyday",
+      "mean_score": 49.56
+    },
+    {
+      "generation": 4,
+      "population_size": 8,
+      "best_score": 72.16,
+      "best_variant_id": "gen04_ko_gen04_ko_seller_product_docs",
+      "mean_score": 58.68
+    }
+  ],
+  "top_hook_phrases_overall": [
+    [
+      "표 레이아웃과 스타일 그대로",
+      26
+    ],
+    [
+      "HWPX·DOCX·PDF",
+      21
+    ],
+    [
+      "무료 체험 시작",
+      19
+    ],
+    [
+      "표 레이아웃도 그대로",
+      16
+    ],
+    [
+      "자동 구조화",
+      15
+    ]
+  ],
+  "top_blockers_overall": [
+    [
+      "경리 실무는 주로 엑셀·회계 프로그램이라 문서 포맷 변환 수요가 크지 않다.",
+      1
+    ],
+    [
+      "리빙 소품 브랜드·온라인 판매업엔 수식과 표 변환 기능이 전혀 필요 없다.",
+      1
+    ],
+    [
+      "시험 성적서는 정해진 양식이라 47개 형식 변환까지 필요할지 확신이 안 선다.",
+      1
+    ],
+    [
+      "미디어 콘텐츠 디자인은 이미지·영상 중심이라 OMML 수식 보존이 무의미하다.",
+      1
+    ],
+    [
+      "무역 서류는 인보이스·표 위주라 수식 보존까지는 절실하지 않다.",
+      1
+    ]
+  ],
+  "final_elites": [
+    {
+      "id": "gen04_ko_gen04_ko_seller_product_docs",
+      "headline": "상품 서류도 형식 걱정 없이 변환",
+      "body": "상세 문서를 HWPX·DOCX·PDF 등 47개 형식으로 오가도 표·그림 그대로. PDF 속 그림 추출해 재삽입, ₩2,800/호출.",
+      "cta": "무료 체험 시작",
+      "angle": "온라인 판매 걸림돌 해소: 상품 관련 서류의 형식 변환 상황으로 업무 관련성 부여",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_ko_gen04_ko_office_table_safe",
+      "headline": "매일 다루는 문서, 표 안 깨지게 변환",
+      "body": "견적서·정산서 같은 문서도 HWPX·DOCX·PDF로 오가며 표 레이아웃과 스타일 그대로. 가장 저렴한 ₩2,800/호출로 처리하세요.",
+      "cta": "무료 체험 시작",
+      "angle": "경리·사무 걸림돌 해소: 논문/제안서가 아닌 일상 사무 문서의 표 보존으로 관련성 제시",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen03_ko_gen02_ko_v3_table_image_intact",
+      "headline": "표·그림 안 깨지는 문서 변환",
+      "body": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입하고, 표 레이아웃도 그대로. 20MB·30페이지 지원, 초과 시 자동 분할.",
+      "cta": "무료 체험 시작",
+      "angle": "변환 신뢰(그림 추출·표 보존 훅, 사무 실무 일반 사용자)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    }
+  ],
+  "total_calls_this_lang": 21,
+  "total_cost_usd_this_lang": 8.0799,
+  "dry_run": false,
+  "seed_hook_type_mix": {
+    "미분류": 3
+  },
+  "population_origin": "resumed_elites:results\\real_20260901e",
+  "generation_start": 2
+}

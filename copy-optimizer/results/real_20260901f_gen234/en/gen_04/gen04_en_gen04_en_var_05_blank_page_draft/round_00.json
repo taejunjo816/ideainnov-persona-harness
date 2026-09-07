@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen04_en_gen04_en_var_05_blank_page_draft",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "As an operations specialist with an arts background, she has no need to write SCI-Q1 scientific papers.",
+      "trust": 2,
+      "reasoning": "Anna's operations career and classics reading involve no scientific journal writing, so equation-heavy SCI drafting is irrelevant to her goals."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant with some college never writes SCI journal papers with equations.",
+      "trust": 2,
+      "reasoning": "Karen's community-service and transit-supervisor ambitions have nothing to do with academic equation-filled paper drafting."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "no",
+      "hook_phrase": "editable equations",
+      "blocker": "A retail salesperson pursuing store management has no reason to draft scientific papers.",
+      "trust": 2,
+      "reasoning": "Though STEM-minded and tech-curious, Joseph's retail-management path involves data analytics, not SCI-Q1 journal submissions with equations."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A part-time-bound nurse writing a senior-care guidebook has no need for equation-heavy SCI drafts.",
+      "trust": 2,
+      "reasoning": "Barbara's palliative-care and guidebook goals are clinical and community-oriented, unrelated to scientific equation-laden manuscripts."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Accounting and ESG reporting don't require SCI-Q1 papers with 47 equations.",
+      "trust": 2,
+      "reasoning": "Payal's audit and ESG ambitions involve financial reporting, not equation-driven scientific journal manuscripts, making this tool irrelevant."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young retail salesperson finishing a business degree never writes scientific journal papers.",
+      "trust": 2,
+      "reasoning": "Guillermo's retail-management and small-business plans have no connection to SCI-Q1 academic drafting with equations."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A CPA-track accountant has no use for scientific journal drafts full of equations.",
+      "trust": 2,
+      "reasoning": "Angelo's forensic accounting and CPA goals are financial, unrelated to equation-heavy SCI-Q1 paper generation."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A nurse pursuing a BSN writes care protocols, not equation-filled SCI journal papers.",
+      "trust": 2,
+      "reasoning": "Alejandra's clinical-educator and art-therapy path involves no scientific manuscript drafting with 47 equations."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An HR professional building wellness programs never drafts SCI-Q1 scientific papers.",
+      "trust": 2,
+      "reasoning": "Janet's people-operations and culture ambitions have nothing to do with equation-heavy academic journal writing."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A logistics manager wanting to write a community-arts guidebook has no need for SCI equation drafts.",
+      "trust": 2,
+      "reasoning": "Jeffrey's sustainable-supply-chain and art-appreciation writing goals are non-scientific, so equation-laden SCI drafting doesn't apply."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An IT manager focused on cloud and certifications doesn't write SCI-Q1 scientific papers.",
+      "trust": 3,
+      "reasoning": "Though tech-savvy, Hassan's leadership and PMP/CISSP path involves no academic journal manuscripts with equations."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "maybe",
+      "hook_phrase": "SCI-Q1 reviewer",
+      "blocker": "A food-prep supervisor, despite a STEM graduate degree, isn't currently submitting journal papers.",
+      "trust": 3,
+      "reasoning": "Felix's graduate STEM background and food-science curiosity might make the SCI-Q1 reviewer angle briefly intriguing, though his kitchen career is non-academic."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide pursuing a CNA never writes scientific equation-filled papers.",
+      "trust": 2,
+      "reasoning": "Tammy's caregiving and health-education goals have no connection to SCI-Q1 journal drafting with 47 equations."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young hairstylist building a salon brand has zero need for scientific paper drafts.",
+      "trust": 1,
+      "reasoning": "Esperanza's beauty-artistry and bilingual academy plans are utterly unrelated to equation-heavy SCI-Q1 manuscripts."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A financial specialist chasing a CFA doesn't write scientific journal papers with equations.",
+      "trust": 2,
+      "reasoning": "Pradeep's advisory and conference-speaking ambitions are financial, not academic journal manuscript drafting territory."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A freight material-mover studying supply chain never submits SCI-Q1 papers.",
+      "trust": 2,
+      "reasoning": "Aldon's logistics and warehouse ambitions have no overlap with equation-filled scientific journal drafting."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "no",
+      "hook_phrase": "editable equations",
+      "blocker": "A software engineer aiming at program management doesn't write academic SCI-Q1 papers.",
+      "trust": 3,
+      "reasoning": "Estelita's STEM engineering career is industry-focused, not academic, so equation-heavy journal drafting isn't relevant to her goals."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A CEO focused on revenue and partnerships has no need to draft scientific journal papers.",
+      "trust": 2,
+      "reasoning": "Grato's sustainable-innovation and entrepreneurship ambitions don't involve writing equation-laden SCI-Q1 manuscripts."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "maybe",
+      "hook_phrase": "SCI-Q1 reviewer",
+      "blocker": "A hands-on engineer pursuing a PE license isn't publishing scientific journal papers.",
+      "trust": 3,
+      "reasoning": "Kohl's engineering trend-reading and PE ambitions give faint relevance, but his manufacturing role rarely requires equation-heavy academic manuscripts."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vehicle detailer building a boutique business never writes scientific papers.",
+      "trust": 1,
+      "reasoning": "Leola's auto-detailing and art pursuits are entirely disconnected from equation-filled SCI-Q1 journal drafting."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A janitor pursuing facilities certifications never drafts SCI-Q1 scientific papers.",
+      "trust": 2,
+      "reasoning": "Mohammed's facilities-management and cleaning-consultancy goals have no relation to equation-heavy academic manuscript generation."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An aircraft mechanic pursuing an A&P license has no use for scientific paper drafts.",
+      "trust": 1,
+      "reasoning": "Nicholas's hands-on aviation and avionics goals are entirely unrelated to writing equation-filled SCI-Q1 journal papers."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "maybe",
+      "hook_phrase": "virtual SCI-Q1 reviewer's three rejections",
+      "blocker": "The tool's equation focus may not fit her clinical, less math-heavy speech-pathology research.",
+      "trust": 3,
+      "reasoning": "Gloria plans to contribute peer-reviewed articles on evidence-based interventions, so a draft tool facing SCI reviewers genuinely intrigues her academic ambition."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A warehouse stocker pursuing supply-chain credentials never writes scientific journal papers.",
+      "trust": 1,
+      "reasoning": "Joseph's hands-on stockroom and woodworking side-venture goals have nothing to do with equation-heavy SCI-Q1 drafting."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A finance manager pursuing a CFP never writes scientific papers with 47 equations.",
+      "trust": 2,
+      "reasoning": "Michelle's advisory and financial-literacy ambitions are business-oriented, unrelated to equation-filled SCI-Q1 academic manuscript generation."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.34029175,
+    "duration_ms": 53992,
+    "session_id": "0aaf4cea-50e0-4945-9993-8d5c630fdadb"
+  }
+}

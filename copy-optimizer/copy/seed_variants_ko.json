@@ -1,0 +1,166 @@
+{
+  "_generated_at": "2026-09-01T13:15:56",
+  "_generated_from": "research/out/youtube_hooks.json",
+  "_lang": "ko",
+  "_used_pooled_fallback": false,
+  "_n_language_records": 27,
+  "_apportionment_notes": [
+    "숫자형: 관측 비중 기준 목표 17개가 보유 문구 풀(3개)을 초과 -> 14개를 차순위 유형으로 재배분",
+    "  -> 정체성호명에서 2개 추가로 채움 (재배분 대상)",
+    "  -> 호기심갭에서 3개 추가로 채움 (재배분 대상)",
+    "  -> 질문형에서 3개 추가로 채움 (재배분 대상)",
+    "  -> 역설·반전에서 3개 추가로 채움 (재배분 대상)",
+    "  -> 부정형에서 3개 추가로 채움 (재배분 대상)"
+  ],
+  "_hook_type_targets": {
+    "숫자형": 17,
+    "정체성호명": 1,
+    "호기심갭": 0,
+    "질문형": 0,
+    "역설·반전": 0,
+    "부정형": 0,
+    "시간압박": 0,
+    "결과선공개": 0
+  },
+  "_hook_type_taken": {
+    "숫자형": 2,
+    "정체성호명": 1,
+    "호기심갭": 1,
+    "질문형": 2,
+    "역설·반전": 1,
+    "부정형": 1
+  },
+  "variants": [
+    {
+      "id": "seed_01_ko_숫자형_가격",
+      "lang": "ko",
+      "headline": "₩4,100에 수식 47개, 심사 3회",
+      "body": "종량제 ₩4,100/호출로 시작해 가상 심사위원에게 3회 퇴짜 맞으며 다듬은 뒤, 편집 가능한 수식 47개짜리 초안을 받습니다.",
+      "cta": "가입 즉시 무료 체험",
+      "angle": "숫자형-가격",
+      "hook_type": "숫자형",
+      "hook_template": "숫자 + 단위 + 결과/효과",
+      "source_evidence": "youtube_hooks.json[ko]: 훅유형 '숫자형' 가중 비중 5307.9 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '숫자 + 단위 + 결과/효과' 적용",
+      "evidence": [
+        "programs.paper.price_ko",
+        "programs.paper.hooks_ko.short[0]",
+        "programs.paper.hooks_ko.thread[1]"
+      ],
+      "products_program": "paper"
+    },
+    {
+      "id": "seed_02_ko_숫자형_형식개수",
+      "lang": "ko",
+      "headline": "형식 변환 47개, 호출당 2,800원",
+      "body": "HWPX·DOCX·PDF 등 47개 형식 상호 변환이 종량제 ₩2,800/호출로 시작됩니다.",
+      "cta": "무료 체험 시작",
+      "angle": "숫자형-형식개수",
+      "hook_type": "숫자형",
+      "hook_template": "숫자 + 단위 + 결과/효과",
+      "source_evidence": "youtube_hooks.json[ko]: 훅유형 '숫자형' 가중 비중 5307.9 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '숫자 + 단위 + 결과/효과' 적용",
+      "evidence": [
+        "programs.hwp.features[0]",
+        "programs.hwp.price_ko"
+      ],
+      "products_program": "hwp"
+    },
+    {
+      "id": "seed_04_ko_정체성호명_연구자호명",
+      "lang": "ko",
+      "headline": "대학원생과 연구원을 위해 만들었습니다",
+      "body": "SCI Q1 11절 자동 심사 루프를 거쳐 편집 가능한 수식과 참고문헌이 정리된 논문 초안을 받습니다.",
+      "cta": "가입 즉시 무료 체험",
+      "angle": "정체성호명-연구자호명",
+      "hook_type": "정체성호명",
+      "hook_template": "특정 독자 직접 호명 + 그 독자에게 맞춘 약속",
+      "source_evidence": "youtube_hooks.json[ko]: 훅유형 '정체성호명' 가중 비중 245.4 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '특정 독자 직접 호명 + 그 독자에게 맞춘 약속' 적용",
+      "evidence": [
+        "programs.paper.features[3]",
+        "programs.paper.features[4]"
+      ],
+      "products_program": "paper"
+    },
+    {
+      "id": "seed_07_ko_호기심갭_투고패키지",
+      "lang": "ko",
+      "headline": "포털에 넣을 파일, 이미 준비돼 있습니다",
+      "body": "저자 정보와 추천 리뷰어까지 정리한 투고 패키지를 내려받을 수 있습니다. 무엇이 담겼는지는 열어보면 압니다.",
+      "cta": "저널 매칭은 무료로 시작",
+      "angle": "호기심갭-투고패키지",
+      "hook_type": "호기심갭",
+      "hook_template": "결과를 암시만 하고 이유는 감추는 열린 문장",
+      "source_evidence": "youtube_hooks.json[ko]: 훅유형 '호기심갭' 가중 비중 123.8 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '결과를 암시만 하고 이유는 감추는 열린 문장' 적용",
+      "evidence": [
+        "programs.sci.hooks_ko.thread[2]"
+      ],
+      "products_program": "sci"
+    },
+    {
+      "id": "seed_10_ko_질문형_권위",
+      "lang": "ko",
+      "headline": "가상 심사위원, 정말 3번이나 퇴짜를 놓을까요?",
+      "body": "SCI Q1 11절 자동 심사 루프가 반려 사유까지 짚어주고, 그걸 반영해 초안을 다시 씁니다.",
+      "cta": "가입 즉시 무료 체험",
+      "angle": "질문형-권위",
+      "hook_type": "질문형",
+      "hook_template": "정체성/상황 호명 + 물음표로 끝나는 질문",
+      "source_evidence": "youtube_hooks.json[ko]: 훅유형 '질문형' 가중 비중 7.4 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '정체성/상황 호명 + 물음표로 끝나는 질문' 적용",
+      "evidence": [
+        "programs.paper.features[3]",
+        "programs.paper.hooks_ko.thread[1]"
+      ],
+      "products_program": "paper"
+    },
+    {
+      "id": "seed_11_ko_질문형_수식신뢰",
+      "lang": "ko",
+      "headline": "수식 47개, 정말 안 깨질까요?",
+      "body": "자연어 한 줄을 넣으면 편집 가능한 수식 47개가 담긴 논문 초안이 나옵니다. 직접 열어서 확인해 보세요.",
+      "cta": "가입 즉시 무료 체험",
+      "angle": "질문형-수식신뢰",
+      "hook_type": "질문형",
+      "hook_template": "정체성/상황 호명 + 물음표로 끝나는 질문",
+      "source_evidence": "youtube_hooks.json[ko]: 훅유형 '질문형' 가중 비중 7.4 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '정체성/상황 호명 + 물음표로 끝나는 질문' 적용",
+      "evidence": [
+        "programs.paper.hooks_ko.short[0]",
+        "programs.paper.hooks_en.thread[0]"
+      ],
+      "products_program": "paper"
+    },
+    {
+      "id": "seed_13_ko_역설_반전_ToS안전",
+      "lang": "ko",
+      "headline": "다 자동화해도, 마지막 버튼은 안 누릅니다",
+      "body": "투고 직전까지 자동화하고 Submit 버튼만 저자가 직접 누르는 ToS-안전 설계입니다. 일부러 멈췄습니다.",
+      "cta": "저널 매칭은 무료로 시작",
+      "angle": "역설·반전-ToS안전",
+      "hook_type": "역설·반전",
+      "hook_template": "통념 제시 + '그런데/사실은' 반전 + 실제 사실",
+      "source_evidence": "youtube_hooks.json[ko]: 훅유형 '역설·반전' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '통념 제시 + '그런데/사실은' 반전 + 실제 사실' 적용",
+      "evidence": [
+        "programs.sci.differentiators[1]",
+        "programs.sci.hooks_ko.thread[1]"
+      ],
+      "products_program": "sci"
+    },
+    {
+      "id": "seed_16_ko_부정형_수식보존",
+      "lang": "ko",
+      "headline": "수식을 이미지로 바꾸지 마세요",
+      "body": "변환 후에도 수식은 편집 가능한 OMML 객체로 남습니다. 이미지로 굳혀서 다시 손볼 필요가 없습니다.",
+      "cta": "가입 즉시 무료 체험",
+      "angle": "부정형-수식보존",
+      "hook_type": "부정형",
+      "hook_template": "부정 명령('~하지 마세요') + 이유",
+      "source_evidence": "youtube_hooks.json[ko]: 훅유형 '부정형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '부정 명령('~하지 마세요') + 이유' 적용",
+      "evidence": [
+        "programs.hwp.differentiators[1]",
+        "programs.hwp.differentiators[0]"
+      ],
+      "products_program": "hwp"
+    }
+  ],
+  "_reduced_to": 8,
+  "_reduction_rule": "100만뷰 분석 조회수가중 훅분포 반영: 숫자형2+질문형2+정체성호명1+호기심갭1+역설반전1+부정형1",
+  "_hook_type_taken_note": "실제 variants 배열에서 계산한 값(2026-09-01 정정). 이전 값은 18개 시드 시절의 잔재였다."
+}

@@ -1,0 +1,100 @@
+{
+  "elites": [
+    "gen01_en_var_02_equation_preserve",
+    "seed_13_en_역설_반전_tos_safe",
+    "seed_16_en_부정형_equation_preserve"
+  ],
+  "hook_phrases_sampled": [
+    "Equations stay editable objects",
+    "nothing to fix afterward",
+    "Convert free",
+    "Equations stay editable objects after conversion",
+    "editable objects",
+    "nothing to fix afterward",
+    "never flattened into images",
+    "Equations stay editable objects",
+    "Automated",
+    "ToS-safe design",
+    "matching",
+    "A ToS-safe design",
+    "ToS-safe"
+  ],
+  "blockers_sampled": [
+    "She is an operations specialist with an arts background, not a grad student or researcher writing papers with equations.",
+    "She is an accountant pursuing a CPA, not writing academic research papers.",
+    "A bedside nurse writing a caregiver guidebook doesn't need Q1 review or editable equations.",
+    "He is a retail salesperson, not a grad student or researcher, so the academic tool doesn't fit him.",
+    "A transportation attendant with some college has no need for a research-paper reviewer tool."
+  ],
+  "children": [
+    {
+      "id": "gen03_en_var_01_equation_preserve",
+      "headline": "Don't let equations become images",
+      "body": "Equations stay editable objects after conversion, never flattened - nothing to fix afterward.",
+      "cta": "Convert free",
+      "angle": "부정형-equation_preserve (keeps top hook phrases, doc-agnostic so it fits anyone converting files, not only researchers)",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen03_en_var_02_hwp_office_users",
+      "headline": "HWP files break at the equations",
+      "body": "Most converters break Korean HWP. This one outputs editable OMML and checks its own fidelity.",
+      "cta": "Convert free",
+      "angle": "HWP pain point for any office/document user (broadens past academics to answer non-researcher blockers)",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen03_en_var_03_rfp_business",
+      "headline": "One RFP upload, ready to pitch",
+      "body": "One upload becomes 3 Win Themes, KPI rationale, and channel-ready copy with hashtags.",
+      "cta": "Start free",
+      "angle": "Business/RFP angle for operations & finance pros (directly answers accountant/operations non-researcher blockers)",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen03_en_var_04_tos_safe_matching",
+      "headline": "Automated - except the last click",
+      "body": "Journal matching is free. ToS-safe by design - you press the final Submit yourself.",
+      "cta": "Start free matching",
+      "angle": "역설·반전-tos_safe (retains ToS-safe + free matching hooks that performed well)",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen03_en_var_05_proposal_scaling",
+      "headline": "One proposal, many deliverables",
+      "body": "One proposal scales into patent planning, specs, and an IR pitch deck, backed by economic and legal analysis.",
+      "cta": "Start free",
+      "angle": "Proposal-to-deliverables scaling for business professionals (widens audience beyond paper writers)",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    }
+  ],
+  "meta": {
+    "cost_usd": 0.28951575,
+    "duration_ms": 70588
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "variant_id": "seed_13_en_역설_반전_tos_safe",
+  "variant": {
+    "id": "seed_13_en_역설_반전_tos_safe",
+    "lang": "en",
+    "headline": "Automated - except the last click",
+    "body": "Everything up to submission runs on its own; you press Submit yourself. A ToS-safe design, on purpose.",
+    "cta": "Start free matching",
+    "angle": "역설·반전-tos_safe",
+    "hook_type": "역설·반전",
+    "hook_template": "통념 제시 + '그런데/사실은' 반전 + 실제 사실",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '역설·반전' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '통념 제시 + '그런데/사실은' 반전 + 실제 사실' 적용",
+    "evidence": [
+      "programs.sci.differentiators_en[1]"
+    ],
+    "products_program": "sci"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.39128525000000003,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 32.0,
+    "no": 68.0
+  },
+  "mean_trust": 2.24,
+  "top_hook_phrases": [
+    [
+      "Automated",
+      10
+    ],
+    [
+      "ToS-safe design",
+      1
+    ],
+    [
+      "matching",
+      1
+    ],
+    [
+      "A ToS-safe design",
+      1
+    ],
+    [
+      "ToS-safe",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "The copy never says what is being matched, so its relevance to her operations work is unclear.",
+      1
+    ],
+    [
+      "A ToS-safe automated matching tool has nothing to do with her transportation attendant work or community hobbies.",
+      1
+    ],
+    [
+      "It never names what gets matched or submitted, so the STEM tinkerer can't tell if it's useful or a spammy bot.",
+      1
+    ],
+    [
+      "Automated submission matching is irrelevant to a semi-retired nurse focused on palliative care and gardening.",
+      1
+    ],
+    [
+      "Without knowing what is matched, the detail-oriented auditor can't judge if it fits her audit or ESG interests.",
+      1
+    ]
+  ]
+}

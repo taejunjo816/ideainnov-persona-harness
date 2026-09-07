@@ -55,6 +55,58 @@ python3 data/prepare_personas.py --country Korea --n 2000 --slim --out data/pers
 - 수집 제약: parquet 직독 대신 datasets-server API를 우회 조회했습니다. 15행은 한국어 원문, 10행은 영어 의역본입니다.
 - 표본 편향: offset 0-25 구간이라 고령층 비중이 높습니다. `prepare_personas.py`의 저수지 표본으로 해소할 수 있습니다.
 
+[확장 — 같은 하네스로 광고 문구 진화시키기 (copy-optimizer/)]
+
+`product/ideainnov.json` 자리에 광고 문구를 넣고 판정 스키마를 "이 문구를 보고 클릭하겠는가, 무엇이 걸리는가"로 바꾸면, 같은 메커니즘이 문구 최적화기가 됩니다. 그 구현이 `copy-optimizer/` 입니다.
+
+동작: 사람이 쓴 시드 문구 8개를 25명에게 판정시켜 점수를 매기고, 상위 3개를 남겨 하위권의 걸림돌을 재료로 자식 5개를 만들어 다음 세대로 넘깁니다. 점수는 `100*P(yes) + 40*P(maybe) + 8*평균신뢰도` 입니다.
+
+실행 결과(2026-09-01~02, 5세대, 실비용 26.45달러 / 76콜):
+
+| 세대 | 한국어 최고 | 영어 최고 |
+|---:|---:|---:|
+| 0 | 37.76 | 37.12 |
+| 1 | 55.68 | 35.20 |
+| 2 | 49.44 | 38.88 |
+| 3 | 68.00 | 40.32 |
+| 4 | 72.16 | 43.84 |
+
+우승 문구는 `copy-optimizer/copy/winning_ko.json` 과 `winning_en.json`, 전체 리포트는 `copy-optimizer/results/` 에 있습니다.
+
+읽을 때 주의할 점 세 가지가 있습니다.
+
+첫째, 이 점수는 합성 페르소나가 예측한 시뮬레이션 클릭 의향이며 실제 클릭률이 아닙니다. 실측 A/B 테스트의 대체물이 아닙니다.
+
+둘째, 영어는 점수가 올랐지만 평균 신뢰도는 3.44에서 2.48로 떨어졌습니다. 점수 함수가 클릭 의향에 100과 40, 신뢰도에는 8만 주기 때문에 신뢰를 잃어도 관심만 끌면 점수가 오릅니다. 가중치를 바꾸면 다른 문구가 이깁니다.
+
+셋째, 두 언어가 서로 다른 제품으로 갈라졌습니다. 한국어는 문서 변환, 영어는 사업제안서로 수렴했고, 미국 표본은 한글 파일 문제를 자기 일과 무관하다고 판단했습니다. 한글 형식 문제가 한국 고유의 것이라는 해석과 일치합니다.
+
+표본은 무작위가 아니라 필터를 거쳤습니다. 조건과 통과율은 `data/ATTRIBUTION.md` 에 있습니다.
+
+실행 방법:
+
+```bash
+cd copy-optimizer
+# 무료 드라이런 — 유료 호출 없이 전 구간을 밟아 본다
+python3 optimize/evolve.py --lang both --generations 2 --dry-run   --personas-ko data/personas_kr_25_filtered.jsonl   --personas-en data/personas_us_25_filtered.jsonl --out-dir results/dry
+
+# 실제 실행. 첫 유료 호출 전에 비용 상한을 투사하고, 넘으면 시작하지 않는다
+python3 optimize/evolve.py --lang both --generations 2 --max-budget-usd 15   --personas-ko data/personas_kr_25_filtered.jsonl   --personas-en data/personas_us_25_filtered.jsonl --out-dir results/my_run
+
+# 이전 실행의 엘리트에서 이어 돌리기 (시드부터 다시 시작하지 않는다)
+python3 optimize/evolve.py --lang both --generations 3 --resume-from results/my_run   --out-dir results/my_run_more
+```
+
+[영상 (video/)]
+
+`video/` 에 22초 세로 릴스 3편이 있습니다. 1080x1920, 30fps 입니다.
+
+- `릴스_persona_harness_KO_22s_2026-08-31.mp4` — 이 하네스 자체(사전 수요 검증)를 소개
+- `릴스_ideainnov_카피최적화_KO_22s_2026-09-02_gen4.mp4` — 세대 4 한국어 우승 문구
+- `릴스_ideainnov_카피최적화_EN_22s_2026-09-02_gen4.mp4` — 세대 4 영어 우승 문구
+
+빌더는 `copy-optimizer/video/build_copy_reel_22s.py` 입니다. 영상 안의 모든 수치는 제품 사실표에서 가져오며, 근거를 댈 수 없는 주장은 빌더가 거부합니다.
+
 [라이선스]
 
 - 코드: 라이선스 미정, 모든 권리 보유.

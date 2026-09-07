@@ -1,0 +1,28 @@
+{
+  "generation": 2,
+  "ranking": [
+    {
+      "variant_id": "gen01_en_var_02_equation_preserve",
+      "score": 38.88,
+      "hook_type": null,
+      "headline": "Don't let equations become images"
+    },
+    {
+      "variant_id": "seed_16_en_부정형_equation_preserve",
+      "score": 33.92,
+      "hook_type": "부정형",
+      "headline": "Don't let your equations become images"
+    },
+    {
+      "variant_id": "seed_13_en_역설_반전_tos_safe",
+      "score": 30.72,
+      "hook_type": "역설·반전",
+      "headline": "Automated - except the last click"
+    }
+  ],
+  "elites": [
+    "gen01_en_var_02_equation_preserve",
+    "seed_16_en_부정형_equation_preserve",
+    "seed_13_en_역설_반전_tos_safe"
+  ]
+}

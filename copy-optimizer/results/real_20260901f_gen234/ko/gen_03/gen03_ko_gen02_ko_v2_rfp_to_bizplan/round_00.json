@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen03_ko_gen02_ko_v2_rfp_to_bizplan",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "no",
+      "hook_phrase": "무료 체험 시작",
+      "blocker": "경리 실무는 전표·정산 업무라 RFP나 사업계획서 자동화와 직접 관련이 없다.",
+      "trust": 3,
+      "reasoning": "순천 경리 사무원으로 제안서 작성 업무가 없어 RFP 구조화 도구는 자신의 꼼꼼한 실무와 무관하다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "maybe",
+      "hook_phrase": "사업계획서·연구제안서로 자동 구조화",
+      "blocker": "온라인 판매 실무자라 RFP·연구제안서라는 용어가 자신의 브랜드 론칭 계획과 거리감이 있다.",
+      "trust": 3,
+      "reasoning": "리빙 소품 브랜드 론칭을 꿈꾸는 판매원이라 사업계획서 자동 작성이 창업 준비에 솔깃할 수 있다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "현장 기계공학 시험원 업무는 문서 제안서가 아니라 시험·측정 실무라 관련성이 없다.",
+      "trust": 3,
+      "reasoning": "기계 시험원으로 자격증 취득이 목표일 뿐 RFP·사업계획서 자동화는 자신의 현장 업무와 무관하다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "no",
+      "hook_phrase": "PPT",
+      "blocker": "미디어 콘텐츠 디자이너는 시각물 제작이 주력이라 RFP 구조화 문서 도구가 필요 없다.",
+      "trust": 3,
+      "reasoning": "PPT 산출은 눈에 띄지만 디자이너 실무는 사업계획서 작성이 아니라 콘텐츠 제작이라 무관하다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "no",
+      "hook_phrase": "자동 구조화",
+      "blocker": "무역 사무 문서는 계약·통관 서류라 RFP 사업계획서 자동화와 업무 결이 다르다.",
+      "trust": 3,
+      "reasoning": "ICT 전공 무역 사무원이라 자동화 개념엔 익숙하나 제안서 작성이 일상 업무가 아니라 필요를 못 느낀다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사 업무는 환자 케어 중심이라 사업계획서·RFP 자동화가 전혀 관련 없다.",
+      "trust": 3,
+      "reasoning": "안산 간호조무사로 문서 제안서와 무관한 임상 실무를 하므로 이 도구에 흥미를 느낄 이유가 없다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "no",
+      "hook_phrase": "법률 적합성 리포트",
+      "blocker": "손해사정 보고서는 손해액 산정 문서라 RFP 사업계획서 자동화와 용도가 다르다.",
+      "trust": 3,
+      "reasoning": "손해사정사로 리포트 작성엔 익숙하나 자신의 실무는 사업계획서가 아닌 손해 평가라 클릭 유인이 약하다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "maybe",
+      "hook_phrase": "사업계획서·연구제안서로 자동 구조화",
+      "blocker": "고졸 실전파로 은퇴 후 소규모 상담소가 목표라 당장 RFP 자동화 필요성이 크지 않다.",
+      "trust": 3,
+      "reasoning": "마케팅 전문가로 기획 제안서를 다뤄봤기에 사업계획서 자동 구조화가 실무 효율 측면에서 눈길을 끈다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "교사 교육 보조원 업무는 학생 지원이라 RFP 사업계획서 자동화와 무관하다.",
+      "trust": 3,
+      "reasoning": "교육 보조원으로 사회복지사 자격이 목표일 뿐 제안서 자동화 도구는 자신의 일상과 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "연구 결과나 RFP를 사업계획서·연구제안서로",
+      "blocker": "고무·플라스틱 연구원이 실제 연구제안서를 얼마나 자주 쓰는지 불확실해 필요성이 애매하다.",
+      "trust": 4,
+      "reasoning": "공학 연구원으로 연구제안서라는 문구가 자신의 기술사 준비·책임연구원 목표와 맞닿아 관심을 끈다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "maybe",
+      "hook_phrase": "사업계획서·연구제안서로 자동 구조화",
+      "blocker": "변화·확장에 불안이 커 운영 체계화가 우선이라 새 자동화 도구 도입은 망설여진다.",
+      "trust": 3,
+      "reasoning": "대학원 교육 전공 마케터로 문서 체계화를 중시해 사업계획서 자동 구조화가 업무 정돈에 매력적으로 보인다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "yes",
+      "hook_phrase": "경제성·법률 적합성 리포트",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "법학 전공 상품 기획자로 RFP·사업계획서·법률 리포트가 임대 상품 기획과 구독 서비스 런칭에 정확히 맞아떨어진다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "maybe",
+      "hook_phrase": "사업계획서·연구제안서로 자동 구조화",
+      "blocker": "통신사 실무 안착과 단계적 성취를 지향해 검증 안 된 자동화 도구엔 신중하다.",
+      "trust": 3,
+      "reasoning": "마케팅 전문가로 기획 제안서를 다뤄 사업계획서 자동화가 일·육아 균형 속 업무 효율에 솔깃할 수 있다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "maybe",
+      "hook_phrase": "자동 구조화",
+      "blocker": "당장은 사내 업무 매뉴얼 체계화가 우선이라 RFP 제안서 자동화의 즉각적 필요는 적다.",
+      "trust": 4,
+      "reasoning": "경영 지원 관리자이자 유통 브랜드 창업 지망생이라 사업계획서 자동 구조화가 업무 시스템화 목표와 통한다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담원 업무는 고객 응대라 사업계획서·RFP 자동화와 완전히 무관하다.",
+      "trust": 3,
+      "reasoning": "달서구 전화 상담원으로 관리자 여유가 목표일 뿐 제안서 문서 도구는 자신의 업무와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 사무원 업무는 응대·기록이라 RFP 사업계획서 자동화가 필요 없다.",
+      "trust": 3,
+      "reasoning": "안정적 정년을 바라는 상담 사무원으로 제안서 자동화는 자신의 든든한 선임 역할과 무관하다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "no",
+      "hook_phrase": "자동 구조화",
+      "blocker": "네트워크 시스템 운영이 주력이라 문서 제안서 자동화 도구는 자신의 기술 업무와 다르다.",
+      "trust": 3,
+      "reasoning": "대학원 ICT 개발자로 자동화 개념엔 밝지만 시스템 무결성 유지가 관심이라 제안서 도구엔 끌리지 않는다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "maybe",
+      "hook_phrase": "경제성·법률 적합성 리포트",
+      "blocker": "부동산 감정 보고서는 표준 감정 양식이라 RFP 사업계획서 자동화가 직무와 정확히 겹치지 않는다.",
+      "trust": 3,
+      "reasoning": "부동산 감정 전문가로 경제성·법률 리포트라는 표현이 가치 산정 업무와 유사해 살짝 눈길이 간다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "maybe",
+      "hook_phrase": "사업계획서·연구제안서로 자동 구조화",
+      "blocker": "장비 기술 영업은 대면 신뢰 구축이 핵심이라 제안서 자동 작성 도구가 필수는 아니다.",
+      "trust": 3,
+      "reasoning": "공학 출신 기술 영업원으로 고객 제안 문서를 쓸 일이 있어 사업계획서 자동화가 일부 실무에 도움될 수 있다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자 업무는 접객이라 RFP 사업계획서 자동화와 전혀 무관하다.",
+      "trust": 3,
+      "reasoning": "63세 음식점 종사자로 안정적 생활과 건강이 관심사라 제안서 문서 도구는 자신의 일상과 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사 업무는 임상 케어라 사업계획서·RFP 자동화가 필요 없다.",
+      "trust": 3,
+      "reasoning": "베테랑 치과위생사로 숙련도 유지와 퇴근 후 휴식이 목표라 제안서 자동화 도구엔 관심이 없다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "yes",
+      "hook_phrase": "자동 구조화",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "경영 기획 사무원으로 업무 프로세스 완전 자동화가 목표라 RFP 사업계획서 자동 구조화가 정확히 필요에 부합한다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "초등학교 교사 업무는 아동 교육이라 RFP 사업계획서 자동화와 완전히 무관하다.",
+      "trust": 3,
+      "reasoning": "22세 초등교사로 다정한 선생님이 목표라 실무 제안서 자동화 도구는 자신의 업무 세계와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "maybe",
+      "hook_phrase": "RFP를 사업계획서로 자동 구조화",
+      "blocker": "토목 현장 기술 업무가 주력이라 RFP 문서 작성을 본인이 직접 하는지 불확실하다.",
+      "trust": 4,
+      "reasoning": "세종시 공공 토목 기술자로 발주·입찰 RFP를 접할 수 있어 자동 구조화가 설계 업무 효율에 관심 갈 만하다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유치원 교사 업무는 아동 보육이라 사업계획서·RFP 자동화가 전혀 관련 없다.",
+      "trust": 3,
+      "reasoning": "마산 유치원 교사로 예술 수업 공간이 목표라 실무 제안서 자동화 도구는 자신의 관심사와 무관하다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.44097775,
+    "duration_ms": 95258,
+    "session_id": "082a9f05-db32-4215-bd8c-984f50bece8c"
+  }
+}

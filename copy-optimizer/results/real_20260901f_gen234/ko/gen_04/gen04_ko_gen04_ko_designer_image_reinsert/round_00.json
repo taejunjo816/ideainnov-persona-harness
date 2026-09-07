@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen04_ko_gen04_ko_designer_image_reinsert",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "no",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "경리 업무는 회계 장부와 숫자 위주라 PDF 그림·도식 재삽입 기능을 쓸 일이 거의 없다.",
+      "trust": 3,
+      "reasoning": "순천에서 경리 실무를 보는 23세라 문서 편집은 하지만 그림·도식 추출은 그의 회계 업무와 무관하다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "온라인 쇼핑 판매와 리빙 소품 브랜드 구상에 PDF 도식 추출툴은 전혀 접점이 없다.",
+      "trust": 2,
+      "reasoning": "통영에서 온라인 판매를 하는 57세라 인테리어 트렌드엔 관심 있으나 PDF 편집툴 보조 기능은 관심 밖이다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "기계공학 시험원 현장 업무와 자격증 준비에 문서 그림 재삽입 도구는 쓸모가 없다.",
+      "trust": 2,
+      "reasoning": "현장 시험 실무와 기계정비 자격증에 집중하는 27세라 PDF 도식 편집 보조툴엔 반응할 이유가 없다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "yes",
+      "hook_phrase": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "미디어 콘텐츠 디자이너로서 PDF 그림·도식 추출 재삽입은 그의 일상 워크플로 걸림돌을 정확히 짚어 클릭할 만하다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "maybe",
+      "hook_phrase": "결과 문서에 재삽입, 표 레이아웃과 스타일 그대로",
+      "blocker": "무역 서류는 다루지만 그림·도식 재삽입 수요가 잦지 않아 필요성이 애매하다.",
+      "trust": 3,
+      "reasoning": "IT 전공에 무역 서류를 다루는 29세라 표·문서 도구에 관심 가질 수 있으나 그림 추출 빈도는 낮다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사 업무는 환자 케어 중심이라 PDF 문서 편집툴과 접점이 없다.",
+      "trust": 2,
+      "reasoning": "안산에서 간호조무사로 일하는 34세라 넷플릭스·여행 취향과 문서 편집 도구 사이에 연결점이 없다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "손해사정 보고서 작성에 도움될 수 있으나 도식 추출까지 필요한 문서인지 불확실하다.",
+      "trust": 3,
+      "reasoning": "손해사정사로 보고서와 표를 자주 다루는 56세라 표 레이아웃 보존 문구엔 실무적 관심이 생길 수 있다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "maybe",
+      "hook_phrase": "무료 체험 시작",
+      "blocker": "실전파 마케팅이지만 고졸 배경에 문서 도식 편집보다 현장 감각 중심이라 기술툴 관심이 낮다.",
+      "trust": 3,
+      "reasoning": "마케팅 실무자로 제안·기획 문서를 만드나 59세 현장형이라 PDF 편집툴 필요성은 크지 않다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "교사 교육 보조 업무와 홈가드닝 취미엔 PDF 도식 추출 도구가 전혀 필요치 않다.",
+      "trust": 2,
+      "reasoning": "학교 보조원으로 문서 편집 전문 작업이 없는 42세라 이 기술툴은 그의 일상과 무관하다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입",
+      "blocker": "연구 보고서에 도움될 수 있으나 사내 양식·프로그램이 정해져 개인 툴 도입이 애매하다.",
+      "trust": 3,
+      "reasoning": "고무·플라스틱 연구원으로 그림·도식 든 기술 보고서를 다루는 37세라 추출 재삽입 기능에 실무적 흥미가 있다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "매장 운영 시스템 체계화가 관심사라 그림 추출툴이 우선순위에서 밀린다.",
+      "trust": 3,
+      "reasoning": "대학원 나온 마케터로 기획 문서를 다루나 안정과 운영 체계화 지향이라 새 툴 도입엔 신중하다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입",
+      "blocker": "상품 기획서를 만들지만 도식 재삽입보다 서비스 모델 설계가 주 관심사다.",
+      "trust": 3,
+      "reasoning": "임대 상품 기획자로 기획 문서를 자주 만드는 26세라 문서 워크플로 보조 도구에 호기심을 가질 만하다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "maybe",
+      "hook_phrase": "무료 체험 시작",
+      "blocker": "통신사 마케팅 문서를 다루나 그림·도식 재삽입 수요가 잦은지 확신이 안 선다.",
+      "trust": 3,
+      "reasoning": "체계적인 마케팅 전문가로 기획·보고 문서를 다루는 36세라 무료 체험이면 한번 살펴볼 여지가 있다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "매뉴얼 제작에 유용할 수 있으나 사내 표준 도구 밖의 개인 툴 결제엔 신중할 것이다.",
+      "trust": 4,
+      "reasoning": "업무 매뉴얼 체계화가 목표인 경영지원 관리자라 표 레이아웃 유지 그림 재삽입 기능이 실제 도움이 된다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담 업무는 문서 편집과 거리가 멀어 이 도구를 쓸 상황이 없다.",
+      "trust": 2,
+      "reasoning": "대구에서 전화 상담원으로 일하는 43세라 PDF 도식 편집툴은 그의 업무·취미 어디와도 닿지 않는다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 사무 업무는 그림·도식 든 문서 제작과 무관하다.",
+      "trust": 2,
+      "reasoning": "고객 상담 사무원으로 정년 안정을 바라는 51세라 새 편집 도구엔 관심이 생기지 않는다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "maybe",
+      "hook_phrase": "전용 편집툴 결과물도",
+      "blocker": "IT 전문가지만 네트워크 운영 중심이라 문서 도식 편집을 직접 할 일이 드물다.",
+      "trust": 3,
+      "reasoning": "정보통신 석사에 시스템 개발자라 도구의 기술적 원리는 이해하나 그림 재삽입은 그의 업무 밖이다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "감정평가 보고서에 도움될 수 있으나 정해진 양식과 사무 프로세스가 있어 필요성이 애매하다.",
+      "trust": 3,
+      "reasoning": "부동산 감정 전문가로 표·도면 든 평가 보고서를 다루는 50세라 표 레이아웃 보존 기능에 관심이 갈 수 있다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "농기계 기술 영업은 현장 신뢰 구축 중심이라 PDF 도식 편집툴 수요가 없다.",
+      "trust": 2,
+      "reasoning": "공학 출신 기술 영업원이나 현장 관계 중심 업무라 문서 그림 재삽입 도구엔 흥미가 없다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자로 문서 편집이나 PDF 작업을 할 일이 전혀 없다.",
+      "trust": 2,
+      "reasoning": "분당 음식점에서 일하며 건강과 안정을 챙기는 63세라 기술 편집 도구와는 완전히 무관하다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사 업무는 임상 중심이라 PDF 그림 추출 도구를 쓸 상황이 없다.",
+      "trust": 2,
+      "reasoning": "아산의 치과위생사로 정적인 휴식을 즐기는 44세라 문서 편집 워크플로 도구는 그의 삶과 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "maybe",
+      "hook_phrase": "전용 편집툴 결과물도",
+      "blocker": "기획 문서를 다루나 도식 재삽입보다 프로세스 자동화 전반이 관심사라 이 한 기능만으론 약하다.",
+      "trust": 3,
+      "reasoning": "업무 자동화로 개인 시간 확보가 목표인 경영기획 사무원이라 워크플로 보조툴이라는 각도가 그의 관심을 건드린다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "초등 교사 업무와 웹툰·맛집 취미엔 PDF 도식 편집 도구가 필요치 않다.",
+      "trust": 2,
+      "reasoning": "동대문구 초등 교사인 22세라 수업 자료는 만들지만 전문 PDF 도식 추출툴까진 필요를 못 느낀다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입",
+      "blocker": "설계 도면은 전용 CAD로 다뤄 일반 PDF 그림 추출툴이 실무에 맞는지 불확실하다.",
+      "trust": 3,
+      "reasoning": "토목 기술자로 도면·도식 든 보고서를 자주 다루는 41세라 그림 추출 재삽입 기능에 실무적 관심이 생긴다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유치원 교사 업무와 퍼즐·웹툰 취미엔 PDF 도식 편집 도구가 전혀 필요 없다.",
+      "trust": 2,
+      "reasoning": "마산의 유치원 교사인 27세라 아이들과의 상상 수업이 중심이라 전문 문서 편집툴엔 반응하지 않는다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.441704,
+    "duration_ms": 101070,
+    "session_id": "e6fa0c3b-7d06-40cb-b37a-f743a32444c8"
+  }
+}

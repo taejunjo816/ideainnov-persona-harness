@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen01_ko_v4_biz_beyond_paper",
+  "variant": {
+    "id": "gen01_ko_v4_biz_beyond_paper",
+    "headline": "논문만? 사업계획서도 자동으로",
+    "body": "RFP나 연구 결과를 사업계획서·연구제안서로 자동 구조화해 HWPX·DOC·PPT·PDF로 제공. 종량제 ₩4,100/호출로 시작합니다.",
+    "cta": "무료 체험 시작",
+    "angle": "확장-제안서(비연구자 걸림돌 해소)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.4693405,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 56.0,
+    "maybe": 36.0,
+    "yes": 8.0
+  },
+  "mean_trust": 3.08,
+  "top_hook_phrases": [
+    [
+      "사업계획서",
+      4
+    ],
+    [
+      "자동 구조화",
+      4
+    ],
+    [
+      "사업계획서도 자동으로",
+      2
+    ],
+    [
+      "PPT·PDF",
+      1
+    ],
+    [
+      "연구 결과를 사업계획서·연구제안서로",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 사무원의 일상 장부·전표 업무는 사업계획서나 RFP 작성과 무관하다.",
+      1
+    ],
+    [
+      "리빙 소품 브랜드는 구상 단계라 유료 호출까지 지불할 필요를 아직 못 느낀다.",
+      1
+    ],
+    [
+      "기계 시험·검사 현장 업무에는 사업계획서나 연구제안서를 쓸 일이 없다.",
+      1
+    ],
+    [
+      "미디어 디자이너는 직접 디자인하지 자동 생성 문서 포맷이 필요하지 않다.",
+      1
+    ],
+    [
+      "무역 실무는 정형화된 서식 처리라 사업계획서 자동 작성 수요가 거의 없다.",
+      1
+    ]
+  ]
+}

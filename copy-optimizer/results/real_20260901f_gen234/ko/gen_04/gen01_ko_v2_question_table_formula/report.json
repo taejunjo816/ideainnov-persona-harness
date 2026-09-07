@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen01_ko_v2_question_table_formula",
+  "variant": {
+    "id": "gen01_ko_v2_question_table_formula",
+    "headline": "표와 수식, 정말 안 깨질까요?",
+    "body": "47개 형식을 오가며 변환해도 편집 가능한 OMML 수식과 표 레이아웃이 그대로 남습니다. 직접 열어 확인해 보세요.",
+    "cta": "무료 체험 시작",
+    "angle": "질문형-변환신뢰(범용 문서 사용자 대상)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.334036,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 52.0,
+    "no": 40.0,
+    "yes": 8.0
+  },
+  "mean_trust": 2.92,
+  "top_hook_phrases": [
+    [
+      "표와 수식, 정말 안 깨질까요?",
+      3
+    ],
+    [
+      "47개 형식",
+      3
+    ],
+    [
+      "표",
+      3
+    ],
+    [
+      "편집 가능한 OMML 수식과 표 레이아웃",
+      2
+    ],
+    [
+      "표 레이아웃",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 실무는 엑셀 표 위주라 편집 가능한 OMML 수식 보존까지는 절실하지 않다.",
+      1
+    ],
+    [
+      "리빙 소품 온라인 유통 업무에 문서 수식·표 변환은 전혀 관련이 없다.",
+      1
+    ],
+    [
+      "시험 현장 실측 업무 위주라 보고서 문서 변환 빈도가 그리 높지 않다.",
+      1
+    ],
+    [
+      "미디어 디자인은 전용 편집 툴을 쓰므로 워드 기반 수식·표 변환과 거리가 있다.",
+      1
+    ],
+    [
+      "무역 서류는 정형 양식 위주라 복잡한 수식 변환 필요성은 크지 않다.",
+      1
+    ]
+  ]
+}

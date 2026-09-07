@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen03_ko_gen02_ko_v3_table_image_intact",
+  "variant": {
+    "id": "gen03_ko_gen02_ko_v3_table_image_intact",
+    "headline": "표·그림 안 깨지는 문서 변환",
+    "body": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입하고, 표 레이아웃도 그대로. 20MB·30페이지 지원, 초과 시 자동 분할.",
+    "cta": "무료 체험 시작",
+    "angle": "변환 신뢰(그림 추출·표 보존 훅, 사무 실무 일반 사용자)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.262165,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 60.0,
+    "no": 28.0,
+    "yes": 12.0
+  },
+  "mean_trust": 3.56,
+  "top_hook_phrases": [
+    [
+      "표 레이아웃도 그대로",
+      8
+    ],
+    [
+      "그림·도식을 추출",
+      4
+    ],
+    [
+      "무료 체험 시작",
+      3
+    ],
+    [
+      "표·그림 안 깨지는 문서 변환",
+      1
+    ],
+    [
+      "20MB·30페이지 지원",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 업무는 회계 프로그램 위주라 PDF 그림 추출이 일상 필수는 아니다.",
+      1
+    ],
+    [
+      "온라인 판매 상품 이미지 다루기와 문서 변환은 결이 달라 필요를 못 느낀다.",
+      1
+    ],
+    [
+      "시험 데이터는 사내 양식으로 처리해 외부 변환 도구를 굳이 찾지 않을 수 있다.",
+      1
+    ],
+    [
+      "디자이너는 전문 편집툴을 쓰므로 범용 변환기의 품질을 미덥잖게 볼 수 있다.",
+      1
+    ],
+    [
+      "간호조무사 업무는 문서 변환과 무관해 광고가 자신과 상관없게 느껴진다.",
+      1
+    ]
+  ]
+}

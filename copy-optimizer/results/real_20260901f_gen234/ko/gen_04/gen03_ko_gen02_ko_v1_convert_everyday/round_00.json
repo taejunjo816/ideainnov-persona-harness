@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen03_ko_gen02_ko_v1_convert_everyday",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF",
+      "blocker": "'호출당'이라는 개발자용 과금 단위가 경리 실무자에겐 낯설어 개인 이용법이 그려지지 않는다.",
+      "trust": 3,
+      "reasoning": "순천에서 경리 업무로 HWPX·DOCX·PDF를 자주 다루니 형식 유지 변환은 솔깃하나 호출당 과금이 낯설어 망설인다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "가장 저렴한",
+      "blocker": "온라인 쇼핑 판매 업무에 문서 형식 변환 필요가 거의 없어 관심 밖이다.",
+      "trust": 3,
+      "reasoning": "통영에서 리빙 소품 유통을 하는 그에게 표 레이아웃 유지 문서 변환은 일상 업무와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "no",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "현장 기계공학 시험 업무라 문서 형식 변환을 반복적으로 다룰 일이 드물다.",
+      "trust": 3,
+      "reasoning": "기계공학 시험원으로 현장 실측이 주업이라 47개 형식 문서 변환은 자격증 준비나 연봉 목표와 무관하다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림까지 추출해 재삽입",
+      "blocker": "디자인은 전용 그래픽 툴로 처리해 범용 변환기의 이미지 추출 품질을 신뢰하기 어렵다.",
+      "trust": 3,
+      "reasoning": "미디어 콘텐츠 디자이너로서 PDF 속 그림 추출·재삽입 기능엔 흥미가 가지만 전문 툴 대비 품질을 의심한다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF",
+      "blocker": "호출당 과금이 회사 계약 문서 대량 처리 시 비용을 예측하기 어렵게 만든다.",
+      "trust": 4,
+      "reasoning": "익산 무역 사무원으로 계약·선적 문서의 HWPX·DOCX·PDF 변환이 잦아 형식 유지 기능이 실무에 곧장 유용하다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사 업무는 문서 형식 변환과 무관해 광고 자체가 눈에 들어오지 않는다.",
+      "trust": 3,
+      "reasoning": "안산 간호조무사로 환자 케어가 주업이라 47개 형식 문서 변환 서비스에 개인적 필요를 못 느낀다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "'호출당'이란 과금 방식이 낯설어 개인 상담 업무에 어떻게 쓰는지 감이 안 온다.",
+      "trust": 3,
+      "reasoning": "손해사정사로 보상 서류의 표·양식을 자주 다뤄 레이아웃 유지 변환은 유용하나 API식 과금이 걸린다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "maybe",
+      "hook_phrase": "가장 저렴한",
+      "blocker": "고졸 실전파로 호출당 과금 같은 기술적 용어가 진입장벽처럼 느껴진다.",
+      "trust": 3,
+      "reasoning": "마케팅 실무로 각종 문서를 다루지만 은퇴 후 소규모 상담을 지향해 대량 변환 도구 필요성은 낮다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF",
+      "blocker": "학교에서 쓰는 HWP를 가끔 변환할 뿐이라 호출당 유료 서비스까지 쓸지 확신이 안 선다.",
+      "trust": 3,
+      "reasoning": "교육 보조원으로 학교 HWP·PDF 문서를 다뤄 형식 변환은 반갑지만 무료 도구로도 충분하다 여긴다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "연구 보고서는 사내 양식으로 처리해 외부 변환 서비스 도입은 개인 판단 밖이다.",
+      "trust": 4,
+      "reasoning": "고무·플라스틱 연구원으로 표 많은 기술 보고서를 다뤄 레이아웃 유지 변환은 실무 관심을 끈다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "새 도구 도입에 따른 불안이 커 검증되지 않은 변환 서비스에 손이 잘 안 간다.",
+      "trust": 3,
+      "reasoning": "마케팅 실무로 문서 양식을 다루지만 매장 운영 체계화·안정이 우선이라 낯선 서비스엔 신중하다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF",
+      "blocker": "구독형 서비스 기획자라 무료 체험 후 실제 호출당 단가 누적을 따져봐야 한다.",
+      "trust": 4,
+      "reasoning": "법학 전공 상품 기획자로 임대 계약 HWP·PDF를 다루고 호출당 과금 모델 자체에도 직업적 흥미가 있다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "maybe",
+      "hook_phrase": "가장 저렴한",
+      "blocker": "통신사 마케팅은 사내 협업툴로 문서를 처리해 별도 변환 서비스 필요가 크지 않다.",
+      "trust": 3,
+      "reasoning": "분당 마케팅 전문가로 문서 작업은 하나 형식 변환보다 육아·업무 균형이 관심의 중심이다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "yes",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "경영지원 관리자로 업무 매뉴얼과 각종 문서를 시스템화하려는 목표에 형식 유지 변환기가 정확히 맞닿는다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담 업무에 문서 형식 변환 필요가 없어 광고가 관심을 끌지 못한다.",
+      "trust": 3,
+      "reasoning": "대구 전화 상담원으로 상담이 주업이라 47개 형식 문서 변환은 업무나 여가와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF",
+      "blocker": "고객 상담 문서는 회사 시스템으로 처리돼 개인이 유료 변환기를 도입할 여지가 적다.",
+      "trust": 3,
+      "reasoning": "고객 상담 사무원으로 문서를 다루긴 하나 정년까지 안정 근무가 목표라 새 도구 도입엔 소극적이다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "maybe",
+      "hook_phrase": "호출당 2,800원",
+      "blocker": "네트워크 관리가 주업이라 문서 변환 API를 직접 쓸 실무 상황이 자주 오지 않는다.",
+      "trust": 4,
+      "reasoning": "정보통신 대학원 출신 개발자로 '호출당' API식 과금 구조를 정확히 이해하고 기술적 신뢰도를 높게 본다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "감정평가서는 정해진 양식 시스템으로 작성해 외부 변환 서비스 필요가 제한적이다.",
+      "trust": 3,
+      "reasoning": "부동산 감정 전문가로 표 많은 평가 보고서를 다뤄 레이아웃 유지 변환은 눈길이 가나 필요 빈도가 낮다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "maybe",
+      "hook_phrase": "가장 저렴한",
+      "blocker": "기술 영업 제안서는 회사 양식을 쓰고 호출당 과금이 개인 사용엔 부담스럽게 느껴진다.",
+      "trust": 3,
+      "reasoning": "농기계 기술 영업으로 제안서·PDF를 다루지만 현장 신뢰 구축이 우선이라 변환 도구 관심은 부차적이다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자로 문서 형식 변환을 쓸 일이 전혀 없다.",
+      "trust": 3,
+      "reasoning": "분당 음식점 종사자로 건강과 안정된 일상이 관심사라 47개 형식 문서 변환은 삶과 무관하다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사 진료 업무에 문서 변환 필요가 없어 광고가 눈에 들어오지 않는다.",
+      "trust": 3,
+      "reasoning": "치과위생사로 퇴근 후 일 잔상을 지우는 균형을 중시해 업무용 문서 도구엔 관심이 없다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "yes",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "경영 기획 사무원으로 문서 프로세스 자동화와 퇴근 후 시간 확보가 목표라 형식 유지 변환기가 딱 맞는다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF",
+      "blocker": "무료 체험이라도 호출당 과금 방식이 낯설고 개인 교사가 대량 변환할 일은 드물다.",
+      "trust": 3,
+      "reasoning": "초등 교사로 학교 HWP·PDF 문서를 다뤄 형식 변환은 유용하나 저연차라 유료 도구엔 신중하다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림까지 추출해 재삽입",
+      "blocker": "설계 도면·PDF는 전용 CAD 도구로 다뤄 범용 변환기의 도면 정확도가 미덥지 않다.",
+      "trust": 3,
+      "reasoning": "토목 기술자로 도면 PDF와 기술 문서를 다뤄 그림 추출 기능엔 흥미가 가나 전문 정밀도를 의심한다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF",
+      "blocker": "유치원 문서는 원내 양식으로 가끔 처리할 뿐이라 유료 변환 서비스까지 필요치 않다.",
+      "trust": 3,
+      "reasoning": "유치원 교사로 HWP·PDF 서류를 다루긴 하나 아이들과의 예술 수업이 관심의 중심이라 필요 빈도가 낮다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.28625,
+    "duration_ms": 101885,
+    "session_id": "f45face7-ac08-4c2c-b28b-8dc9147dfc27"
+  }
+}

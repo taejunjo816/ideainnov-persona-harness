@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_01_en_정체성호명_researcher",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "She is an operations specialist with an arts background, not a grad student or researcher writing papers with equations.",
+      "trust": 2,
+      "reasoning": "Anna's operations career and classics reading have nothing to do with drafting research papers with editable equations or Q1 review."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant with some college has no need for a research-paper reviewer tool.",
+      "trust": 2,
+      "reasoning": "Karen's transit-service and community work bear no relation to academic drafts, equations, or Q1 journal review."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "no",
+      "hook_phrase": "researchers",
+      "blocker": "He is a retail salesperson, not a grad student or researcher, so the academic tool doesn't fit him.",
+      "trust": 3,
+      "reasoning": "Joseph's STEM curiosity and PC-building might glance at 'researchers,' but retail sales gives him no research writing to submit."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A bedside nurse writing a caregiver guidebook doesn't need Q1 review or editable equations.",
+      "trust": 2,
+      "reasoning": "Barbara's clinical and hospice focus is caregiving, not producing equation-heavy peer-reviewed research drafts."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "She is an accountant pursuing a CPA, not writing academic research papers.",
+      "trust": 2,
+      "reasoning": "Payal's audit and ESG-reporting ambitions don't require a Q1 journal reviewer or editable equation drafting tool."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A retail salesperson finishing a business degree has no research papers to review.",
+      "trust": 2,
+      "reasoning": "Guillermo's retail-management path and guitar-and-hiking life give no reason to draft equation-laden research."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An accountant chasing a CPA doesn't write academic papers needing equation editing or Q1 review.",
+      "trust": 2,
+      "reasoning": "Angelo's forensic-accounting and finance-reading goals are professional, not scholarly research publishing."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "researchers",
+      "blocker": "She reads journals but is a nurse pursuing a BSN, not authoring equation-based research papers.",
+      "trust": 2,
+      "reasoning": "Alejandra's journal-reading is clinical interest; she isn't drafting Q1 manuscripts with editable equations."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An HR professional has no research manuscripts requiring a Q1 reviewer or equations.",
+      "trust": 2,
+      "reasoning": "Janet's people-operations and hosting focus has zero overlap with academic paper drafting tools."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A logistics manager writing a community guidebook isn't a researcher needing equation drafts.",
+      "trust": 2,
+      "reasoning": "Jeffrey's operational and watercolor pursuits, plus a nonfiction guidebook goal, don't involve Q1 journals or equations."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An IT manager doesn't write academic research papers requiring a Q1 reviewer.",
+      "trust": 3,
+      "reasoning": "Hassan's tech-leadership and certification goals are industry-focused, not scholarly publishing with editable equations."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "maybe",
+      "hook_phrase": "grad students and researchers",
+      "blocker": "Though he holds a STEM graduate degree, he now supervises food prep and isn't actively publishing.",
+      "trust": 3,
+      "reasoning": "Felix's graduate STEM background and food-science tinkering might make 'grad students' resonate, but his current kitchen role rarely needs papers."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide has no research writing needs.",
+      "trust": 2,
+      "reasoning": "Tammy's caregiving and CNA-track goals are hands-on, unrelated to Q1 review or editable equations."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hairstylist has no academic papers to draft or review.",
+      "trust": 1,
+      "reasoning": "Esperanza's beauty, dance, and salon ambitions have no connection to research writing tools."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A financial specialist pursuing a CFA doesn't write equation-based academic research.",
+      "trust": 2,
+      "reasoning": "Pradeep's advisory and fintech goals are commercial, not scholarly publishing requiring a Q1 reviewer."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A freight material mover studying supply chain has no research manuscripts to submit.",
+      "trust": 2,
+      "reasoning": "Aldon's logistics and woodworking interests don't require academic paper drafting with editable equations."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "no",
+      "hook_phrase": "researchers",
+      "blocker": "A software developer doesn't write academic papers needing Q1 review or equations.",
+      "trust": 3,
+      "reasoning": "Estelita's STEM engineering work is industry software, not scholarly publishing, so the tool doesn't fit her tasks."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A CEO isn't a grad student or researcher drafting equation-heavy papers.",
+      "trust": 2,
+      "reasoning": "Grato's executive innovation goals don't involve writing Q1 manuscripts with editable equations and references."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hands-on engineer pursuing a PE license isn't writing academic research papers.",
+      "trust": 2,
+      "reasoning": "Kohl reads engineering trends but drafts no Q1 manuscripts; the tool's academic framing misses his practical work."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vehicle detailer has no research writing needs whatsoever.",
+      "trust": 1,
+      "reasoning": "Leola's auto-detailing and art hobbies have no link to grad-student paper drafting or Q1 review."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A janitor pursuing facilities certs isn't writing academic research papers.",
+      "trust": 2,
+      "reasoning": "Mohammed's facility-management goals require credentials, not a Q1 reviewer tool for equation-based manuscripts."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An aircraft mechanic pursuing an A&P license writes no research papers.",
+      "trust": 2,
+      "reasoning": "Nicholas's aviation-maintenance path and country-music life have nothing to do with academic drafting tools."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "maybe",
+      "hook_phrase": "researchers",
+      "blocker": "SLP research rarely uses equations, and 'Q1 reviewer' jargon may feel overpromising to her.",
+      "trust": 3,
+      "reasoning": "Gloria plans a clinical doctorate and peer-reviewed articles, so 'researchers' and the reference-list feature genuinely appeal to her."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A warehouse stocker nearing retirement has no research manuscripts to write.",
+      "trust": 2,
+      "reasoning": "Joseph's supply-chain and woodworking pursuits are practical, unrelated to academic Q1 review or equations."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A financial manager pursuing a CFP isn't writing equation-based academic research papers.",
+      "trust": 2,
+      "reasoning": "Michelle's finance and puzzle-solving pursuits don't require a scholarly reviewer or editable-equation drafting tool."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.17833174999999998,
+    "duration_ms": 56771,
+    "session_id": "e5166b69-1737-4503-b8ef-1bd2d96b51a0"
+  }
+}

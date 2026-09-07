@@ -1,0 +1,71 @@
+{
+  "variant_id": "gen04_ko_gen04_ko_universal_cheapest",
+  "variant": {
+    "id": "gen04_ko_gen04_ko_universal_cheapest",
+    "headline": "47개 형식 변환, 호출당 2,800원",
+    "body": "편집 가능한 OMML 수식과 표 레이아웃, PDF 속 그림까지 그대로 살려 47개 형식을 오갑니다. 가장 저렴한 ₩2,800/호출.",
+    "cta": "무료 체험 시작",
+    "angle": "범용 최저가: 직군 무관하게 통하는 형식 개수·최저가·수식·표·그림 보존 훅 집약",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.43648525,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 64.0,
+    "no": 36.0
+  },
+  "mean_trust": 2.84,
+  "top_hook_phrases": [
+    [
+      "무료 체험 시작",
+      3
+    ],
+    [
+      "47개 형식을 오갑니다",
+      3
+    ],
+    [
+      "표 레이아웃",
+      2
+    ],
+    [
+      "PDF 속 그림까지 그대로 살려",
+      2
+    ],
+    [
+      "편집 가능한 OMML 수식",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 실무는 엑셀·회계 프로그램 위주라 47개 형식 변환의 필요성을 크게 못 느낀다.",
+      1
+    ],
+    [
+      "리빙 소품 온라인 판매 업무에 문서 형식 변환은 거의 쓸 일이 없다.",
+      1
+    ],
+    [
+      "시험 보고서는 사내 양식이 정해져 있어 외부 변환 도구까지 쓸 유인이 약하다.",
+      1
+    ],
+    [
+      "디자이너는 이미 전문 편집·변환 소프트웨어를 갖춰 이 도구가 새롭지 않을 수 있다.",
+      1
+    ],
+    [
+      "무역 서류는 정형화된 인보이스·계약서라 47개 형식이라는 폭넓음이 과한 스펙으로 느껴진다.",
+      1
+    ]
+  ]
+}

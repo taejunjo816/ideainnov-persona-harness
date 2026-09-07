@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_05_en_숫자형_format_count",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "47 formats",
+      "blocker": "Won pricing and Korean HWPX format signal a foreign developer product irrelevant to her US operations work.",
+      "trust": 2,
+      "reasoning": "As an operations specialist she values efficiency tools, but the ₩ pricing and HWPX focus feel foreign and disconnected from her everyday document needs."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A file-conversion API priced in won has nothing to do with her transportation attendant work or hobbies.",
+      "trust": 2,
+      "reasoning": "A transportation service attendant with book-club and gardening interests has no use for a Korean-format document conversion API."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "maybe",
+      "hook_phrase": "per call",
+      "blocker": "The HWPX focus and won pricing suggest a Korean-market tool, not something for his US retail workflow.",
+      "trust": 3,
+      "reasoning": "His STEM background and PC-tinkering curiosity might notice a 'per call' API, but retail sales rarely needs multi-format document conversion."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Document conversion APIs are irrelevant to her bedside nursing and quiet hobbies.",
+      "trust": 2,
+      "reasoning": "A registered nurse focused on palliative care and knitting has no reason to click a developer-oriented conversion service."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "maybe",
+      "hook_phrase": "DOCX, PDF",
+      "blocker": "The Korean HWPX emphasis and won pricing feel foreign to her US audit document work.",
+      "trust": 3,
+      "reasoning": "As an accountant she constantly handles PDF and DOCX files, so multi-format conversion is mildly relevant despite the odd currency."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A won-priced conversion API is unrelated to his retail sales and outdoor hobbies.",
+      "trust": 2,
+      "reasoning": "A young retail salesperson focused on management and guitar has no need for a document-conversion developer tool."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "maybe",
+      "hook_phrase": "DOCX, PDF",
+      "blocker": "Won pricing and HWPX format signal a Korean product that doesn't fit his US accounting workflow.",
+      "trust": 3,
+      "reasoning": "An accountant handling PDF and DOCX daily might glance, but per-call API pricing and Korean formats feel off for his needs."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A file-conversion API is completely unrelated to her nursing and art-therapy pursuits.",
+      "trust": 2,
+      "reasoning": "A nurse focused on community health and watercolor has no use for a developer document-conversion service."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "DOCX, PDF",
+      "blocker": "The API 'per call' pricing in won suits developers, not an HR generalist handling occasional documents.",
+      "trust": 2,
+      "reasoning": "Although HR touches documents, a technical won-priced conversion API is far from her people-focused, relationship-driven work."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "47 formats",
+      "blocker": "The HWPX Korean format and won pricing make it feel irrelevant to his Midwestern logistics management.",
+      "trust": 2,
+      "reasoning": "A logistics manager and watercolorist may value efficiency, but a foreign document-conversion API doesn't match his operational focus."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "per call",
+      "blocker": "The HWPX emphasis and won pricing suggest a Korean-market API not aligned with his US IT projects.",
+      "trust": 3,
+      "reasoning": "As an IT manager doing DIY electronics and automation, he understands 'per call' APIs, so a conversion service could catch his eye."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "no",
+      "hook_phrase": "per call",
+      "blocker": "Document conversion is unrelated to his kitchen supervision and smart-kitchen gadget interests.",
+      "trust": 3,
+      "reasoning": "Despite a STEM background, a food-prep supervisor building kitchen gadgets has little use for a file-conversion API."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A won-priced conversion API is irrelevant to her home health aide work and crafts.",
+      "trust": 2,
+      "reasoning": "A home health aide focused on senior care and quilting has no reason to engage a developer document tool."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A document-conversion API has nothing to do with her hairstyling and creative pursuits.",
+      "trust": 2,
+      "reasoning": "A young hairstylist focused on salon dreams and dance would find a technical conversion service entirely off-topic."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "maybe",
+      "hook_phrase": "DOCX, PDF",
+      "blocker": "The Korean HWPX format and won pricing feel disconnected from his US financial advisory work.",
+      "trust": 3,
+      "reasoning": "A fintech-curious financial specialist handling reports might note the conversion tool, but per-call won pricing seems foreign."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "47 formats",
+      "blocker": "Won pricing and HWPX signal a Korean developer product outside his warehouse logistics scope.",
+      "trust": 2,
+      "reasoning": "A material mover reading logistics tech might glance, but document-format conversion doesn't match his freight and warehouse goals."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "maybe",
+      "hook_phrase": "per call",
+      "blocker": "The HWPX focus and won pricing suggest a Korean-market API unfamiliar to her US software work.",
+      "trust": 3,
+      "reasoning": "As a software developer she recognizes per-call APIs, so a multi-format conversion service is plausibly relevant to her work."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "maybe",
+      "hook_phrase": "47 formats",
+      "blocker": "The won pricing and HWPX emphasis feel foreign to his Central Valley business operations.",
+      "trust": 3,
+      "reasoning": "A STEM-trained CEO who runs coding workshops might see value in a conversion API, though the Korean framing feels off-market."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "DOCX, PDF",
+      "blocker": "A won-priced document API is unrelated to his hands-on manufacturing engineering work.",
+      "trust": 2,
+      "reasoning": "An engineer focused on lean manufacturing and classic cars has little need for a foreign document-conversion service."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A file-conversion API is completely unrelated to her auto detailing and art hobbies.",
+      "trust": 2,
+      "reasoning": "A vehicle cleaner passionate about detailing and painting has no use for a technical document-conversion tool."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A won-priced conversion API has nothing to do with his facility-cleaning and woodworking life.",
+      "trust": 2,
+      "reasoning": "A janitor pursuing facilities management would find a Korean document-conversion API irrelevant to his practical goals."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A document-conversion API is unrelated to his aircraft maintenance and outdoor hobbies.",
+      "trust": 2,
+      "reasoning": "A young aircraft mechanic focused on his A&P license and fishing has no reason to click a file-conversion service."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "no",
+      "hook_phrase": "DOCX, PDF",
+      "blocker": "The API pricing in won and HWPX focus feel foreign to her clinical speech-pathology documentation.",
+      "trust": 2,
+      "reasoning": "Although she handles clinical documents, a developer conversion API in a Korean format is off her professional path."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A won-priced conversion API is unrelated to his stockroom work and woodworking hobbies.",
+      "trust": 2,
+      "reasoning": "A near-retirement stocker focused on warehouse supervision and BBQ has no use for a technical document API."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "maybe",
+      "hook_phrase": "DOCX, PDF",
+      "blocker": "The Korean HWPX format and won pricing feel disconnected from her US finance management documents.",
+      "trust": 3,
+      "reasoning": "A financial manager handling reports and PDFs might note conversion value, but per-call won pricing signals a foreign product."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.37098475000000003,
+    "duration_ms": 67198,
+    "session_id": "525d5266-09c0-4561-bed0-58c04d246d09"
+  }
+}

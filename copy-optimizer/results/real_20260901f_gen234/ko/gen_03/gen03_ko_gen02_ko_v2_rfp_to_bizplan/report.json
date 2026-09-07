@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen03_ko_gen02_ko_v2_rfp_to_bizplan",
+  "variant": {
+    "id": "gen03_ko_gen02_ko_v2_rfp_to_bizplan",
+    "headline": "RFP를 사업계획서로 자동 구조화",
+    "body": "연구 결과나 RFP를 사업계획서·연구제안서로 자동 구조화. 경제성·법률 적합성 리포트까지, HWPX·DOC·PPT·PDF로 제공.",
+    "cta": "무료 체험 시작",
+    "angle": "실무 제안서(RFP·자동 구조화 훅 유지, 논문 무관 실무자 대상)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.44097775,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 56.0,
+    "maybe": 36.0,
+    "yes": 8.0
+  },
+  "mean_trust": 3.2,
+  "top_hook_phrases": [
+    [
+      "사업계획서·연구제안서로 자동 구조화",
+      5
+    ],
+    [
+      "자동 구조화",
+      4
+    ],
+    [
+      "경제성·법률 적합성 리포트",
+      2
+    ],
+    [
+      "무료 체험 시작",
+      1
+    ],
+    [
+      "PPT",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 실무는 전표·정산 업무라 RFP나 사업계획서 자동화와 직접 관련이 없다.",
+      1
+    ],
+    [
+      "온라인 판매 실무자라 RFP·연구제안서라는 용어가 자신의 브랜드 론칭 계획과 거리감이 있다.",
+      1
+    ],
+    [
+      "현장 기계공학 시험원 업무는 문서 제안서가 아니라 시험·측정 실무라 관련성이 없다.",
+      1
+    ],
+    [
+      "미디어 콘텐츠 디자이너는 시각물 제작이 주력이라 RFP 구조화 문서 도구가 필요 없다.",
+      1
+    ],
+    [
+      "무역 사무 문서는 계약·통관 서류라 RFP 사업계획서 자동화와 업무 결이 다르다.",
+      1
+    ]
+  ]
+}

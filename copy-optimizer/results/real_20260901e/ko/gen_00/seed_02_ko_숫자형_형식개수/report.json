@@ -1,0 +1,74 @@
+{
+  "variant_id": "seed_02_ko_숫자형_형식개수",
+  "variant": {
+    "id": "seed_02_ko_숫자형_형식개수",
+    "lang": "ko",
+    "headline": "형식 변환 47개, 호출당 2,800원",
+    "body": "HWPX·DOCX·PDF 등 47개 형식 상호 변환이 종량제 ₩2,800/호출로 시작됩니다.",
+    "cta": "무료 체험 시작",
+    "angle": "숫자형-형식개수",
+    "hook_type": "숫자형",
+    "hook_template": "숫자 + 단위 + 결과/효과",
+    "source_evidence": "youtube_hooks.json[ko]: 훅유형 '숫자형' 가중 비중 5307.9 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '숫자 + 단위 + 결과/효과' 적용",
+    "evidence": [
+      "programs.hwp.features[0]",
+      "programs.hwp.price_ko"
+    ],
+    "products_program": "hwp"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.29591575,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 44.0,
+    "no": 56.0
+  },
+  "mean_trust": 2.52,
+  "top_hook_phrases": [
+    [
+      "HWPX·DOCX·PDF",
+      4
+    ],
+    [
+      "47개 형식 상호 변환",
+      3
+    ],
+    [
+      "종량제",
+      3
+    ],
+    [
+      "호출당",
+      1
+    ],
+    [
+      "무료 체험 시작",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "무료 변환 도구가 흔한데 호출당 2,800원 종량제가 경리 실무에 과한 지출로 느껴진다.",
+      1
+    ],
+    [
+      "온라인 쇼핑 판매 업무에 문서 형식 상호 변환이 거의 필요 없다.",
+      1
+    ],
+    [
+      "기계 시험 현장 업무라 문서 형식 변환 도구가 관심 밖이다.",
+      1
+    ],
+    [
+      "미디어 디자인 파일 포맷을 다루지 오피스 문서 변환은 업무와 거리가 있다.",
+      1
+    ],
+    [
+      "호출당 과금 방식이 개인적 문서 처리에는 비용 대비 효용이 불확실하다.",
+      1
+    ]
+  ]
+}

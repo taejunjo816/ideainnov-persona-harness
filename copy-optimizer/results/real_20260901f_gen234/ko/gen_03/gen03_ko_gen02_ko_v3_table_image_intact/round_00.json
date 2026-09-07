@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen03_ko_gen02_ko_v3_table_image_intact",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃도 그대로",
+      "blocker": "경리 업무는 주로 회계 프로그램·엑셀이라 PDF 도식 추출까지 필요한 경우는 드물다.",
+      "trust": 4,
+      "reasoning": "순천에서 꼼꼼히 경리 문서를 다루는 실무자로서 표 깨짐 문제는 겪지만 도식 추출 니즈는 크지 않다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "온라인 판매·리빙 소품 브랜드 관심사와 문서 변환 도구는 접점이 거의 없다.",
+      "trust": 3,
+      "reasoning": "통영에서 쇼핑 판매와 브랜드 론칭을 꿈꾸는 그에게 표·그림 문서 변환은 업무 관련성이 낮다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "maybe",
+      "hook_phrase": "표·그림 안 깨지는 문서 변환",
+      "blocker": "시험 리포트는 사내 양식으로 처리해 외부 변환 도구까지 찾을 동기가 약하다.",
+      "trust": 4,
+      "reasoning": "기계공학 시험원으로 데이터 표가 든 보고서를 다루기에 표 보존 문구는 눈에 들어올 수 있다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입",
+      "blocker": "디자이너는 전문 편집툴을 쓰기에 범용 변환기의 그림 품질을 신뢰하지 않을 수 있다.",
+      "trust": 3,
+      "reasoning": "미디어 콘텐츠 디자이너로 그림 깨짐에 민감해 훅에 반응하지만 전문툴 대비 품질을 의심한다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "yes",
+      "hook_phrase": "표 레이아웃도 그대로",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "무역 사무원으로 인보이스·계약서 PDF의 표 깨짐을 자주 겪고 ICT 전공이라 이런 실무 도구를 곧장 시도한다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사 업무는 환자 케어 중심이라 문서 변환 도구가 필요하지 않다.",
+      "trust": 3,
+      "reasoning": "안산에서 간호·수영·여행으로 사는 그에게 표·그림 문서 변환은 업무·취미 모두 무관하다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "yes",
+      "hook_phrase": "표 레이아웃도 그대로",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "손해사정사로 도표·사진이 든 사정서와 보고서를 다뤄 표·그림 보존 변환은 실질적 업무 도움이 된다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "maybe",
+      "hook_phrase": "무료 체험 시작",
+      "blocker": "실전 현장형 마케터라 문서 정밀 변환보다 기획·홍보 활동에 집중한다.",
+      "trust": 4,
+      "reasoning": "마케팅 자료를 다루는 실무자로 무료 체험엔 관심 있으나 도식 추출 니즈는 뚜렷하지 않다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃도 그대로",
+      "blocker": "교육 보조 업무는 정형화된 문서라 변환 도구 필요성이 크지 않다.",
+      "trust": 4,
+      "reasoning": "교사 보조로 유인물·표를 다루기에 표 보존은 유용하나 급한 업무 도구로 느끼진 않는다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입",
+      "blocker": "연구는 전용 논문 편집 환경을 써서 범용 변환기 그림 정확도를 확신하지 못한다.",
+      "trust": 4,
+      "reasoning": "고무 공정 연구원으로 도식·표가 든 기술 문서를 작성해 도식 추출 훅에 관심을 보인다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃도 그대로",
+      "blocker": "소매점 운영 시스템화가 우선이라 변화·신규 도구 도입에 신중하다.",
+      "trust": 4,
+      "reasoning": "대학원 교육 배경의 꼼꼼한 마케터로 표 보존은 실무에 유용하나 변화 회피 성향이 클릭을 늦춘다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "maybe",
+      "hook_phrase": "20MB·30페이지 지원, 초과 시 자동 분할",
+      "blocker": "임대 상품 기획 문서가 이 도구를 꼭 필요로 하는지 확신이 없다.",
+      "trust": 4,
+      "reasoning": "법학 전공 상품 기획자로 완성도에 집착해 자동 분할 같은 구체 스펙에 흥미를 느낀다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃도 그대로",
+      "blocker": "통신사 마케팅은 사내 협업툴 중심이라 별도 변환기 도입 유인이 약하다.",
+      "trust": 4,
+      "reasoning": "분당의 체계적 마케터로 자료 표 깨짐 경험은 있으나 업무 흐름상 급한 필요는 아니다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "yes",
+      "hook_phrase": "누구나 쉽게 이해하고 따라 할 수 있는",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "경영 지원 관리자로 표가 든 업무 매뉴얼을 만들기에 표·그림 보존 변환은 정확히 그의 과제와 맞는다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담 업무는 문서 변환과 무관하고 관리자 여유를 추구하는 단계다.",
+      "trust": 3,
+      "reasoning": "달서구 전화 상담원으로 문서 편집보다 상담·후배 양성에 관심이 있어 이 도구는 무관하다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 사무는 정형 처리라 그림·표 변환 니즈가 낮다.",
+      "trust": 3,
+      "reasoning": "안정적 정년 근무를 원하는 상담 사무원으로 새 변환 도구 학습보다 현 업무 유지를 선호한다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입",
+      "blocker": "네트워크 관리자는 문서보다 시스템 운영이 주 업무라 개인적 필요가 크지 않다.",
+      "trust": 4,
+      "reasoning": "ICT 대학원 출신 개발자로 도구 스펙을 이해하고 신뢰하나 문서 변환 자체는 핵심 업무가 아니다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃도 그대로",
+      "blocker": "감정평가서는 지정 양식·전문 프로그램을 써서 범용 변환기 신뢰가 낮다.",
+      "trust": 4,
+      "reasoning": "부동산 감정 전문가로 도표·사진이 든 감정서를 다뤄 표 보존 훅은 끌리나 전문 양식 의존도가 높다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "maybe",
+      "hook_phrase": "무료 체험 시작",
+      "blocker": "기술 영업은 대면 신뢰 구축 중심이라 문서 변환 도구 필요성이 낮다.",
+      "trust": 4,
+      "reasoning": "공학도 출신 영업원으로 견적·카탈로그 PDF를 다루긴 하나 도식 추출까진 급하지 않다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자로 문서 변환 도구를 쓸 업무 상황이 없다.",
+      "trust": 3,
+      "reasoning": "63세 음식점 종사자로 산책·빵집·건강정보가 관심사라 사무용 변환 도구와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사 업무는 임상 중심이라 문서 변환이 필요 없다.",
+      "trust": 3,
+      "reasoning": "아산의 베테랑 치과위생사로 퇴근 후 정적 휴식을 중시해 사무 문서 도구는 무관하다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "yes",
+      "hook_phrase": "업무 프로세스를 완전히 자동화",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "경영 기획 사무원으로 표·그림 든 기획서를 다루고 자동화로 퇴근 시간 확보를 원해 이 도구와 정확히 맞는다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃도 그대로",
+      "blocker": "초등 교사 업무는 학교 양식 유인물이라 정교한 문서 변환 필요가 크지 않다.",
+      "trust": 4,
+      "reasoning": "22세 초등교사로 표 든 학습자료를 만들지만 도식 추출까지 필요한 상황은 드물다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입",
+      "blocker": "토목 도면은 CAD 전용툴을 쓰므로 범용 변환기가 도면을 제대로 처리할지 의심된다.",
+      "trust": 4,
+      "reasoning": "토목 기술자로 도면·표가 든 설계 문서를 다뤄 도식 보존 훅에 관심 있으나 전용 CAD 의존이 걸린다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유치원 교사 업무는 아이 중심 활동이라 문서 변환 도구 필요성이 없다.",
+      "trust": 3,
+      "reasoning": "마산의 유치원 교사로 퍼즐·웹툰·트레킹이 취미라 사무용 변환 도구와 관련성이 없다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.4173165,
+    "duration_ms": 87423,
+    "session_id": "ba3f14df-bb25-435c-ad25-ec772403baa8"
+  }
+}

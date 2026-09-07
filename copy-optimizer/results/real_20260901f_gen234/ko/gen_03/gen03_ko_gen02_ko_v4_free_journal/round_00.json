@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen03_ko_gen02_ko_v4_free_journal",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "no",
+      "hook_phrase": "무료",
+      "blocker": "경리 사무원으로 SCI 논문을 쓸 일이 전혀 없어 저널 매칭 서비스가 무의미하다.",
+      "trust": 2,
+      "reasoning": "순천의 전문대 출신 경리 사무원으로 학술 논문 투고와 무관해 무료라도 클릭할 이유가 없다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "온라인 쇼핑 판매원으로 SCI 저널 투고와 완전히 동떨어진 삶을 산다.",
+      "trust": 2,
+      "reasoning": "리빙 소품 브랜드를 꿈꾸는 유통업자에게 학술 저널 매칭은 관심 영역 밖이다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "no",
+      "hook_phrase": "무료",
+      "blocker": "기계정비 국가 기술 자격증이 목표일 뿐 논문 작성과는 무관하다.",
+      "trust": 2,
+      "reasoning": "현장 시험원으로 기술 자격증 취득에 집중해 SCI 저널 투고는 그의 커리어와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "미디어 콘텐츠 디자이너로 학술 논문 투고 경험이 전혀 없다.",
+      "trust": 2,
+      "reasoning": "평온한 정년퇴직을 지향하는 디자이너에게 SCI 저널 추천은 무관한 전문 서비스다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "no",
+      "hook_phrase": "무료",
+      "blocker": "무역 실무자로 논문 초록을 붙여넣을 일 자체가 없다.",
+      "trust": 2,
+      "reasoning": "ICT 전공했지만 무역 사무 실무자라 SCI 저널 매칭은 업무·목표와 전혀 겹치지 않는다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사로 학술 논문을 작성·투고할 일이 없다.",
+      "trust": 2,
+      "reasoning": "실무 숙련도 유지를 원하는 조무사에게 SCI 저널 투고 서비스는 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "no",
+      "hook_phrase": "무료",
+      "blocker": "손해사정 실무자로 SCI 논문 투고와 무관한 직무를 수행한다.",
+      "trust": 2,
+      "reasoning": "보건복지 전공 4년제지만 손해사정 실무자라 학술 저널 매칭은 현재 관심사가 아니다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고졸 마케팅 실전파로 학술 논문 투고와 완전히 무관하다.",
+      "trust": 2,
+      "reasoning": "현장 실무형 마케터에게 SCI 저널 추천은 자신의 은퇴 후 계획과 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "교육 보조원으로 논문 투고 경험이나 필요가 전혀 없다.",
+      "trust": 2,
+      "reasoning": "사회복지사 자격증이 목표인 보조원에게 SCI 저널 매칭은 무의미한 전문 도구다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "적합도 기준으로 SCI 저널 추천",
+      "blocker": "기업 소속 고무·플라스틱 연구원이라 SCI 논문을 실제 투고할 기회가 드물 수 있다.",
+      "trust": 3,
+      "reasoning": "공학 전공 연구원이자 기술사 목표라 SCI 저널 추천이 유일하게 직무와 스칠 수 있는 대상이다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "no",
+      "hook_phrase": "무료",
+      "blocker": "교육학 대학원 출신이나 현재 소매점 마케터로 논문 투고와 무관하다.",
+      "trust": 2,
+      "reasoning": "대학원 학위가 있지만 매장 운영 체계화에 집중하는 마케터라 SCI 저널은 관심 밖이다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "법학 전공 상품 기획자로 학술 저널 투고와 전혀 관련이 없다.",
+      "trust": 2,
+      "reasoning": "구독형 서비스 런칭을 꿈꾸는 기획자에게 SCI 저널 매칭은 업무·목표와 무관하다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "예술·인문 전공 통신사 마케터로 SCI 논문 투고 경험이 없다.",
+      "trust": 2,
+      "reasoning": "실무 마케팅 전문가로 관리자 성장을 지향해 학술 저널 추천은 관심 영역이 아니다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "maybe",
+      "hook_phrase": "논문 초록을 붙여넣으면",
+      "blocker": "자연과학 대학원 출신이나 현재 경영지원 관리자로 논문 투고를 하지 않는다.",
+      "trust": 3,
+      "reasoning": "자연과학·수학 대학원 경험이 있어 논문 초록·저널 매칭 개념에 낯익어 호기심이 스칠 수 있다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담원으로 SCI 저널 투고와 완전히 무관한 직무다.",
+      "trust": 2,
+      "reasoning": "후배 양성 관리자로의 여유를 원하는 상담원에게 학술 저널 매칭은 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 사무원으로 논문 투고 경험과 필요가 전혀 없다.",
+      "trust": 2,
+      "reasoning": "정년까지 안정 근무를 원하는 상담 선임에게 SCI 저널 추천은 무의미한 서비스다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "no",
+      "hook_phrase": "무료",
+      "blocker": "ICT 대학원 출신 개발자지만 실무 운영자로 학술 논문 투고를 하지 않는다.",
+      "trust": 3,
+      "reasoning": "대학원 학위로 논문 개념은 알지만 시스템 무결성 유지에 집중하는 개발자라 투고와 무관하다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "부동산 감정 전문가로 학술 저널 투고와 전혀 관련이 없다.",
+      "trust": 2,
+      "reasoning": "선임 감정평가사 입지를 다지려는 그녀에게 SCI 저널 매칭은 직무와 무관한 도구다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "농기계 기술 영업원으로 논문 초록을 다룰 일이 없다.",
+      "trust": 2,
+      "reasoning": "공학 출신이지만 현장 영업 신뢰 구축이 목표라 학술 저널 추천은 관심사가 아니다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자로 SCI 논문 투고와 완전히 동떨어져 있다.",
+      "trust": 2,
+      "reasoning": "은퇴 준비와 건강을 챙기는 음식점 종사자에게 학술 저널 매칭은 무의미하다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사로 학술 논문 투고 경험이나 필요가 없다.",
+      "trust": 2,
+      "reasoning": "베테랑 위생사로 숙련도 유지를 원해 SCI 저널 추천은 그녀 삶과 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "경영 기획 사무원으로 SCI 논문 투고와 무관한 직무다.",
+      "trust": 2,
+      "reasoning": "기획 업무 자동화가 목표인 사무원에게 학술 저널 매칭은 실무와 관련이 없다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "초등학교 교사로 SCI 저널 투고와 전혀 관련이 없다.",
+      "trust": 2,
+      "reasoning": "다정한 교사로 남길 원하는 22세 초등교사에게 학술 저널 추천은 무관한 서비스다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "no",
+      "hook_phrase": "무료",
+      "blocker": "토목 기술자로 기술사 자격증이 목표일 뿐 논문 투고와는 무관하다.",
+      "trust": 2,
+      "reasoning": "공학 출신이나 현장 선임 기술자를 지향해 SCI 저널 매칭은 그의 목표와 겹치지 않는다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유치원 교사로 학술 논문 투고와 완전히 무관한 직무다.",
+      "trust": 2,
+      "reasoning": "아이들의 예술 공간을 꿈꾸는 유치원 교사에게 SCI 저널 추천은 관심 영역 밖이다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.39776799999999995,
+    "duration_ms": 77127,
+    "session_id": "da1db29f-6db8-46ab-8d90-262fa53ff53f"
+  }
+}

@@ -1,0 +1,3 @@
+[variant gen03_ko_gen02_ko_v3_table_image_intact] lang=ko 25 personas -> 1 call(s) of up to 25 (dry_run=False)
+  batch 0: 25 verdicts, cost=$0.4173, wall=88.8s -> round_00.json
+[variant gen03_ko_gen02_ko_v3_table_image_intact] done. n=25 would_click_pct={'maybe': 56.0, 'no': 28.0, 'yes': 16.0} mean_trust=3.68 total_cost_usd=0.4173

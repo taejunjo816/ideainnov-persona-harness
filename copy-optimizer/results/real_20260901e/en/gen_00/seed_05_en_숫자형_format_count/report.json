@@ -1,0 +1,66 @@
+{
+  "variant_id": "seed_05_en_숫자형_format_count",
+  "variant": {
+    "id": "seed_05_en_숫자형_format_count",
+    "lang": "en",
+    "headline": "47 formats, from ₩2,800 a call",
+    "body": "Convert across 47 formats - HWPX, DOCX, PDF and more - starting at ₩2,800 per call.",
+    "cta": "Start free trial",
+    "angle": "숫자형-format_count",
+    "hook_type": "숫자형",
+    "hook_template": "숫자 + 단위 + 결과/효과",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '숫자형' 가중 비중 4606.8 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '숫자 + 단위 + 결과/효과' 적용",
+    "evidence": [
+      "programs.hwp.features[0] (translated from KO; no EN field)",
+      "programs.hwp.price_ko (KRW figure carried over; no EN price field)"
+    ],
+    "products_program": "hwp"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.37098475000000003,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 68.0,
+    "maybe": 32.0
+  },
+  "mean_trust": 2.36,
+  "top_hook_phrases": [
+    [
+      "DOCX, PDF",
+      7
+    ],
+    [
+      "47 formats",
+      4
+    ],
+    [
+      "per call",
+      4
+    ]
+  ],
+  "top_blockers": [
+    [
+      "Won pricing and Korean HWPX format signal a foreign developer product irrelevant to her US operations work.",
+      1
+    ],
+    [
+      "A file-conversion API priced in won has nothing to do with her transportation attendant work or hobbies.",
+      1
+    ],
+    [
+      "The HWPX focus and won pricing suggest a Korean-market tool, not something for his US retail workflow.",
+      1
+    ],
+    [
+      "Document conversion APIs are irrelevant to her bedside nursing and quiet hobbies.",
+      1
+    ],
+    [
+      "The Korean HWPX emphasis and won pricing feel foreign to her US audit document work.",
+      1
+    ]
+  ]
+}

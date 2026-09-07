@@ -1,0 +1,63 @@
+{
+  "variant_id": "gen03_ko_gen02_ko_v4_free_journal",
+  "variant": {
+    "id": "gen03_ko_gen02_ko_v4_free_journal",
+    "headline": "SCI 저널 추천, 저널 매칭은 무료",
+    "body": "논문 초록을 붙여넣으면 적합도 기준으로 SCI 저널 추천, 투고 요건 체크리스트까지 무료. 리젝 후 차순위 저널도 바로 재매칭.",
+    "cta": "무료 저널 매칭",
+    "angle": "무료 진입(연구자 대상, 무료 훅으로 부담 제거)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.39776799999999995,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 92.0,
+    "maybe": 8.0
+  },
+  "mean_trust": 2.12,
+  "top_hook_phrases": [
+    [
+      "무료",
+      7
+    ],
+    [
+      "적합도 기준으로 SCI 저널 추천",
+      1
+    ],
+    [
+      "논문 초록을 붙여넣으면",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 사무원으로 SCI 논문을 쓸 일이 전혀 없어 저널 매칭 서비스가 무의미하다.",
+      1
+    ],
+    [
+      "온라인 쇼핑 판매원으로 SCI 저널 투고와 완전히 동떨어진 삶을 산다.",
+      1
+    ],
+    [
+      "기계정비 국가 기술 자격증이 목표일 뿐 논문 작성과는 무관하다.",
+      1
+    ],
+    [
+      "미디어 콘텐츠 디자이너로 학술 논문 투고 경험이 전혀 없다.",
+      1
+    ],
+    [
+      "무역 실무자로 논문 초록을 붙여넣을 일 자체가 없다.",
+      1
+    ]
+  ]
+}

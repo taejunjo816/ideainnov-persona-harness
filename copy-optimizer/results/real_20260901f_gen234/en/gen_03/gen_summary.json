@@ -1,0 +1,58 @@
+{
+  "generation": 3,
+  "ranking": [
+    {
+      "variant_id": "gen03_en_var_05_proposal_scaling",
+      "score": 40.32,
+      "hook_type": null,
+      "headline": "One proposal, many deliverables"
+    },
+    {
+      "variant_id": "gen03_en_var_03_rfp_business",
+      "score": 36.32,
+      "hook_type": null,
+      "headline": "One RFP upload, ready to pitch"
+    },
+    {
+      "variant_id": "gen01_en_var_02_equation_preserve",
+      "score": 33.6,
+      "hook_type": null,
+      "headline": "Don't let equations become images"
+    },
+    {
+      "variant_id": "seed_16_en_부정형_equation_preserve",
+      "score": 33.6,
+      "hook_type": "부정형",
+      "headline": "Don't let your equations become images"
+    },
+    {
+      "variant_id": "seed_13_en_역설_반전_tos_safe",
+      "score": 32.32,
+      "hook_type": "역설·반전",
+      "headline": "Automated - except the last click"
+    },
+    {
+      "variant_id": "gen03_en_var_01_equation_preserve",
+      "score": 31.36,
+      "hook_type": null,
+      "headline": "Don't let equations become images"
+    },
+    {
+      "variant_id": "gen03_en_var_02_hwp_office_users",
+      "score": 22.4,
+      "hook_type": null,
+      "headline": "HWP files break at the equations"
+    },
+    {
+      "variant_id": "gen03_en_var_04_tos_safe_matching",
+      "score": 16.96,
+      "hook_type": null,
+      "headline": "Automated - except the last click"
+    }
+  ],
+  "elites": [
+    "gen03_en_var_05_proposal_scaling",
+    "gen03_en_var_03_rfp_business",
+    "gen01_en_var_02_equation_preserve"
+  ]
+}

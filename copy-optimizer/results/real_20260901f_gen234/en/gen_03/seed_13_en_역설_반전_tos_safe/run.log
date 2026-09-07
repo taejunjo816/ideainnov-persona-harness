@@ -1,0 +1,3 @@
+[variant seed_13_en_역설_반전_tos_safe] lang=en 25 personas -> 1 call(s) of up to 25 (dry_run=False)
+  batch 0: 25 verdicts, cost=$0.2148, wall=77.1s -> round_00.json
+[variant seed_13_en_역설_반전_tos_safe] done. n=25 would_click_pct={'maybe': 36.0, 'no': 64.0} mean_trust=2.24 total_cost_usd=0.2148

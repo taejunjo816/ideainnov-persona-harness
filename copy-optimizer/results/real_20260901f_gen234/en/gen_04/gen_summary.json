@@ -1,0 +1,58 @@
+{
+  "generation": 4,
+  "ranking": [
+    {
+      "variant_id": "gen03_en_var_05_proposal_scaling",
+      "score": 43.84,
+      "hook_type": null,
+      "headline": "One proposal, many deliverables"
+    },
+    {
+      "variant_id": "gen04_en_gen04_en_var_01_rfp_business",
+      "score": 41.6,
+      "hook_type": null,
+      "headline": "One RFP upload, ready to pitch"
+    },
+    {
+      "variant_id": "gen04_en_gen04_en_var_02_proposal_scaling",
+      "score": 40.48,
+      "hook_type": null,
+      "headline": "One proposal, many deliverables"
+    },
+    {
+      "variant_id": "gen03_en_var_03_rfp_business",
+      "score": 37.92,
+      "hook_type": null,
+      "headline": "One RFP upload, ready to pitch"
+    },
+    {
+      "variant_id": "gen01_en_var_02_equation_preserve",
+      "score": 31.04,
+      "hook_type": null,
+      "headline": "Don't let equations become images"
+    },
+    {
+      "variant_id": "gen04_en_gen04_en_var_04_journal_clarity",
+      "score": 22.72,
+      "hook_type": null,
+      "headline": "See journal fit before you submit"
+    },
+    {
+      "variant_id": "gen04_en_gen04_en_var_05_blank_page_draft",
+      "score": 21.12,
+      "hook_type": null,
+      "headline": "One sentence to a full SCI draft"
+    },
+    {
+      "variant_id": "gen04_en_gen04_en_var_03_conversion_tables",
+      "score": 19.2,
+      "hook_type": null,
+      "headline": "HWP to Word, nothing to fix"
+    }
+  ],
+  "elites": [
+    "gen03_en_var_05_proposal_scaling",
+    "gen04_en_gen04_en_var_01_rfp_business",
+    "gen04_en_gen04_en_var_02_proposal_scaling"
+  ]
+}

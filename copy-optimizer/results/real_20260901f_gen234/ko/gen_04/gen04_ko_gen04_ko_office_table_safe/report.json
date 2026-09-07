@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen04_ko_gen04_ko_office_table_safe",
+  "variant": {
+    "id": "gen04_ko_gen04_ko_office_table_safe",
+    "headline": "매일 다루는 문서, 표 안 깨지게 변환",
+    "body": "견적서·정산서 같은 문서도 HWPX·DOCX·PDF로 오가며 표 레이아웃과 스타일 그대로. 가장 저렴한 ₩2,800/호출로 처리하세요.",
+    "cta": "무료 체험 시작",
+    "angle": "경리·사무 걸림돌 해소: 논문/제안서가 아닌 일상 사무 문서의 표 보존으로 관련성 제시",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.43967625,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "yes": 16.0,
+    "maybe": 56.0,
+    "no": 28.0
+  },
+  "mean_trust": 3.4,
+  "top_hook_phrases": [
+    [
+      "표 레이아웃과 스타일 그대로",
+      5
+    ],
+    [
+      "표 안 깨지게 변환",
+      5
+    ],
+    [
+      "가장 저렴한 ₩2,800/호출",
+      2
+    ],
+    [
+      "견적서·정산서 같은 문서도 HWPX·DOCX·PDF로 오가며",
+      2
+    ],
+    [
+      "HWPX·DOCX·PDF로 오가며 표 레이아웃",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "₩2,800/호출 과금 방식이 개인 경리 실무자에게 부담스럽게 느껴질 수 있다.",
+      1
+    ],
+    [
+      "온라인 판매 중심이라 정형 사무 문서 변환 빈도가 낮아 필요성이 애매하다.",
+      1
+    ],
+    [
+      "기계공학 시험원 업무는 문서 표 변환보다 시험·측정 실무가 중심이라 무관하다.",
+      1
+    ],
+    [
+      "미디어 콘텐츠 디자인 작업은 사무 표 문서가 아닌 그래픽 파일 위주라 접점이 없다.",
+      1
+    ],
+    [
+      "회사 계정·보안 정책상 외부 변환 서비스 도입 결정 권한이 없을 수 있다.",
+      1
+    ]
+  ]
+}

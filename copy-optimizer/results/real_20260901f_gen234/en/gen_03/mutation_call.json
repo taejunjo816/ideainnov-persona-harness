@@ -1,0 +1,104 @@
+{
+  "elites": [
+    "gen01_en_var_02_equation_preserve",
+    "gen03_en_var_03_rfp_business",
+    "gen03_en_var_05_proposal_scaling"
+  ],
+  "hook_phrases_sampled": [
+    "economic and legal analysis",
+    "patent planning",
+    "IR pitch deck",
+    "specs",
+    "One proposal scales",
+    "KPI rationale",
+    "channel-ready copy",
+    "ready to pitch",
+    "RFP upload",
+    "hashtags",
+    "Equations stay editable objects after conversion",
+    "nothing to fix afterward",
+    "Convert free",
+    "Don't let equations become images"
+  ],
+  "blockers_sampled": [
+    "Academic journal matching has nothing to do with her operations career or classics reading.",
+    "She writes a caregiver guidebook, not peer-reviewed papers, so journal matching serves no purpose.",
+    "Her operations and arts-humanities work rarely involves documents with mathematical equation objects.",
+    "He builds PCs and sells retail, but never authors papers needing journal matching.",
+    "A transportation attendant handling train schedules has no reason to convert Korean HWP files with equations.",
+    "Accountants work in spreadsheet formulas, not the equation objects this tool preserves.",
+    "The copy never says what is being matched or submitted, so its relevance to her operations work is unclear.",
+    "Accountants work in spreadsheets, not editable-equation documents that flatten into images."
+  ],
+  "children": [
+    {
+      "id": "gen04_en_gen04_en_var_01_rfp_business",
+      "headline": "One RFP upload, ready to pitch",
+      "body": "One upload becomes 3 Win Themes, KPI rationale, and channel-ready copy with hashtags.",
+      "cta": "Start free",
+      "angle": "RFP/business angle for operations & finance pros - answers non-researcher relevance blockers directly",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_en_gen04_en_var_02_proposal_scaling",
+      "headline": "One proposal, many deliverables",
+      "body": "One proposal scales into patent planning, specs, and an IR pitch deck, backed by economic and legal analysis.",
+      "cta": "Start free",
+      "angle": "Proposal-to-deliverables scaling to widen audience beyond paper writers",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_en_gen04_en_var_03_conversion_tables",
+      "headline": "HWP to Word, nothing to fix",
+      "body": "Equations and table layouts survive conversion, staying editable objects, never flattened into images.",
+      "cta": "Convert free",
+      "angle": "Conversion reframed around tables too, so accountants/operations converting docs see relevance",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_en_gen04_en_var_04_journal_clarity",
+      "headline": "See journal fit before you submit",
+      "body": "Paste title, abstract, keywords - get journals with quartile, SJR, APC, and median review time. Free.",
+      "cta": "Match free",
+      "angle": "Clarifies exactly what is matched and submitted (you press Submit), fixing unclear-relevance blocker",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen04_en_gen04_en_var_05_blank_page_draft",
+      "headline": "One sentence to a full SCI draft",
+      "body": "Type one sentence, get a draft with 47 editable equations after a virtual SCI-Q1 reviewer's three rejections.",
+      "cta": "Draft free",
+      "angle": "Blank-page pain for actual paper writers, concrete proof (47 equations, 3 rejections) to earn trust",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    }
+  ],
+  "meta": {
+    "cost_usd": 0.259786,
+    "duration_ms": 51764
+  }
+}

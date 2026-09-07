@@ -1,0 +1,4 @@
+[variant seed_01_en_정체성호명_researcher] lang=en 25 personas -> 1 call(s) of up to 25 (dry_run=False)
+[variant seed_01_en_정체성호명_researcher] lang=en 25 personas -> 1 call(s) of up to 25 (dry_run=False)
+  batch 0: 25 verdicts, cost=$0.1783, wall=58.5s -> round_00.json
+[variant seed_01_en_정체성호명_researcher] done. n=25 would_click_pct={'no': 92.0, 'maybe': 8.0} mean_trust=2.12 total_cost_usd=0.1783

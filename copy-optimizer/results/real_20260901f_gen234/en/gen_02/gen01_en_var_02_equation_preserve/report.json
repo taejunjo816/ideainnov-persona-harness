@@ -1,0 +1,68 @@
+{
+  "variant_id": "gen01_en_var_02_equation_preserve",
+  "variant": {
+    "id": "gen01_en_var_02_equation_preserve",
+    "headline": "Don't let equations become images",
+    "body": "Equations stay editable objects after conversion, never flattened - nothing to fix afterward.",
+    "cta": "Convert free",
+    "angle": "부정형-equation_preserve (keeps top hook phrases intact)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.3553855,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 68.0,
+    "maybe": 28.0,
+    "yes": 4.0
+  },
+  "mean_trust": 2.96,
+  "top_hook_phrases": [
+    [
+      "Equations stay editable objects",
+      6
+    ],
+    [
+      "nothing to fix afterward",
+      3
+    ],
+    [
+      "Convert free",
+      1
+    ],
+    [
+      "Equations stay editable objects after conversion",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "Her operations and arts-humanities work never involves mathematical equations in documents.",
+      1
+    ],
+    [
+      "A transportation attendant never works with equation-laden documents.",
+      1
+    ],
+    [
+      "As a retail salesperson he rarely writes equation-heavy documents despite his STEM interest.",
+      1
+    ],
+    [
+      "A nurse's charting and caregiving never involve editable equation conversion.",
+      1
+    ],
+    [
+      "Accountants work in spreadsheets and reports, not equation objects that flatten into images.",
+      1
+    ]
+  ]
+}

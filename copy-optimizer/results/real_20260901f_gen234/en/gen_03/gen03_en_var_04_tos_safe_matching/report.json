@@ -1,0 +1,63 @@
+{
+  "variant_id": "gen03_en_var_04_tos_safe_matching",
+  "variant": {
+    "id": "gen03_en_var_04_tos_safe_matching",
+    "headline": "Automated - except the last click",
+    "body": "Journal matching is free. ToS-safe by design - you press the final Submit yourself.",
+    "cta": "Start free matching",
+    "angle": "역설·반전-tos_safe (retains ToS-safe + free matching hooks that performed well)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.35553674999999996,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 96.0,
+    "maybe": 4.0
+  },
+  "mean_trust": 1.92,
+  "top_hook_phrases": [
+    [
+      "Automated",
+      4
+    ],
+    [
+      "free",
+      2
+    ],
+    [
+      "Journal matching",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "Academic journal matching has nothing to do with her operations career or classics reading.",
+      1
+    ],
+    [
+      "A transportation attendant has no use for academic journal submission tools.",
+      1
+    ],
+    [
+      "He builds PCs and sells retail, but never authors papers needing journal matching.",
+      1
+    ],
+    [
+      "She writes a caregiver guidebook, not peer-reviewed papers, so journal matching serves no purpose.",
+      1
+    ],
+    [
+      "An auditor pursuing CPA and ESG work does not publish academic journal articles.",
+      1
+    ]
+  ]
+}

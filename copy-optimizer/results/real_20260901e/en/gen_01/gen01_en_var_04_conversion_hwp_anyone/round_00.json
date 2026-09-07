@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen01_en_var_04_conversion_hwp_anyone",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "She has no exposure to HWP files or math markup in her operations or arts-humanities work.",
+      "trust": 2,
+      "reasoning": "As an operations specialist with an arts background, HWP conversion and OMML/SSIM jargon are irrelevant to her structured, non-technical workflow."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant never encounters HWP files or math-fidelity conversion needs.",
+      "trust": 2,
+      "reasoning": "Her community-service and train-schedule world has nothing to do with obscure HWP document converters or OMML output."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "maybe",
+      "hook_phrase": "grades its own fidelity with SSIM",
+      "blocker": "HWP is a niche Korean format he has no reason to use in Bay Area retail.",
+      "trust": 3,
+      "reasoning": "His STEM background and open-source tinkering make the self-grading SSIM angle mildly intriguing, but HWP files are irrelevant to retail sales."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A nurse handling patient care has no use for HWP file conversion.",
+      "trust": 2,
+      "reasoning": "Her nursing and gardening life never touches Korean word-processor formats or math-markup fidelity claims."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "editable OMML",
+      "blocker": "Accountants work in Excel and PDFs, not HWP files, making this converter irrelevant.",
+      "trust": 3,
+      "reasoning": "Though she handles documents and adopts tech, HWP conversion is a Korean-specific niche unrelated to her audit and ESG work."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young retail salesperson never deals with HWP files or math markup.",
+      "trust": 2,
+      "reasoning": "His retail, hiking, and guitar life has no connection to obscure document-converter technology like HWP-to-OMML."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "His accounting work uses spreadsheets and tax software, not HWP conversion.",
+      "trust": 2,
+      "reasoning": "Despite finance discipline, HWP files and SSIM fidelity grading are wholly foreign to his CPA-track and hiking lifestyle."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A nurse focused on patient care has zero need for HWP file conversion.",
+      "trust": 2,
+      "reasoning": "Her clinical, art-therapy, and community-health interests never intersect with Korean word-processor document converters."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "nothing to fix afterward",
+      "blocker": "HR document work uses standard Office formats, not HWP files.",
+      "trust": 2,
+      "reasoning": "Her people-focused HR role and social hobbies give no reason to convert obscure HWP files with math markup."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A logistics manager and watercolorist never handles HWP documents.",
+      "trust": 2,
+      "reasoning": "His supply-chain and art pursuits are unrelated to Korean file formats or OMML/SSIM fidelity conversion."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "grades its own fidelity with SSIM",
+      "blocker": "As a US IT manager, he has no HWP files to convert despite understanding the tech.",
+      "trust": 4,
+      "reasoning": "His IT leadership and DIY-electronics background let him appreciate SSIM self-grading, but HWP is irrelevant to his organization."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "no",
+      "hook_phrase": "grades its own fidelity with SSIM",
+      "blocker": "A kitchen supervisor never encounters HWP files despite his STEM curiosity.",
+      "trust": 3,
+      "reasoning": "His food-science and tech-gadget interest make SSIM mildly interesting, but HWP document conversion has no place in his work."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide has no use for HWP file conversion tools.",
+      "trust": 2,
+      "reasoning": "Her caregiving, gardening, and knitting life is completely disconnected from Korean document converters and math markup."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hairstylist never works with HWP files or math-markup documents.",
+      "trust": 2,
+      "reasoning": "Her beauty, dance, and creative pursuits have nothing to do with obscure file-conversion technology."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Financial advisory uses standard formats, not HWP files.",
+      "trust": 2,
+      "reasoning": "His finance, sports, and community work never require converting Korean HWP documents to editable math markup."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A freight material mover has no exposure to HWP document conversion.",
+      "trust": 2,
+      "reasoning": "His logistics reading and woodworking hobbies don't intersect with niche HWP-to-OMML converter software."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "maybe",
+      "hook_phrase": "editable OMML",
+      "blocker": "As a US software engineer she has no HWP files to convert despite grasping the tech.",
+      "trust": 4,
+      "reasoning": "Her STEM software background makes OMML and SSIM self-grading credible and interesting, but HWP is a format she'd never use."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "grades its own fidelity with SSIM",
+      "blocker": "A CEO delegates documents and has no HWP files in his renewable-energy business.",
+      "trust": 3,
+      "reasoning": "His STEM and coding-workshop interest catch the SSIM angle, but HWP conversion is irrelevant to his executive priorities."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An engineer working in manufacturing never handles HWP files.",
+      "trust": 2,
+      "reasoning": "His mechanical and DIY interests, plus tech reading, don't connect to Korean word-processor document conversion."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vehicle detailer has no need for HWP file conversion software.",
+      "trust": 2,
+      "reasoning": "Her auto-detailing and art hobbies are entirely unrelated to converting HWP files with math markup."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A building cleaner never works with HWP documents or math-fidelity tools.",
+      "trust": 2,
+      "reasoning": "His facilities, fishing, and woodworking world has no connection to obscure Korean document converters."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An aircraft mechanic has no reason to convert HWP files.",
+      "trust": 2,
+      "reasoning": "His hands-on maintenance and country-music life is entirely removed from HWP-to-OMML conversion technology."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "no",
+      "hook_phrase": "editable OMML",
+      "blocker": "Her clinical writing uses standard formats, not HWP files.",
+      "trust": 3,
+      "reasoning": "Though she writes peer-reviewed articles, HWP conversion is a Korean-specific niche irrelevant to her speech-pathology work."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A stocker with woodworking hobbies never encounters HWP files.",
+      "trust": 2,
+      "reasoning": "His warehouse and craft-fair life has no overlap with Korean document converters or math-markup fidelity claims."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A financial manager uses Excel and standard reports, not HWP files.",
+      "trust": 2,
+      "reasoning": "Her finance and quiet-hobby lifestyle gives no reason to convert obscure HWP documents into editable math markup."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.35651175,
+    "duration_ms": 62547,
+    "session_id": "b52278bb-b43a-4a57-8147-49d051eecc83"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen04_en_gen04_en_var_03_conversion_tables",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "table layouts",
+      "blocker": "She works with US operations documents and has no use for the Korean HWP format.",
+      "trust": 3,
+      "reasoning": "Though she values structured efficiency and tables, this operations veteran never handles HWP files, making the tool irrelevant to her workflow."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant has no reason to convert HWP documents.",
+      "trust": 2,
+      "reasoning": "Nothing in her transportation service work or gardening and theater hobbies connects to Korean HWP-to-Word document conversion."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "no",
+      "hook_phrase": "Convert free",
+      "blocker": "He builds PCs but never encounters the Korean HWP format in retail work.",
+      "trust": 3,
+      "reasoning": "Despite his STEM background and tech tinkering, HWP conversion has no bearing on his retail sales or hardware hobbies."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A nurse handling patient care never converts HWP documents.",
+      "trust": 2,
+      "reasoning": "Her nursing, knitting, and birdwatching life has zero overlap with Korean word-processor file conversion needs."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "table layouts",
+      "blocker": "As a US accountant she works in Excel and Word, not the Korean HWP format.",
+      "trust": 3,
+      "reasoning": "The table-preservation angle targets accountants like her, but she never receives HWP files in US audit work."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A retail salesperson has no HWP documents to convert.",
+      "trust": 2,
+      "reasoning": "His retail ambitions, guitar, and mountain photography give no reason to need Korean HWP-to-Word conversion."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "table layouts",
+      "blocker": "He tracks finances in standard US tools, never in the Korean HWP format.",
+      "trust": 3,
+      "reasoning": "Although accountants care about table fidelity, this expense-tracking CPA candidate never handles HWP files."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A nurse focused on patient care has no HWP conversion need.",
+      "trust": 2,
+      "reasoning": "Her nursing, watercolor, and salsa life has no connection to Korean word-processor document conversion."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "HR document work in the US does not involve the Korean HWP format.",
+      "trust": 2,
+      "reasoning": "Her people-focused HR role and hosting hobbies give no reason to convert HWP files to Word."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "table layouts",
+      "blocker": "His logistics management uses US formats, not the Korean HWP file type.",
+      "trust": 3,
+      "reasoning": "Despite handling operational documents, this manager never encounters HWP files in Midwestern supply-chain work."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "no",
+      "hook_phrase": "editable objects",
+      "blocker": "The tool addresses a Korean format he never uses in his IT operations.",
+      "trust": 3,
+      "reasoning": "His tech-leadership curiosity might notice the specific claim, but HWP conversion is irrelevant to his US IT work."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A kitchen supervisor has no HWP documents to convert.",
+      "trust": 2,
+      "reasoning": "His food-science and smart-kitchen interests have no overlap with Korean word-processor file conversion."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide never handles HWP files.",
+      "trust": 2,
+      "reasoning": "Her caregiving, gardening, and quilting life gives no reason to need HWP-to-Word conversion."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hairstylist has no document-conversion needs, let alone Korean HWP.",
+      "trust": 2,
+      "reasoning": "Her hair artistry, dance, and festival life has zero connection to HWP document conversion."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "table layouts",
+      "blocker": "His financial advisory work uses US software, not the Korean HWP format.",
+      "trust": 3,
+      "reasoning": "Though he explores fintech gadgets and tables, HWP conversion has no role in his New York advisory practice."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A material mover never deals with HWP documents.",
+      "trust": 2,
+      "reasoning": "His logistics reading and woodworking interests give no reason to convert Korean HWP files to Word."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "no",
+      "hook_phrase": "editable objects",
+      "blocker": "A US software engineer has no exposure to the Korean HWP format.",
+      "trust": 3,
+      "reasoning": "Her tech background might appreciate the editable-object claim, but HWP conversion is irrelevant to her work."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A US CEO's documents are not in the Korean HWP format.",
+      "trust": 2,
+      "reasoning": "His visionary business and art-collecting pursuits have no connection to HWP-to-Word document conversion."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "Equations",
+      "blocker": "He deals with engineering docs in US formats, not the Korean HWP file type.",
+      "trust": 3,
+      "reasoning": "The equation-preservation claim might interest an engineer, but he never encounters HWP files in his work."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vehicle detailer has no HWP documents to convert.",
+      "trust": 2,
+      "reasoning": "Her auto detailing and painting hobbies have no overlap with Korean word-processor file conversion."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A janitor never handles HWP files.",
+      "trust": 2,
+      "reasoning": "His facilities and fishing interests give no reason to need HWP-to-Word document conversion."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An aircraft mechanic has no HWP documents to convert.",
+      "trust": 2,
+      "reasoning": "His hands-on aircraft work and fishing hobbies have zero connection to Korean word-processor file conversion."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A US speech-language pathologist never uses the Korean HWP format.",
+      "trust": 2,
+      "reasoning": "Her clinical and telehealth work involves standard US documents, not HWP file conversion."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A warehouse stocker has no HWP documents to convert.",
+      "trust": 2,
+      "reasoning": "His woodworking, BBQ, and stockroom work give no reason to need Korean HWP-to-Word conversion."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "table layouts",
+      "blocker": "Her finance work uses US spreadsheets and Word, never the Korean HWP format.",
+      "trust": 3,
+      "reasoning": "Though a finance veteran who values table integrity, she never encounters HWP files in her US practice."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.34154099999999993,
+    "duration_ms": 59014,
+    "session_id": "f2cf96ae-4215-4116-8975-7955cd3837f6"
+  }
+}

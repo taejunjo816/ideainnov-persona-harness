@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_07_en_호기심갭_submission_package",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "She is an operations specialist with no involvement in academic journal submissions or reviewer matching.",
+      "trust": 2,
+      "reasoning": "As an arts-humanities operations veteran, journal 'submission packages' and 'suggested reviewers' are entirely outside her career and gardening/reading world."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant has no manuscript to submit through any academic portal.",
+      "trust": 2,
+      "reasoning": "Her community-service and transit-training focus has zero overlap with author details and reviewer matching for journal submissions."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "He builds PCs and sells retail, not research papers needing reviewer matching.",
+      "trust": 2,
+      "reasoning": "Despite a STEM degree, his retail-management ambition and PC hobbies have no connection to academic submission portals."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "She writes a caregiver guidebook, not peer-reviewed submissions requiring suggested reviewers.",
+      "trust": 2,
+      "reasoning": "This palliative-care nurse's writing goal is a lay guidebook, not journal manuscripts needing a submission package."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An accountant pursuing CPA has no academic paper to submit through this portal.",
+      "trust": 2,
+      "reasoning": "Her audit and ESG-reporting focus is unrelated to author details and reviewer matching for scholarly submissions."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young retail salesperson has no research manuscript or journal submission need.",
+      "trust": 2,
+      "reasoning": "His retail-management and photography interests bear no relation to academic submission packages or suggested reviewers."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An accountant chasing a CPA does not submit papers to journal portals.",
+      "trust": 2,
+      "reasoning": "His forensic-accounting and hiking life offers no touchpoint with author details or reviewer matching for manuscripts."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "She reads medical journals but does not author submissions needing reviewer packaging.",
+      "trust": 2,
+      "reasoning": "This nurse mentors and does art therapy, not scholarly publishing that would require a submission portal package."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An HR professional has no manuscript nor use for suggested-reviewer matching.",
+      "trust": 2,
+      "reasoning": "Her people-operations and networking focus is completely disconnected from academic submission packages and journal portals."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "He plans a community guidebook, not peer-reviewed journal submissions needing reviewers.",
+      "trust": 2,
+      "reasoning": "This logistics manager and watercolorist would author a self-published guide, not scholarly work requiring reviewer matching."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An IT manager writes no research papers and has no journal submission portal.",
+      "trust": 2,
+      "reasoning": "His cloud and leadership ambitions involve certifications, not academic manuscripts needing author details and suggested reviewers."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A food-service supervisor does not submit manuscripts despite holding a graduate degree.",
+      "trust": 2,
+      "reasoning": "His kitchen-tech and hospitality goals, though STEM-educated, have no active tie to journal submission portals."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide has no scholarly submission requiring reviewer matching.",
+      "trust": 2,
+      "reasoning": "Her CNA and senior-care goals are unrelated to author-detail packages or academic submission portals."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hairstylist has nothing to submit to any academic journal portal.",
+      "trust": 1,
+      "reasoning": "Her salon, dance, and beauty-content ambitions are worlds away from suggested reviewers and submission packages."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A financial specialist does not author papers needing reviewer matching.",
+      "trust": 2,
+      "reasoning": "His CFA and advisory goals concern finance, not academic submissions requiring an author-details portal package."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A material mover has no manuscript for an academic submission portal.",
+      "trust": 2,
+      "reasoning": "His supply-chain and woodworking interests have no overlap with suggested reviewers or journal submission packages."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A software engineer writes code, not journal manuscripts needing reviewer matching.",
+      "trust": 2,
+      "reasoning": "Her STEM career focuses on AWS and team leadership, not scholarly submission portals with author-detail packaging."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A CEO seeks a speaker series, not academic journal submissions with reviewers.",
+      "trust": 2,
+      "reasoning": "His sustainable-innovation and entrepreneur-mentoring goals do not involve manuscript submission portals or suggested reviewers."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An engineer pursuing a PE license does not submit academic papers here.",
+      "trust": 2,
+      "reasoning": "His manufacturing and DIY interests read tech trends but do not involve authoring journal submissions needing reviewers."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vehicle detailer has no manuscript for a journal submission portal.",
+      "trust": 1,
+      "reasoning": "Her detailing business and art hobbies are entirely disconnected from author details and suggested-reviewer matching."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A janitor pursuing facilities credentials has no academic submission to package.",
+      "trust": 2,
+      "reasoning": "His cleaning-consultancy and CFM goals bear no relation to journal portals, author details, or reviewer matching."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An aircraft mechanic has no research paper for any submission portal.",
+      "trust": 1,
+      "reasoning": "His A&P licensing and fishing lifestyle share nothing with academic submission packages or suggested reviewers."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "maybe",
+      "hook_phrase": "suggested reviewers",
+      "blocker": "The vague curiosity-gap copy doesn't name a journal or field, making relevance uncertain.",
+      "trust": 3,
+      "reasoning": "She plans to contribute peer-reviewed articles on communication interventions, so suggested reviewers and submission packages genuinely resonate with her."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A warehouse stocker has no manuscript to submit through an academic portal.",
+      "trust": 2,
+      "reasoning": "His woodworking side venture and supply-chain goals have no connection to author details or journal reviewer matching."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A financial manager pursuing CFP does not submit papers to journal portals.",
+      "trust": 2,
+      "reasoning": "Her finance-advisory and quiet-hobby life is unrelated to submission packages, author details, or suggested-reviewer matching."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.3405285,
+    "duration_ms": 54155,
+    "session_id": "30fea099-ebc4-4b89-9e12-805f8edaf99e"
+  }
+}

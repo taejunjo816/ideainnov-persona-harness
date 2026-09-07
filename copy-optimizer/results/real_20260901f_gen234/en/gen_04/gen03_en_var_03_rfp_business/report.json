@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen03_en_var_03_rfp_business",
+  "variant": {
+    "id": "gen03_en_var_03_rfp_business",
+    "headline": "One RFP upload, ready to pitch",
+    "body": "One upload becomes 3 Win Themes, KPI rationale, and channel-ready copy with hashtags.",
+    "cta": "Start free",
+    "angle": "Business/RFP angle for operations & finance pros (directly answers accountant/operations non-researcher blockers)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.2641705,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 36.0,
+    "no": 60.0,
+    "yes": 4.0
+  },
+  "mean_trust": 2.44,
+  "top_hook_phrases": [
+    [
+      "KPI rationale",
+      5
+    ],
+    [
+      "One RFP upload",
+      3
+    ],
+    [
+      "channel-ready copy",
+      3
+    ],
+    [
+      "ready to pitch",
+      2
+    ],
+    [
+      "hashtags",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "As an operations specialist she rarely authors RFPs herself and may see this as a sales tool, not an efficiency one.",
+      1
+    ],
+    [
+      "A transportation service attendant focused on senior-access outreach has no use for RFP pitch decks.",
+      1
+    ],
+    [
+      "A floor retail salesperson isn't responding to RFPs, and his data interest is merchandising, not pitch copy.",
+      1
+    ],
+    [
+      "A palliative-focused nurse has zero connection to business proposals or marketing copy.",
+      1
+    ],
+    [
+      "Auditing and ESG compliance aren't RFP pitching, so the sales/hashtag framing may feel off-mission.",
+      1
+    ]
+  ]
+}

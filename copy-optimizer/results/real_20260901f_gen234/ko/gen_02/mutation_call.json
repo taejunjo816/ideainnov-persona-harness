@@ -1,0 +1,102 @@
+{
+  "elites": [
+    "gen01_ko_v4_biz_beyond_paper",
+    "gen01_ko_v3_number_formats_price",
+    "gen01_ko_v2_question_table_formula"
+  ],
+  "hook_phrases_sampled": [
+    "사업계획서",
+    "자동 구조화",
+    "연구제안서",
+    "사업계획서·연구제안서",
+    "RFP",
+    "HWPX·DOCX·PDF",
+    "PDF 속 그림까지 추출해",
+    "47개 형식 상호 변환",
+    "무료 체험 시작",
+    "형식 변환 47개",
+    "47개 형식을 오가며 변환해도",
+    "표 레이아웃이 그대로 남습니다",
+    "편집 가능한 OMML 수식과 표",
+    "표 레이아웃",
+    "편집 가능한 OMML 수식과 표 레이아웃이 그대로 남습니다"
+  ],
+  "blockers_sampled": [
+    "리빙 소품 브랜드 론칭에 편집 가능한 수식 초안은 아무 도움이 안 된다.",
+    "미디어 디자인 실무에 수식·심사위원 서비스는 관련성이 없다.",
+    "무역 실무자라 수식 47개 논문 초안을 쓸 상황이 없다.",
+    "경리 실무에 수식 47개짜리 학술 초안은 전혀 쓸 일이 없다.",
+    "기계정비산업기사 자격증 준비지 논문 초안 작성이 아니라서 실익이 없다."
+  ],
+  "children": [
+    {
+      "id": "gen03_ko_gen02_ko_v1_convert_everyday",
+      "headline": "문서 변환 47개 형식, 호출당 2,800원",
+      "body": "HWPX·DOCX·PDF 등 47개 형식을 오가도 표 레이아웃과 스타일 그대로. PDF 속 그림까지 추출해 재삽입, 가장 저렴한 ₩2,800/호출.",
+      "cta": "무료 체험 시작",
+      "angle": "일상 문서 변환(비연구자 걸림돌 해소·최저가·형식개수 유지)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen03_ko_gen02_ko_v2_rfp_to_bizplan",
+      "headline": "RFP를 사업계획서로 자동 구조화",
+      "body": "연구 결과나 RFP를 사업계획서·연구제안서로 자동 구조화. 경제성·법률 적합성 리포트까지, HWPX·DOC·PPT·PDF로 제공.",
+      "cta": "무료 체험 시작",
+      "angle": "실무 제안서(RFP·자동 구조화 훅 유지, 논문 무관 실무자 대상)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen03_ko_gen02_ko_v3_table_image_intact",
+      "headline": "표·그림 안 깨지는 문서 변환",
+      "body": "PDF 속 그림·도식을 추출해 결과 문서에 재삽입하고, 표 레이아웃도 그대로. 20MB·30페이지 지원, 초과 시 자동 분할.",
+      "cta": "무료 체험 시작",
+      "angle": "변환 신뢰(그림 추출·표 보존 훅, 사무 실무 일반 사용자)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen03_ko_gen02_ko_v4_free_journal",
+      "headline": "SCI 저널 추천, 저널 매칭은 무료",
+      "body": "논문 초록을 붙여넣으면 적합도 기준으로 SCI 저널 추천, 투고 요건 체크리스트까지 무료. 리젝 후 차순위 저널도 바로 재매칭.",
+      "cta": "무료 저널 매칭",
+      "angle": "무료 진입(연구자 대상, 무료 훅으로 부담 제거)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "gen03_ko_gen02_ko_v5_brand_launch_strategy",
+      "headline": "브랜드 론칭, 사업계획서부터 전략까지",
+      "body": "연구 결과나 RFP를 사업계획서로 자동 구조화하고, 핵심 키워드로 타겟·채널·메시지 전략까지 설계. IR 피치덱도 옵션 확장.",
+      "cta": "무료 체험 시작",
+      "angle": "브랜드/마케팅 실무(론칭·미디어 걸림돌 정면 해소, 전략 설계 강조)",
+      "lang": "ko",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    }
+  ],
+  "meta": {
+    "cost_usd": 0.32511249999999997,
+    "duration_ms": 71984
+  }
+}

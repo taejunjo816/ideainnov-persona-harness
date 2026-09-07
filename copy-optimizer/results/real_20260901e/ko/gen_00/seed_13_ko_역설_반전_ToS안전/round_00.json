@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_13_ko_역설_반전_ToS안전",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "경리 실무자로서 저널 투고·논문 제출과 전혀 무관해 광고 내용이 낯설다.",
+      "trust": 2,
+      "reasoning": "순천의 경리 사무원으로 저널·투고·저자라는 학술 용어가 자기 업무와 접점이 없어 스크롤을 멈출 이유가 없다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "자동화",
+      "blocker": "논문 저널 매칭은 리빙 소품 유통업과 무관해 자동화라는 말만으론 끌리지 않는다.",
+      "trust": 2,
+      "reasoning": "온라인 판매원으로 자동화에 막연한 호기심은 있으나 학술 투고 맥락이라 자신의 브랜드 사업과 무관하다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "기계공학 시험원 실무와 논문 투고 자동화는 전혀 관련이 없다.",
+      "trust": 2,
+      "reasoning": "현장 시험과 기술자격증이 목표인 27세라 저널 매칭 서비스는 자신의 성장 경로와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "미디어 디자이너에게 학술지 투고는 업무와 무관한 낯선 영역이다.",
+      "trust": 2,
+      "reasoning": "평온한 정년을 바라는 56세 디자이너로 논문 저널 매칭은 취미·업무 어디에도 연결되지 않는다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "무역 사무원으로 저널 투고나 논문 저자와 무관해 광고가 자신의 것이 아니다.",
+      "trust": 2,
+      "reasoning": "내 집 마련과 무역 실무가 관심사인 29세라 학술 투고 자동화는 현실적 관심 밖이다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사 실무에 논문 저널 투고 자동화는 쓸 일이 없다.",
+      "trust": 2,
+      "reasoning": "현장 숙련과 소소한 트렌드 학습을 추구하는 조무사라 학술 투고 서비스는 자기 세계와 멀다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "손해사정 실무자에게 논문 저널 매칭은 직무와 무관하다.",
+      "trust": 2,
+      "reasoning": "보건복지 전공이나 손해사정 실무자라 학술 투고 자동화는 자기 커리어와 연결점이 없다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "실전 마케터에게 학술지 투고 자동화는 업무 관심사가 아니다.",
+      "trust": 2,
+      "reasoning": "고졸 실무 마케터로 은퇴 후 상담소를 꿈꾸는 59세라 논문 저널 매칭은 낯설고 무관하다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "교육 보조원에게 논문 투고·저널 매칭은 접점이 없는 서비스다.",
+      "trust": 2,
+      "reasoning": "사회복지사 자격과 월급 안정이 목표인 보조원이라 학술 투고 자동화는 관심 밖이다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "no",
+      "hook_phrase": "연구원",
+      "blocker": "산업 현장 연구원이라 학술지 투고보다 기술사 자격·내 집 마련이 우선이다.",
+      "trust": 3,
+      "reasoning": "고무 공정 연구원으로 연구원이란 단어는 스치지만 저널 투고는 그의 실무·목표와 거리가 있다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "현재 소매 마케팅 실무자라 대학원 이력에도 논문 투고와 무관하다.",
+      "trust": 2,
+      "reasoning": "교육학 석사지만 소매 운영 체계화가 목표인 마케터라 학술 저널 매칭은 지금 삶과 무관하다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "no",
+      "hook_phrase": "설계",
+      "blocker": "임대 상품 기획자에게 논문 저널 투고 자동화는 직무와 상관없다.",
+      "trust": 2,
+      "reasoning": "라이프스타일 구독 서비스를 꿈꾸는 기획자라 설계라는 말은 잠깐 걸려도 학술 투고 맥락은 무관하다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "통신사 마케터에게 학술지 투고 서비스는 업무·육아 어디에도 쓸모없다.",
+      "trust": 2,
+      "reasoning": "예술인문 전공 마케터로 실무 리더십이 목표라 논문 저널 매칭은 관심 밖의 학술 서비스다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "maybe",
+      "hook_phrase": "자동화",
+      "blocker": "자연과학 석사이나 현재 경영지원 실무자라 논문 투고를 직접 할 일이 없다.",
+      "trust": 3,
+      "reasoning": "자연과학 대학원 출신이라 저널·투고 용어를 이해하고 업무 시스템화 성향상 자동화 문구에 잠깐 관심 가질 수 있다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담원에게 논문 저널 투고 자동화는 전혀 무관한 서비스다.",
+      "trust": 2,
+      "reasoning": "상담 노하우 전수를 원하는 43세 상담원이라 학술 투고 매칭은 자기 세계와 연결점이 없다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 사무원에게 학술지 투고 자동화는 사용할 일이 없다.",
+      "trust": 2,
+      "reasoning": "정년까지 안정 근무가 목표인 상담직 선임이라 논문 저널 매칭은 낯설고 무관하다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "maybe",
+      "hook_phrase": "자동화",
+      "blocker": "시스템 운영 개발자지 논문 저자가 아니라 저널 투고 서비스는 직접 쓸 일이 없다.",
+      "trust": 3,
+      "reasoning": "ICT 대학원 출신 개발자라 ToS·자동화 설계 개념엔 호기심 있으나 학술 투고 맥락은 그의 업무와 다르다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "부동산 감정 전문가에게 논문 저널 투고는 직무와 무관하다.",
+      "trust": 2,
+      "reasoning": "신뢰받는 선임 감정평가사가 목표인 50대라 학술 저널 매칭 서비스는 관심 밖이다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "농기계 기술 영업원에게 논문 투고 자동화는 쓸 데 없는 서비스다.",
+      "trust": 2,
+      "reasoning": "현장 신뢰 구축이 목표인 영업원이라 공학 전공에도 학술 저널 매칭은 자기 일과 무관하다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자에게 논문 저널 투고는 완전히 낯선 영역이다.",
+      "trust": 2,
+      "reasoning": "건강과 일상 유지가 우선인 63세 종사원이라 학술 투고 자동화는 관심 밖의 서비스다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사 실무에 논문 저널 투고 자동화는 필요 없다.",
+      "trust": 2,
+      "reasoning": "숙련도 유지와 퇴근 후 휴식을 중시하는 위생사라 학술 투고 매칭은 자기 삶과 무관하다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "maybe",
+      "hook_phrase": "자동화",
+      "blocker": "기획 사무원의 업무 자동화와 논문 투고 자동화는 전혀 다른 영역이라 곧 무관함을 알 것이다.",
+      "trust": 3,
+      "reasoning": "업무 프로세스 완전 자동화가 목표라 자동화라는 헤드라인엔 반응하지만 학술 투고 맥락이 발목을 잡는다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "초등학교 교사에게 학술지 투고 자동화는 업무와 무관하다.",
+      "trust": 2,
+      "reasoning": "다정한 교사로 남고 싶은 22세라 논문 저널 매칭 서비스는 자기 관심·직무와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "토목 기술자에게 논문 저널 투고는 자격증·현장 목표와 무관하다.",
+      "trust": 2,
+      "reasoning": "기술사 자격과 현장 신뢰가 목표인 토목 기술자라 학술 투고 자동화는 그의 실무와 연결되지 않는다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유치원 교사에게 논문 저널 투고 자동화는 쓸 일 없는 서비스다.",
+      "trust": 2,
+      "reasoning": "아이들의 상상 공간을 꿈꾸는 유치원 교사라 학술 투고 매칭은 취미·직무 어디에도 무관하다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.416242,
+    "duration_ms": 85211,
+    "session_id": "777ed32a-b1e3-46c1-934c-77e158315b59"
+  }
+}

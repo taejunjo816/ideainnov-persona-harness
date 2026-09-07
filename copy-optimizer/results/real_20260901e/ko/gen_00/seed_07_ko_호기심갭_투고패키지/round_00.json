@@ -1,0 +1,238 @@
+{
+  "variant_id": "seed_07_ko_호기심갭_투고패키지",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "no",
+      "hook_phrase": "무료로 시작",
+      "blocker": "경리 사무원에게 학술 저널 투고 패키지는 업무·목표와 전혀 무관하다.",
+      "trust": 2,
+      "reasoning": "순천에서 경리 실무를 보는 23세에게 저널 투고·추천 리뷰어 개념은 낯설고 이직 목표와도 연결되지 않는다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "온라인 리빙소품 판매업자에게 논문 저널 매칭은 사업과 무관하다.",
+      "trust": 2,
+      "reasoning": "통영에서 리빙 브랜드를 꿈꾸는 온라인 판매원에게 학술 투고 패키지는 관심 영역 밖이다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "현장 시험원이지 논문을 저널에 투고하는 연구자가 아니다.",
+      "trust": 2,
+      "reasoning": "기계정비 자격증을 노리는 현장 시험원에게 저널 투고 패키지는 실무 목표와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "미디어 디자이너에게 학술 저널 투고는 직무와 완전히 무관하다.",
+      "trust": 2,
+      "reasoning": "평온한 정년을 바라는 광주의 미디어 디자이너에게 논문 투고 패키지는 아무 관련이 없다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "무역 사무원 업무에 저널 투고나 리뷰어 추천은 필요 없다.",
+      "trust": 2,
+      "reasoning": "익산에서 무역 실무와 내 집 마련을 목표로 하는 가장에게 학술 투고는 관심사가 아니다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사에게 논문 저널 투고 패키지는 무관하다.",
+      "trust": 2,
+      "reasoning": "수영과 여행으로 소소한 행복을 찾는 조무사에게 학술 투고 서비스는 삶과 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "손해사정사 실무에 저널 투고 패키지는 쓸모가 없다.",
+      "trust": 2,
+      "reasoning": "보건복지 상담소를 꿈꾸는 손해사정사지만 학술 논문 투고와는 직접적 연결이 없다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고졸 실전파 마케터에게 학술 저널 투고는 전혀 무관하다.",
+      "trust": 2,
+      "reasoning": "현장 실무 기반 마케팅 상담을 꿈꾸는 59세에게 논문 투고 패키지는 관심 밖이다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "교육 보조원 업무에 저널 투고 서비스는 필요 없다.",
+      "trust": 2,
+      "reasoning": "사회복지사 자격을 준비하는 교육 보조원에게 학술 논문 투고는 목표와 무관하다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "추천 리뷰어까지 정리한 투고 패키지",
+      "blocker": "기업 소속 연구원이라 저널 논문 투고 경험이 적으면 필요성을 못 느낄 수 있다.",
+      "trust": 3,
+      "reasoning": "공학 연구원으로서 기술사·논문에 관심 있다면 추천 리뷰어 정리 투고 패키지에 호기심이 생길 수 있다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "소매 마케팅 실무자에게 학술 저널 투고는 무관하다.",
+      "trust": 2,
+      "reasoning": "매장 운영 체계화가 목표인 마케터에게 논문 투고 패키지는 업무와 연결점이 없다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "상품 기획자 업무에 저널 투고 서비스는 필요 없다.",
+      "trust": 2,
+      "reasoning": "구독형 서비스 런칭을 꿈꾸는 법학 출신 기획자에게 학술 논문 투고는 관심 영역 밖이다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "통신사 마케팅 전문가에게 저널 투고 패키지는 무관하다.",
+      "trust": 2,
+      "reasoning": "일·육아 균형을 찾는 마케터에게 학술 논문 투고 서비스는 직무와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "maybe",
+      "hook_phrase": "무엇이 담겼는지는 열어보면 압니다",
+      "blocker": "현재는 경영지원 업무라 논문 투고와 직접적 필요는 없다.",
+      "trust": 3,
+      "reasoning": "자연과학·수학 대학원 출신이라 저널 투고 개념에 익숙해 호기심갭 문구에 잠깐 반응할 수 있다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담원에게 학술 저널 투고 패키지는 완전히 무관하다.",
+      "trust": 2,
+      "reasoning": "관리자 전환을 바라는 상담원에게 논문 투고 서비스는 업무·취미 어디에도 닿지 않는다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 사무원에게 저널 투고는 무관한 영역이다.",
+      "trust": 2,
+      "reasoning": "정년까지 안정 근무가 목표인 상담원에게 학술 논문 투고 패키지는 관심사가 아니다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "no",
+      "hook_phrase": "저자 정보와 추천 리뷰어",
+      "blocker": "네트워크 운영 개발자로 논문 투고를 하지 않아 필요성을 못 느낀다.",
+      "trust": 3,
+      "reasoning": "ICT 대학원 출신이라 개념은 알지만 시스템 무결성 유지가 목표인 실무 개발자에겐 무관하다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "부동산 감정 전문가에게 학술 저널 투고는 직무와 무관하다.",
+      "trust": 2,
+      "reasoning": "선임 감정평가사를 목표로 하는 그에게 논문 투고 패키지는 업무와 아무 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "농기계 기술 영업원에게 저널 투고 서비스는 무관하다.",
+      "trust": 2,
+      "reasoning": "현장 신뢰 구축이 목표인 영업원에게 학술 논문 투고 패키지는 관심 영역 밖이다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자에게 학술 저널 투고는 전혀 무관하다.",
+      "trust": 2,
+      "reasoning": "안정적 일상과 건강을 중시하는 63세 종사원에게 논문 투고 서비스는 낯선 영역이다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사 실무에 저널 투고 패키지는 필요 없다.",
+      "trust": 2,
+      "reasoning": "숙련 유지와 워라밸을 중시하는 치과위생사에게 학술 논문 투고는 관심사가 아니다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "경영 기획 사무원에게 학술 저널 투고는 무관하다.",
+      "trust": 2,
+      "reasoning": "기획 업무 자동화가 목표인 사무원에게 논문 투고 서비스는 직무와 연결되지 않는다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "초등교사 업무에 저널 투고 패키지는 필요 없다.",
+      "trust": 2,
+      "reasoning": "다정한 교사를 지향하는 22세에게 학술 논문 투고 서비스는 관심 영역 밖이다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "토목 기술자는 기술사 자격을 노리지 저널 논문을 투고하지 않는다.",
+      "trust": 2,
+      "reasoning": "현장 선임 기술자를 지향하는 토목 기술자에게 학술 저널 투고 패키지는 실무와 무관하다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유치원 교사에게 학술 저널 투고는 완전히 무관하다.",
+      "trust": 2,
+      "reasoning": "예술적 수업을 꿈꾸는 유치원 교사에게 논문 투고 서비스는 직무·취미와 접점이 없다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.38289299999999993,
+    "duration_ms": 72794,
+    "session_id": "3b2ac6ef-ec74-4503-83fd-b1b1426a6fa3"
+  }
+}

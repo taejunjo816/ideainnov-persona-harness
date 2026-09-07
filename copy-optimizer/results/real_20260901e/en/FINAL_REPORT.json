@@ -1,0 +1,213 @@
+{
+  "lang": "en",
+  "seed": 42,
+  "generations_requested": 2,
+  "generations_run": 2,
+  "stopped_reason": "generations_reached",
+  "weights": {
+    "w_yes": 100.0,
+    "w_maybe": 40.0,
+    "w_trust": 8.0
+  },
+  "winning_variant": {
+    "id": "seed_16_en_부정형_equation_preserve",
+    "lang": "en",
+    "headline": "Don't let your equations become images",
+    "body": "Equations stay editable objects after conversion, never flattened into images - nothing to fix afterward.",
+    "cta": "Start free now",
+    "angle": "부정형-equation_preserve",
+    "hook_type": "부정형",
+    "hook_template": "부정 명령('~하지 마세요') + 이유",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '부정형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '부정 명령('~하지 마세요') + 이유' 적용",
+    "evidence": [
+      "programs.hwp.differentiators_en[1]",
+      "programs.hwp.differentiators_en[0]"
+    ],
+    "products_program": "hwp"
+  },
+  "winning_score": 37.12,
+  "winning_generation": 0,
+  "winning_report": {
+    "variant_id": "seed_16_en_부정형_equation_preserve",
+    "variant": {
+      "id": "seed_16_en_부정형_equation_preserve",
+      "lang": "en",
+      "headline": "Don't let your equations become images",
+      "body": "Equations stay editable objects after conversion, never flattened into images - nothing to fix afterward.",
+      "cta": "Start free now",
+      "angle": "부정형-equation_preserve",
+      "hook_type": "부정형",
+      "hook_template": "부정 명령('~하지 마세요') + 이유",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '부정형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '부정 명령('~하지 마세요') + 이유' 적용",
+      "evidence": [
+        "programs.hwp.differentiators_en[1]",
+        "programs.hwp.differentiators_en[0]"
+      ],
+      "products_program": "hwp"
+    },
+    "n_personas": 25,
+    "batch_size": 25,
+    "n_calls": 1,
+    "total_cost_usd": 0.34521650000000004,
+    "dry_run": false,
+    "n": 25,
+    "would_click_pct": {
+      "no": 76.0,
+      "maybe": 24.0
+    },
+    "mean_trust": 3.44,
+    "top_hook_phrases": [
+      [
+        "editable objects",
+        5
+      ],
+      [
+        "nothing to fix afterward",
+        4
+      ],
+      [
+        "never flattened into images",
+        2
+      ]
+    ],
+    "top_blockers": [
+      [
+        "Her operations and arts-humanities work never involves editing mathematical equations in documents.",
+        1
+      ],
+      [
+        "A transportation attendant with book club and gardening interests has no need for equation-preserving conversion.",
+        1
+      ],
+      [
+        "Retail sales and PC-building hobbies don't involve documents with mathematical equations to convert.",
+        1
+      ],
+      [
+        "Nursing, knitting, and birdwatching involve no equation-laden documents requiring conversion.",
+        1
+      ],
+      [
+        "Accountants work mainly in spreadsheets, not documents with formatted equations that flatten into images.",
+        1
+      ]
+    ]
+  },
+  "score_progression": [
+    {
+      "generation": 0,
+      "population_size": 8,
+      "best_score": 37.12,
+      "best_variant_id": "seed_16_en_부정형_equation_preserve",
+      "mean_score": 24.96
+    },
+    {
+      "generation": 1,
+      "population_size": 8,
+      "best_score": 35.2,
+      "best_variant_id": "seed_13_en_역설_반전_tos_safe",
+      "mean_score": 28.62
+    }
+  ],
+  "top_hook_phrases_overall": [
+    [
+      "Automated",
+      15
+    ],
+    [
+      "47 editable equations",
+      12
+    ],
+    [
+      "47 formats",
+      10
+    ],
+    [
+      "DOCX, PDF",
+      9
+    ],
+    [
+      "nothing to fix afterward",
+      7
+    ]
+  ],
+  "top_blockers_overall": [
+    [
+      "She is an operations specialist with an arts background, not a grad student or researcher writing papers with equations.",
+      1
+    ],
+    [
+      "A transportation attendant with some college has no need for a research-paper reviewer tool.",
+      1
+    ],
+    [
+      "He is a retail salesperson, not a grad student or researcher, so the academic tool doesn't fit him.",
+      1
+    ],
+    [
+      "A bedside nurse writing a caregiver guidebook doesn't need Q1 review or editable equations.",
+      1
+    ],
+    [
+      "She is an accountant pursuing a CPA, not writing academic research papers.",
+      1
+    ]
+  ],
+  "final_elites": [
+    {
+      "id": "seed_13_en_역설_반전_tos_safe",
+      "lang": "en",
+      "headline": "Automated - except the last click",
+      "body": "Everything up to submission runs on its own; you press Submit yourself. A ToS-safe design, on purpose.",
+      "cta": "Start free matching",
+      "angle": "역설·반전-tos_safe",
+      "hook_type": "역설·반전",
+      "hook_template": "통념 제시 + '그런데/사실은' 반전 + 실제 사실",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '역설·반전' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '통념 제시 + '그런데/사실은' 반전 + 실제 사실' 적용",
+      "evidence": [
+        "programs.sci.differentiators_en[1]"
+      ],
+      "products_program": "sci"
+    },
+    {
+      "id": "gen01_en_var_02_equation_preserve",
+      "headline": "Don't let equations become images",
+      "body": "Equations stay editable objects after conversion, never flattened - nothing to fix afterward.",
+      "cta": "Convert free",
+      "angle": "부정형-equation_preserve (keeps top hook phrases intact)",
+      "lang": "en",
+      "hook_type": null,
+      "hook_template": null,
+      "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+      "evidence": [],
+      "products_program": null
+    },
+    {
+      "id": "seed_16_en_부정형_equation_preserve",
+      "lang": "en",
+      "headline": "Don't let your equations become images",
+      "body": "Equations stay editable objects after conversion, never flattened into images - nothing to fix afterward.",
+      "cta": "Start free now",
+      "angle": "부정형-equation_preserve",
+      "hook_type": "부정형",
+      "hook_template": "부정 명령('~하지 마세요') + 이유",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '부정형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '부정 명령('~하지 마세요') + 이유' 적용",
+      "evidence": [
+        "programs.hwp.differentiators_en[1]",
+        "programs.hwp.differentiators_en[0]"
+      ],
+      "products_program": "hwp"
+    }
+  ],
+  "total_calls_this_lang": 17,
+  "total_cost_usd_this_lang": 5.3856,
+  "dry_run": false,
+  "seed_hook_type_mix": {
+    "정체성호명": 1,
+    "숫자형": 2,
+    "호기심갭": 1,
+    "질문형": 2,
+    "역설·반전": 1,
+    "부정형": 1
+  }
+}

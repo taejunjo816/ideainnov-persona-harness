@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen03_ko_gen02_ko_v5_brand_launch_strategy",
+  "variant": {
+    "id": "gen03_ko_gen02_ko_v5_brand_launch_strategy",
+    "headline": "브랜드 론칭, 사업계획서부터 전략까지",
+    "body": "연구 결과나 RFP를 사업계획서로 자동 구조화하고, 핵심 키워드로 타겟·채널·메시지 전략까지 설계. IR 피치덱도 옵션 확장.",
+    "cta": "무료 체험 시작",
+    "angle": "브랜드/마케팅 실무(론칭·미디어 걸림돌 정면 해소, 전략 설계 강조)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.45218125,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 68.0,
+    "yes": 8.0,
+    "maybe": 24.0
+  },
+  "mean_trust": 2.44,
+  "top_hook_phrases": [
+    [
+      "사업계획서",
+      2
+    ],
+    [
+      "타겟·채널·메시지 전략",
+      2
+    ],
+    [
+      "브랜드 론칭",
+      1
+    ],
+    [
+      "전략까지",
+      1
+    ],
+    [
+      "연구 결과",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 실무자로 총무과 이직이 목표라 브랜드 론칭·사업계획서 자동화 도구는 업무와 무관하다.",
+      1
+    ],
+    [
+      "전문대 출신 온라인 판매원에게 RFP·IR 피치덱 같은 용어가 다소 낯설어 진입장벽으로 느껴질 수 있다.",
+      1
+    ],
+    [
+      "현장 시험원으로 기술 자격증 취득이 목표라 사업계획서·마케팅 전략과는 무관하다.",
+      1
+    ],
+    [
+      "평온한 정년퇴직을 바라는 그에게 창업·론칭 도구는 지금 추구하는 안정과 방향이 다르다.",
+      1
+    ],
+    [
+      "무역 실무자로 내 집 마련과 육아 시간 확보가 목표라 사업계획서 자동화와 접점이 없다.",
+      1
+    ]
+  ]
+}

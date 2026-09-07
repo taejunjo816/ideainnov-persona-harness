@@ -1,0 +1,71 @@
+{
+  "variant_id": "gen04_en_gen04_en_var_01_rfp_business",
+  "variant": {
+    "id": "gen04_en_gen04_en_var_01_rfp_business",
+    "headline": "One RFP upload, ready to pitch",
+    "body": "One upload becomes 3 Win Themes, KPI rationale, and channel-ready copy with hashtags.",
+    "cta": "Start free",
+    "angle": "RFP/business angle for operations & finance pros - answers non-researcher relevance blockers directly",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.3850475,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 52.0,
+    "no": 48.0
+  },
+  "mean_trust": 2.6,
+  "top_hook_phrases": [
+    [
+      "ready to pitch",
+      4
+    ],
+    [
+      "channel-ready copy with hashtags",
+      4
+    ],
+    [
+      "KPI rationale",
+      4
+    ],
+    [
+      "One RFP upload",
+      2
+    ],
+    [
+      "3 Win Themes",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "RFP response writing isn't her core operations work, so relevance feels indirect to daily tasks.",
+      1
+    ],
+    [
+      "A transportation attendant has no use for RFP proposal-writing or marketing copy tools.",
+      1
+    ],
+    [
+      "RFP framing signals corporate bidding, not the retail floor sales he does today.",
+      1
+    ],
+    [
+      "A palliative-care nurse has zero need for RFP pitching or marketing content tools.",
+      1
+    ],
+    [
+      "Audit and ESG work isn't about pitching RFPs, so the marketing output feels off-target.",
+      1
+    ]
+  ]
+}

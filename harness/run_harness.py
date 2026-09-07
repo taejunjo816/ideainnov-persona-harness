@@ -446,10 +446,10 @@ def run_round(
 def render_final_report_md(product: dict, country: str, n: int, summary1: dict, summary2: dict, shift: dict, total_cost: float) -> str:
     def block(title, s):
         use, pay, price = s["would_use_pct"], s["would_pay_pct"], s["price_stats_krw"]
-        lines = [f"### {title}", ""]
-        lines.append(f"- 사용 의향(would_use): yes **{use.get('yes', 0)}%** / maybe {use.get('maybe', 0)}% / no {use.get('no', 0)}%")
+        lines = [f"[{title}]", ""]
+        lines.append(f"- 사용 의향(would_use): yes {use.get('yes', 0)}% / maybe {use.get('maybe', 0)}% / no {use.get('no', 0)}%")
         lines.append(f"- user_type: {s['user_type_pct']}")
-        lines.append(f"- 결제 의향(would_pay): yes **{pay.get('yes', 0)}%** / only_free_tier {pay.get('only_free_tier', 0)}% / no {pay.get('no', 0)}%")
+        lines.append(f"- 결제 의향(would_pay): yes {pay.get('yes', 0)}% / only_free_tier {pay.get('only_free_tier', 0)}% / no {pay.get('no', 0)}%")
         if price["n_willing"]:
             lines.append(f"- 지불 의향자 월 최대 지불액: 중앙값 ₩{price['median']:,} / 평균 ₩{price['mean']:,} (n={price['n_willing']})")
         if s["top_objections"]:
@@ -467,28 +467,28 @@ def render_final_report_md(product: dict, country: str, n: int, summary1: dict, 
         return "\n".join(lines)
 
     return "\n".join([
-        f"# IDEAINNOV.COM x Nemotron-Personas-{country} 시뮬레이션 결과",
+        f"[IDEAINNOV.COM x Nemotron-Personas-{country} 시뮬레이션 결과]",
         "",
         f"- 제품: {product['name']} ({product.get('url')})",
         f"- 표본: 실제 NVIDIA Nemotron-Personas-{country} 데이터셋에서 추출한 페르소나 {n}명 (batch of 25)",
         f"- 방식: 배치당 25명씩 1회 LLM 호출로 독립 판정(1차) -> 집계 -> 공론 요약을 반영해 재판정(2차)",
-        f"- 실제 호출 비용 합계: **${total_cost:.4f}**",
+        f"- 실제 호출 비용 합계: ${total_cost:.4f}",
         "",
         block("1차 판정 (독립 판단, 서로 영향 없음)", summary1),
         block("2차 판정 (전체 공론 요약을 인지한 뒤 재판단)", summary2),
-        "### 1차 -> 2차 의견 변화 (공론 노출 효과)",
+        "[1차 -> 2차 의견 변화 (공론 노출 효과)]",
         "",
         f"- 판정이 바뀐 페르소나: {shift['changed']}/{shift['n']} ({shift['changed_pct']}%)",
         f"- 더 긍정적으로 변화: {shift['flips_to_positive']}명 / 더 부정적으로 변화: {shift['flips_to_negative']}명",
         "",
-        "### 결론 요약 (누가 쓰고 / 왜 안 쓰고 / 누가 돈을 내는가)",
+        "[결론 요약 (누가 쓰고 / 왜 안 쓰고 / 누가 돈을 내는가)]",
         "",
-        "- **누가 쓰는가**: user_type=core_target으로 분류된 페르소나는 거의 전부 "
+        "- 누가 쓰는가: user_type=core_target으로 분류된 페르소나는 거의 전부 "
         "'research_or_engineering' 직업군(연구원/엔지니어/대학원 이상 학력 + 공학·IT·자연과학 전공)에 "
         "집중되어 있음 — 일반 인구 표본에서는 소수.",
-        "- **왜 안 쓰는가**: 지배적 거부 사유는 '내 직업/전공이 PDE 기반 연구·논문 작성과 무관함' — "
+        "- 왜 안 쓰는가: 지배적 거부 사유는 '내 직업/전공이 PDE 기반 연구·논문 작성과 무관함' — "
         "일반 사무직·서비스직·은퇴자 페르소나 다수가 여기 해당.",
-        "- **누가 돈을 내는가**: 결제 의향은 사용 의향보다 항상 낮음 — 핵심 타깃조차 무료 체험/종량제로 "
+        "- 누가 돈을 내는가: 결제 의향은 사용 의향보다 항상 낮음 — 핵심 타깃조차 무료 체험/종량제로 "
         "먼저 검증한 뒤에만 월 구독으로 전환하려는 경향이 보임 (아래 상세 표 참고).",
         "",
     ])

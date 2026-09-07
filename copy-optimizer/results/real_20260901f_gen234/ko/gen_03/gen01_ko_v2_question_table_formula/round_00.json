@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen01_ko_v2_question_table_formula",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "maybe",
+      "hook_phrase": "표",
+      "blocker": "경리 업무는 표는 다루지만 OMML 수식은 거의 쓰지 않아 필요성이 절반뿐이다.",
+      "trust": 3,
+      "reasoning": "순천의 경리 사무원으로 회계 표 깨짐은 실무 고충이지만 수식 변환은 그의 업무와 무관해 관심이 반감된다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "리빙 소품 온라인 판매에는 수식·표 변환 문서 작업이 사실상 없다.",
+      "trust": 2,
+      "reasoning": "통영의 온라인 쇼핑 판매원으로 상품 이미지와 유통이 주 업무라 문서 변환 도구는 전혀 와닿지 않는다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃이 그대로 남습니다",
+      "blocker": "시험 보고서 서식이 회사 양식으로 고정돼 외부 변환툴 도입 결정권이 없다.",
+      "trust": 3,
+      "reasoning": "기계공학 시험원으로 시험 데이터 표를 자주 다뤄 표 깨짐 방지에 관심 가나 수식 활용은 제한적이다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "미디어 콘텐츠 디자인은 이미지·영상 중심이라 수식·표 문서 변환과 무관하다.",
+      "trust": 2,
+      "reasoning": "광주의 미디어 디자이너로 그래픽 작업이 주라 OMML 수식 보존 같은 문서 이슈에 흥미가 없다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "maybe",
+      "hook_phrase": "47개 형식을 오가며 변환해도",
+      "blocker": "무역 서류는 표 위주라 수식 보존 강조가 자기 상황과 딱 맞진 않는다.",
+      "trust": 4,
+      "reasoning": "익산의 무역 사무원이자 정보통신 전공자로 다양한 형식 서류 변환 고충을 알아 여러 형식 호환에 끌린다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사 업무는 문서 변환이 아니라 환자 케어라 도구가 불필요하다.",
+      "trust": 2,
+      "reasoning": "안산의 간호조무사로 수식·표 문서 작업이 없어 이 변환 도구는 삶의 어디에도 닿지 않는다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃이 그대로 남습니다",
+      "blocker": "손해사정 보고서는 표는 쓰나 여러 형식 변환 빈도가 낮아 절실함이 적다.",
+      "trust": 3,
+      "reasoning": "노원의 손해사정사로 산정 보고서 표를 다뤄 레이아웃 유지에는 공감하나 수식 강조는 무관하다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고졸 실전 마케터로 수식이 필요한 문서 작업 자체가 거의 없다.",
+      "trust": 2,
+      "reasoning": "하남의 현장형 마케터로 감각과 인맥 기반 업무라 OMML 수식 보존 문구가 자기 일과 멀게 느껴진다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "교육 보조원 업무엔 수식·표 다형식 변환이 등장하지 않는다.",
+      "trust": 2,
+      "reasoning": "시흥의 교사 교육 보조원으로 학생 지원이 주라 문서 변환 툴은 관심 영역 밖이다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "yes",
+      "hook_phrase": "편집 가능한 OMML 수식과 표 레이아웃",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "광명의 고무·플라스틱 연구원으로 수식과 표가 가득한 기술 보고서를 다뤄 수식 깨짐 방지가 실제 고충과 정확히 맞는다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃이 그대로 남습니다",
+      "blocker": "소매점 운영 마케터라 수식 문서는 없고 표만 부분적으로 관련된다.",
+      "trust": 3,
+      "reasoning": "김포의 대학원 출신 마케터로 매장 문서 체계화를 지향해 표 유지에는 공감하나 수식은 무관하다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "maybe",
+      "hook_phrase": "47개 형식을 오가며 변환해도",
+      "blocker": "임대 상품 기획서는 표 위주라 수식 강조가 핵심 니즈와 완전히 겹치진 않는다.",
+      "trust": 4,
+      "reasoning": "세종의 상품 기획자로 완성도에 집착하며 기획서 형식 변환을 자주 겪어 다형식 보존 문구에 관심이 간다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃이 그대로 남습니다",
+      "blocker": "통신사 마케팅 문서는 수식이 드물어 수식 보존 강조가 절반만 유효하다.",
+      "trust": 3,
+      "reasoning": "분당의 체계적 마케터로 보고서 표 서식 유지에는 공감하나 OMML 수식은 그녀 업무와 거리가 있다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "yes",
+      "hook_phrase": "편집 가능한 OMML 수식과 표 레이아웃",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "대전의 경영지원 관리자이자 자연과학·수학 대학원 출신으로 매뉴얼과 수식·표 문서를 다뤄 변환 보존이 정확히 필요하다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담 업무는 수식·표 문서 변환과 아무 관련이 없다.",
+      "trust": 2,
+      "reasoning": "대구의 전화 상담원으로 응대가 주 업무라 문서 변환 도구가 일상 어디에도 필요하지 않다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 사무 업무엔 다형식 수식 문서 변환이 등장하지 않는다.",
+      "trust": 2,
+      "reasoning": "용인의 고객 상담 사무원으로 상담·소통 중심이라 OMML 수식 보존 문구가 실무와 연결되지 않는다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "maybe",
+      "hook_phrase": "편집 가능한 OMML 수식과 표",
+      "blocker": "네트워크 운영은 설정·모니터링 위주라 수식 문서 변환 빈도가 낮다.",
+      "trust": 4,
+      "reasoning": "영등포의 정보통신 대학원 출신 개발자로 기술 문서를 이해해 신뢰는 가나 일상 필요성은 크지 않다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃이 그대로 남습니다",
+      "blocker": "감정평가서는 표 중심이라 수식 강조가 딱 맞지 않고 변환 필요도 제한적이다.",
+      "trust": 3,
+      "reasoning": "기흥의 부동산 감정 전문가로 가치 산정 표를 다뤄 표 유지에는 공감하나 수식은 무관하다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "maybe",
+      "hook_phrase": "47개 형식을 오가며 변환해도",
+      "blocker": "기술 영업 자료는 표·사양서 위주라 수식 보존 강조가 절실하진 않다.",
+      "trust": 4,
+      "reasoning": "송도의 공학 출신 기술 영업원으로 장비 사양서와 제안서 형식 변환을 겪어 다형식 호환에 관심이 있다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 업무엔 문서 변환 자체가 존재하지 않는다.",
+      "trust": 2,
+      "reasoning": "분당의 음식 서비스 종사원으로 현장 노동이 주라 수식·표 변환 도구가 삶과 완전히 무관하다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사 업무는 진료 보조라 수식·표 문서 변환이 필요 없다.",
+      "trust": 2,
+      "reasoning": "아산의 치과위생사로 임상 업무가 주라 OMML 수식 보존 문구가 그녀 일상과 연결되지 않는다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "maybe",
+      "hook_phrase": "47개 형식을 오가며 변환해도",
+      "blocker": "기획 문서는 표와 도표 위주라 수식 보존 강조가 핵심 니즈와 반만 겹친다.",
+      "trust": 4,
+      "reasoning": "부평의 경영 기획 사무원으로 완성도 집착과 프로세스 자동화 지향이라 다형식 표 보존 변환에 관심이 간다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "초등 교사 문서는 수식 없는 안내문 위주라 변환 도구가 불필요하다.",
+      "trust": 2,
+      "reasoning": "동대문의 초등학교 교사로 아이 중심 업무라 OMML 수식·다형식 변환이 일상과 거의 무관하다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "yes",
+      "hook_phrase": "편집 가능한 OMML 수식과 표 레이아웃",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "세종의 공학 출신 토목 기술자로 수식·표가 담긴 설계·기술 문서를 다뤄 변환 시 깨짐 방지가 실제 고충과 맞는다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유치원 교사 업무엔 수식·표 다형식 변환 문서가 없다.",
+      "trust": 2,
+      "reasoning": "마산의 유치원 교사로 놀이·상상 중심 활동이라 OMML 수식 보존 문구가 삶의 어디에도 닿지 않는다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.26051599999999997,
+    "duration_ms": 91047,
+    "session_id": "354878b5-9165-4fd1-8e6a-92f526f79ef7"
+  }
+}

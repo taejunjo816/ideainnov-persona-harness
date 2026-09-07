@@ -1,0 +1,70 @@
+{
+  "variant_id": "seed_16_ko_부정형_수식보존",
+  "variant": {
+    "id": "seed_16_ko_부정형_수식보존",
+    "lang": "ko",
+    "headline": "수식을 이미지로 바꾸지 마세요",
+    "body": "변환 후에도 수식은 편집 가능한 OMML 객체로 남습니다. 이미지로 굳혀서 다시 손볼 필요가 없습니다.",
+    "cta": "가입 즉시 무료 체험",
+    "angle": "부정형-수식보존",
+    "hook_type": "부정형",
+    "hook_template": "부정 명령('~하지 마세요') + 이유",
+    "source_evidence": "youtube_hooks.json[ko]: 훅유형 '부정형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '부정 명령('~하지 마세요') + 이유' 적용",
+    "evidence": [
+      "programs.hwp.differentiators[1]",
+      "programs.hwp.differentiators[0]"
+    ],
+    "products_program": "hwp"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.42347900000000005,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 76.0,
+    "maybe": 24.0
+  },
+  "mean_trust": 2.32,
+  "top_hook_phrases": [
+    [
+      "편집 가능한 OMML 객체",
+      4
+    ],
+    [
+      "이미지로",
+      1
+    ],
+    [
+      "변환 후에도 수식은 편집 가능한",
+      1
+    ],
+    [
+      "수식을 이미지로 바꾸지 마세요",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 사무원 업무는 회계 장부와 숫자 정산이지 수식 문서 변환과는 무관하다.",
+      1
+    ],
+    [
+      "온라인 리빙 소품 판매와 수식 편집 도구는 접점이 전혀 없다.",
+      1
+    ],
+    [
+      "시험 현장 실무가 중심이라 수식 문서 작성 빈도가 높지 않아 필요성을 크게 못 느낀다.",
+      1
+    ],
+    [
+      "미디어 디자이너는 이미지를 다루지만 수학 수식 문서와는 무관한 콘텐츠 작업을 한다.",
+      1
+    ],
+    [
+      "무역 서류 실무에는 수식이 등장할 일이 거의 없다.",
+      1
+    ]
+  ]
+}

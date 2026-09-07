@@ -1,0 +1,59 @@
+{
+  "variant_id": "gen03_en_var_02_hwp_office_users",
+  "variant": {
+    "id": "gen03_en_var_02_hwp_office_users",
+    "headline": "HWP files break at the equations",
+    "body": "Most converters break Korean HWP. This one outputs editable OMML and checks its own fidelity.",
+    "cta": "Convert free",
+    "angle": "HWP pain point for any office/document user (broadens past academics to answer non-researcher blockers)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.322563,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 92.0,
+    "maybe": 8.0
+  },
+  "mean_trust": 2.4,
+  "top_hook_phrases": [
+    [
+      "checks its own fidelity",
+      2
+    ],
+    [
+      "editable OMML",
+      2
+    ]
+  ],
+  "top_blockers": [
+    [
+      "She works US business operations and never touches Korean HWP files, so the format is irrelevant to her.",
+      1
+    ],
+    [
+      "A transportation attendant handling train schedules has no reason to convert Korean HWP files with equations.",
+      1
+    ],
+    [
+      "A Bay Area retail salesperson and PC builder never handles Korean HWP documents.",
+      1
+    ],
+    [
+      "A retiring nurse working with patients has no encounter with Korean HWP equation files.",
+      1
+    ],
+    [
+      "A US accountant deals with spreadsheets and audit files, not Korean HWP documents.",
+      1
+    ]
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen01_en_var_01_matching_free_tossafe",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "As an operations specialist she never submits to academic journals, so journal matching is irrelevant to her work.",
+      "trust": 2,
+      "reasoning": "Her arts-humanities background and ops career involve no journal publishing, making this academic submission tool meaningless to her daily reading and work."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant has no papers to submit to journals.",
+      "trust": 2,
+      "reasoning": "Her community-service and transit focus has nothing to do with academic journal matching, so the cryptic copy passes her by."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "no",
+      "hook_phrase": "Automated",
+      "blocker": "Retail salesperson with no manuscripts sees nothing to match despite liking automation and tech.",
+      "trust": 2,
+      "reasoning": "Though the STEM-minded tinkerer notes automation, he writes no papers, so a journal-submission tool serves no purpose for him."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "Journal matching",
+      "blocker": "She reads medical journals but is retiring and never submits research articles herself.",
+      "trust": 2,
+      "reasoning": "As a semi-retiring nurse writing a lay guidebook, not peer-reviewed papers, journal submission matching does not fit her plans."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "free",
+      "blocker": "An accountant produces audits, not journal manuscripts needing submission.",
+      "trust": 2,
+      "reasoning": "Her finance and ESG-reporting ambitions involve no academic publishing, so journal fit and review-time matching hold no value."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young retail salesperson has no research to submit to any journal.",
+      "trust": 2,
+      "reasoning": "His retail-management and photography interests are unrelated to academic paper submission, making the cryptic offer irrelevant."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An accountant chasing a CPA writes no journal papers to match.",
+      "trust": 2,
+      "reasoning": "His forensic-accounting and outdoor interests have nothing to do with journal submission, so this tool passes unnoticed."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "Journal matching",
+      "blocker": "She reads journals but pursues clinical-educator and community-health roles, not authoring submissions.",
+      "trust": 2,
+      "reasoning": "As a nurse focused on care protocols and art therapy, not manuscript publishing, journal-fit matching does not serve her goals."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An HR professional has no academic papers requiring journal submission.",
+      "trust": 2,
+      "reasoning": "Her people-operations and networking focus is entirely disconnected from academic journal matching, giving her no reason to click."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A logistics manager writing a community guidebook, not journal articles, has nothing to submit.",
+      "trust": 2,
+      "reasoning": "His operations-and-arts pursuits involve no peer-reviewed submissions, so a ToS-safe journal matcher is irrelevant to him."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "no",
+      "hook_phrase": "Automated",
+      "blocker": "An IT manager writes no research papers, so journal matching serves no purpose.",
+      "trust": 2,
+      "reasoning": "Though drawn to automation language, his tech-leadership work has no academic publishing angle, leaving the offer useless."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "maybe",
+      "hook_phrase": "Journal matching",
+      "blocker": "He supervises a kitchen now and may not have a manuscript ready to submit.",
+      "trust": 3,
+      "reasoning": "His graduate STEM degree and food-science experiments give faint publishing curiosity, but as a food supervisor he likely has no paper to match."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide has no academic paper to submit to journals.",
+      "trust": 2,
+      "reasoning": "Her caregiving and craft hobbies are unrelated to journal publishing, so the cryptic academic tool holds no appeal."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hairstylist has no research manuscript for journal submission.",
+      "trust": 2,
+      "reasoning": "Her beauty, dance, and salon ambitions are far removed from academic journals, making this offer completely irrelevant."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "free",
+      "blocker": "A financial specialist writes advisory reports, not journal papers needing matching.",
+      "trust": 2,
+      "reasoning": "His finance and fintech pursuits involve no peer-reviewed submissions, so journal-fit matching offers him nothing useful."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A freight material mover has no scholarly paper to submit anywhere.",
+      "trust": 2,
+      "reasoning": "His logistics and woodworking interests have no connection to academic journal submission, so the copy is meaningless to him."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "no",
+      "hook_phrase": "Automated",
+      "blocker": "A software engineer writes code, not journal manuscripts to match and submit.",
+      "trust": 2,
+      "reasoning": "Despite noticing automation, her STEM engineering track has no academic-publishing need, leaving the journal tool irrelevant."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A CEO focused on revenue and incubators has no journal papers to submit.",
+      "trust": 2,
+      "reasoning": "His business-leadership and creative pursuits are disconnected from academic journal matching, so this niche tool does not engage him."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hands-on engineer without publishing plans has nothing to submit to a journal.",
+      "trust": 2,
+      "reasoning": "His high-school education and practical engineering-management goals involve no peer-reviewed papers, making journal matching irrelevant."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vehicle detailer has no academic manuscript for journal submission.",
+      "trust": 2,
+      "reasoning": "Her auto-detailing and art hobbies are wholly unrelated to academic publishing, so the cryptic journal offer means nothing."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A janitor pursuing facilities certifications has no journal paper to match.",
+      "trust": 2,
+      "reasoning": "His cleaning-consultancy and outdoor interests have no academic-publishing dimension, so journal submission matching is irrelevant to him."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An aircraft mechanic writes no research papers requiring journal submission.",
+      "trust": 2,
+      "reasoning": "His hands-on aviation and country-music life is entirely removed from academic journals, so this offer passes him by."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "maybe",
+      "hook_phrase": "Journal matching",
+      "blocker": "The cryptic 'ToS-safe' framing may raise suspicion for a methodical, evidence-focused clinician.",
+      "trust": 3,
+      "reasoning": "As an SLP aiming to publish peer-reviewed articles on evidence-based interventions, journal-fit and review-time matching genuinely aligns with her goals."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A warehouse stocker has no scholarly paper to submit to journals.",
+      "trust": 2,
+      "reasoning": "His woodworking, BBQ, and supply-chain interests are unrelated to academic publishing, making journal matching irrelevant to him."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "free",
+      "blocker": "A financial manager produces reports, not journal manuscripts needing submission.",
+      "trust": 2,
+      "reasoning": "Her finance-leadership and quiet-hobby lifestyle has no academic-publishing angle, so the journal matcher offers her nothing relevant."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.35072525000000004,
+    "duration_ms": 61529,
+    "session_id": "721ab015-3534-4c54-b596-08b100709a9e"
+  }
+}

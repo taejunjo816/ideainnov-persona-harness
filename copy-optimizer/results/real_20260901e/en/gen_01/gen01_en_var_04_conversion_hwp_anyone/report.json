@@ -1,0 +1,63 @@
+{
+  "variant_id": "gen01_en_var_04_conversion_hwp_anyone",
+  "variant": {
+    "id": "gen01_en_var_04_conversion_hwp_anyone",
+    "headline": "HWP files break most converters",
+    "body": "This one outputs editable OMML and grades its own fidelity with SSIM - nothing to fix afterward.",
+    "cta": "Convert free",
+    "angle": "부정형-fidelity (Word/HWP relevance for non-academics)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.35651175,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 88.0,
+    "maybe": 12.0
+  },
+  "mean_trust": 2.36,
+  "top_hook_phrases": [
+    [
+      "grades its own fidelity with SSIM",
+      4
+    ],
+    [
+      "editable OMML",
+      3
+    ],
+    [
+      "nothing to fix afterward",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "She has no exposure to HWP files or math markup in her operations or arts-humanities work.",
+      1
+    ],
+    [
+      "A transportation attendant never encounters HWP files or math-fidelity conversion needs.",
+      1
+    ],
+    [
+      "HWP is a niche Korean format he has no reason to use in Bay Area retail.",
+      1
+    ],
+    [
+      "A nurse handling patient care has no use for HWP file conversion.",
+      1
+    ],
+    [
+      "Accountants work in Excel and PDFs, not HWP files, making this converter irrelevant.",
+      1
+    ]
+  ]
+}

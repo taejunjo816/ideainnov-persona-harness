@@ -1,0 +1,58 @@
+{
+  "generation": 0,
+  "ranking": [
+    {
+      "variant_id": "seed_02_ko_숫자형_형식개수",
+      "score": 37.76,
+      "hook_type": "숫자형",
+      "headline": "형식 변환 47개, 호출당 2,800원"
+    },
+    {
+      "variant_id": "seed_16_ko_부정형_수식보존",
+      "score": 28.16,
+      "hook_type": "부정형",
+      "headline": "수식을 이미지로 바꾸지 마세요"
+    },
+    {
+      "variant_id": "seed_11_ko_질문형_수식신뢰",
+      "score": 25.28,
+      "hook_type": "질문형",
+      "headline": "수식 47개, 정말 안 깨질까요?"
+    },
+    {
+      "variant_id": "seed_01_ko_숫자형_가격",
+      "score": 23.36,
+      "hook_type": "숫자형",
+      "headline": "₩4,100에 수식 47개, 심사 3회"
+    },
+    {
+      "variant_id": "seed_13_ko_역설_반전_ToS안전",
+      "score": 22.08,
+      "hook_type": "역설·반전",
+      "headline": "다 자동화해도, 마지막 버튼은 안 누릅니다"
+    },
+    {
+      "variant_id": "seed_04_ko_정체성호명_연구자호명",
+      "score": 22.08,
+      "hook_type": "정체성호명",
+      "headline": "대학원생과 연구원을 위해 만들었습니다"
+    },
+    {
+      "variant_id": "seed_07_ko_호기심갭_투고패키지",
+      "score": 20.16,
+      "hook_type": "호기심갭",
+      "headline": "포털에 넣을 파일, 이미 준비돼 있습니다"
+    },
+    {
+      "variant_id": "seed_10_ko_질문형_권위",
+      "score": 20.16,
+      "hook_type": "질문형",
+      "headline": "가상 심사위원, 정말 3번이나 퇴짜를 놓을까요?"
+    }
+  ],
+  "elites": [
+    "seed_02_ko_숫자형_형식개수",
+    "seed_16_ko_부정형_수식보존",
+    "seed_11_ko_질문형_수식신뢰"
+  ]
+}

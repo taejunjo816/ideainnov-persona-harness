@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen04_en_gen04_en_var_04_journal_clarity",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "As an operations specialist with no academic publishing, journal submission tools are irrelevant to her work or hobbies.",
+      "trust": 3,
+      "reasoning": "Anna's operations and arts-humanities background involve no journal submissions, so quartile, SJR, and APC metrics hold no relevance for her."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A transportation attendant never submits academic papers, making this journal-matching tool completely irrelevant.",
+      "trust": 2,
+      "reasoning": "Karen's transit-attendant work and community-service interests have nothing to do with academic journal submission or review times."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A retail salesperson has no manuscripts to submit, so journal fit means nothing to him.",
+      "trust": 3,
+      "reasoning": "Joseph's retail-strategy focus and PC-building hobbies don't involve writing or submitting academic papers to journals."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Barbara reads journals but writes no research papers, so a submission-matching tool doesn't serve her.",
+      "trust": 3,
+      "reasoning": "As a bedside nurse planning a caregiver guidebook, not peer-reviewed articles, journal quartile and APC metrics don't apply to her."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An accountant pursuing CPA and audit work never submits academic manuscripts.",
+      "trust": 3,
+      "reasoning": "Payal's audit and ESG-reporting ambitions involve no scholarly publishing, so journal-fit metrics like SJR are irrelevant to her."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A young retail salesperson has no papers to submit to journals.",
+      "trust": 2,
+      "reasoning": "Guillermo's retail-management path and outdoor hobbies bear no connection to academic journal submission or review-time metrics."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An accountant chasing a CPA license doesn't write journal articles, so matching is useless to him.",
+      "trust": 3,
+      "reasoning": "Angelo's forensic-accounting and finance goals involve no academic publishing, making quartile and APC data meaningless for his work."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Alejandra reads medical journals but authors none, so a submission tool doesn't fit her needs.",
+      "trust": 3,
+      "reasoning": "As a clinical nurse pursuing a BSN and art-therapy work, she consumes but does not submit research to journals."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An HR professional never submits academic papers, so journal matching is irrelevant.",
+      "trust": 2,
+      "reasoning": "Janet's people-operations focus and social hobbies have no link to scholarly manuscript submission or journal metrics."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Jeffrey plans a community guidebook, not journal articles, so submission matching doesn't apply.",
+      "trust": 3,
+      "reasoning": "As a logistics manager and watercolorist writing essays, not peer-reviewed papers, journal quartile metrics are outside his interests."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An IT manager doesn't submit academic manuscripts, making journal-fit metrics irrelevant to him.",
+      "trust": 3,
+      "reasoning": "Hassan's technology-leadership and cycling interests involve no scholarly publishing, so quartile and review-time data mean nothing to him."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A food-service supervisor, despite a STEM graduate degree, isn't currently writing papers to submit.",
+      "trust": 3,
+      "reasoning": "Felix's restaurant-operations focus, though STEM-educated, involves no active journal submission where quartile or APC would matter."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A home health aide never submits scholarly articles, so this tool is irrelevant to her.",
+      "trust": 2,
+      "reasoning": "Tammy's caregiving and community-outreach goals bear no relation to academic journal submission or review-time metrics."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hairstylist has no research manuscripts, making journal matching completely irrelevant.",
+      "trust": 2,
+      "reasoning": "Esperanza's hair-artistry and cultural-community pursuits have nothing to do with academic journal submissions or quartile metrics."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A financial specialist doesn't publish academic papers, so journal-fit data serves no purpose for him.",
+      "trust": 3,
+      "reasoning": "Pradeep's advisory and fintech ambitions involve no scholarly publishing, so SJR and APC metrics hold no relevance for him."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A freight material mover has no manuscripts to submit to journals.",
+      "trust": 2,
+      "reasoning": "Aldon's logistics and woodworking interests are unrelated to academic publishing, so journal quartile and review-time data don't apply."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A software engineer isn't writing academic papers, so a journal-submission tool doesn't help her.",
+      "trust": 3,
+      "reasoning": "Estelita's engineering and mentoring goals involve no scholarly publishing, making quartile and APC metrics irrelevant to her career."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A CEO focused on business growth doesn't submit academic manuscripts.",
+      "trust": 3,
+      "reasoning": "Grato's renewable-energy business and creative pursuits have no connection to journal submission or peer-review metrics."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A hands-on engineer without a research role has no papers to match to journals.",
+      "trust": 3,
+      "reasoning": "Kohl's manufacturing and DIY interests involve no academic publishing, so journal-fit metrics don't relate to his engineering work."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A vehicle detailer never submits scholarly articles, making journal matching irrelevant.",
+      "trust": 2,
+      "reasoning": "Leola's auto-detailing and desert-art pursuits have no link to academic journal submission or quartile metrics."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A janitor pursuing facilities management doesn't write academic papers to submit.",
+      "trust": 2,
+      "reasoning": "Mohammed's facilities-management and fishing interests have no relation to scholarly journal submission or review-time data."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "An aircraft mechanic has no research manuscripts, so journal fit is entirely irrelevant.",
+      "trust": 2,
+      "reasoning": "Nicholas's aviation-maintenance and country-music life involve no academic publishing, so quartile and APC metrics mean nothing to him."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "maybe",
+      "hook_phrase": "See journal fit before you submit",
+      "blocker": "She hasn't yet begun submitting articles and works only some-college hours, so the tool may feel premature.",
+      "trust": 4,
+      "reasoning": "Gloria explicitly plans to contribute peer-reviewed articles on age-related communication, so a journal-matching tool directly supports her scholarly goal."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A warehouse stocker has no academic papers to submit, making this tool irrelevant.",
+      "trust": 2,
+      "reasoning": "Joseph's supply-chain and woodworking pursuits have no connection to journal submission or peer-review metrics."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "A financial manager doesn't submit academic manuscripts, so journal-fit metrics serve no purpose.",
+      "trust": 3,
+      "reasoning": "Michelle's finance-advisory and puzzle-solving interests involve no scholarly publishing, so quartile and APC data don't apply to her."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.353274,
+    "duration_ms": 59574,
+    "session_id": "47b1438b-a4df-47d2-b961-e3bec5938d72"
+  }
+}

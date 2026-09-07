@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen01_ko_v4_biz_beyond_paper",
+  "variant": {
+    "id": "gen01_ko_v4_biz_beyond_paper",
+    "headline": "논문만? 사업계획서도 자동으로",
+    "body": "RFP나 연구 결과를 사업계획서·연구제안서로 자동 구조화해 HWPX·DOC·PPT·PDF로 제공. 종량제 ₩4,100/호출로 시작합니다.",
+    "cta": "무료 체험 시작",
+    "angle": "확장-제안서(비연구자 걸림돌 해소)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.2889165,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 48.0,
+    "maybe": 44.0,
+    "yes": 8.0
+  },
+  "mean_trust": 3.2,
+  "top_hook_phrases": [
+    [
+      "자동 구조화",
+      6
+    ],
+    [
+      "사업계획서도 자동으로",
+      3
+    ],
+    [
+      "RFP나 연구 결과를",
+      3
+    ],
+    [
+      "HWPX·DOC·PPT·PDF",
+      1
+    ],
+    [
+      "PPT·PDF",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 실무엔 사업계획서·연구제안서 작성이 없어 종량제 문서 자동화가 업무와 무관하다.",
+      1
+    ],
+    [
+      "리빙 소품 브랜드 론칭엔 관심 있으나 온라인 판매원에게 4,100원 호출과 제안서 툴이 아직 급하지 않다.",
+      1
+    ],
+    [
+      "기계공학 시험원 업무는 현장 검사와 자격증이 핵심이라 제안서 자동화와 접점이 없다.",
+      1
+    ],
+    [
+      "미디어 디자인 실무자에겐 자동 구조화 텍스트 문서가 창작 결과물과 결이 달라 매력이 약하다.",
+      1
+    ],
+    [
+      "무역 실무엔 RFP 대응이 간혹 있으나 사업계획서 작성 빈도가 낮아 종량제 결제가 부담될 수 있다.",
+      1
+    ]
+  ]
+}

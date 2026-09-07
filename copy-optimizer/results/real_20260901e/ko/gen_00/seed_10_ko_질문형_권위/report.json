@@ -1,0 +1,62 @@
+{
+  "variant_id": "seed_10_ko_질문형_권위",
+  "variant": {
+    "id": "seed_10_ko_질문형_권위",
+    "lang": "ko",
+    "headline": "가상 심사위원, 정말 3번이나 퇴짜를 놓을까요?",
+    "body": "SCI Q1 11절 자동 심사 루프가 반려 사유까지 짚어주고, 그걸 반영해 초안을 다시 씁니다.",
+    "cta": "가입 즉시 무료 체험",
+    "angle": "질문형-권위",
+    "hook_type": "질문형",
+    "hook_template": "정체성/상황 호명 + 물음표로 끝나는 질문",
+    "source_evidence": "youtube_hooks.json[ko]: 훅유형 '질문형' 가중 비중 7.4 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '정체성/상황 호명 + 물음표로 끝나는 질문' 적용",
+    "evidence": [
+      "programs.paper.features[3]",
+      "programs.paper.hooks_ko.thread[1]"
+    ],
+    "products_program": "paper"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.4134945,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 92.0,
+    "maybe": 8.0
+  },
+  "mean_trust": 2.12,
+  "top_hook_phrases": [
+    [
+      "반려 사유까지 짚어주고",
+      1
+    ],
+    [
+      "SCI Q1 11절 자동 심사 루프",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 사무원으로서 SCI 논문 심사와는 전혀 무관해 문구 자체가 자기 일과 겹치지 않는다.",
+      1
+    ],
+    [
+      "리빙 소품 브랜드를 꿈꾸는 온라인 판매원에게 SCI 논문 심사는 아무 접점이 없다.",
+      1
+    ],
+    [
+      "현장 기계 시험과 국가기술자격 취득이 관심사라 SCI 논문 작성 도구는 필요 없다.",
+      1
+    ],
+    [
+      "미디어 디자이너로 평온한 정년을 바라는 그에게 학술 논문 심사는 관심 밖이다.",
+      1
+    ],
+    [
+      "무역 실무자로 내 집 마련이 목표라 SCI 논문 심사 도구를 쓸 일이 없다.",
+      1
+    ]
+  ]
+}

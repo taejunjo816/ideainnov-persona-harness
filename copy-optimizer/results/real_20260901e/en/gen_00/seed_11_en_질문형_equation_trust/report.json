@@ -1,0 +1,65 @@
+{
+  "variant_id": "seed_11_en_질문형_equation_trust",
+  "variant": {
+    "id": "seed_11_en_질문형_equation_trust",
+    "lang": "en",
+    "headline": "47 equations - really unbroken?",
+    "body": "One sentence in, and back comes a draft with 47 editable equations. Open it and check for yourself.",
+    "cta": "Start free now",
+    "angle": "질문형-equation_trust",
+    "hook_type": "질문형",
+    "hook_template": "정체성/상황 호명 + 물음표로 끝나는 질문",
+    "source_evidence": "youtube_hooks.json[en]: 훅유형 '질문형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '정체성/상황 호명 + 물음표로 끝나는 질문' 적용",
+    "evidence": [
+      "programs.paper.hooks_en.thread[0]"
+    ],
+    "products_program": "paper"
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.36122275,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 76.0,
+    "maybe": 24.0
+  },
+  "mean_trust": 2,
+  "top_hook_phrases": [
+    [
+      "47 editable equations",
+      4
+    ],
+    [
+      "check for yourself",
+      2
+    ],
+    [
+      "Start free now",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "As an operations specialist with an arts background, she never writes equation-heavy documents and the copy is meaningless to her work.",
+      1
+    ],
+    [
+      "A transportation attendant with community-service focus has no need for equation-filled drafts.",
+      1
+    ],
+    [
+      "Despite his STEM degree, he sells retail and builds PCs, not equation-heavy academic drafts.",
+      1
+    ],
+    [
+      "A bedside nurse has no use for a tool that drafts editable equations.",
+      1
+    ],
+    [
+      "An accountant works with ledgers and audits, not scientific equation drafts.",
+      1
+    ]
+  ]
+}

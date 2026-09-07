@@ -1,0 +1,3 @@
+[variant seed_05_en_숫자형_format_count] lang=en 25 personas -> 1 call(s) of up to 25 (dry_run=False)
+  batch 0: 25 verdicts, cost=$0.2177, wall=77.6s -> round_00.json
+[variant seed_05_en_숫자형_format_count] done. n=25 would_click_pct={'no': 80.0, 'maybe': 20.0} mean_trust=2.64 total_cost_usd=0.2177

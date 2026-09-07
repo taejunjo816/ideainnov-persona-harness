@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen04_ko_gen04_ko_trade_forms_intact",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "maybe",
+      "hook_phrase": "거래 서류, 형식 바꿔도 양식 그대로",
+      "blocker": "₩2,800/호출 과금이 개인 경리 실무자에게 회사 승인 없이 쓰기 부담스럽다.",
+      "trust": 4,
+      "reasoning": "순천 경리 사무원으로 거래 서류와 양식을 매일 다뤄 형식 변환 시 양식 보존 문구가 실무 관심을 끈다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "리빙 소품 유통이라 표 서류 형식 변환보다 상품 브랜딩·판매가 관심사다.",
+      "trust": 3,
+      "reasoning": "온라인 쇼핑 판매원으로 서류 형식 변환보다 자신만의 리빙 브랜드 론칭에 마음이 쏠려 있다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "기계공학 시험 현장 업무라 문서 형식 변환 니즈가 거의 없다.",
+      "trust": 3,
+      "reasoning": "현장 기계공학 시험원이라 표·서류 변환 서비스가 자격증·연봉 목표와 직접 연결되지 않는다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "디자이너지만 주로 미디어 콘텐츠 작업이라 문서 표 변환 빈도가 낮다.",
+      "trust": 4,
+      "reasoning": "미디어 디자이너로 레이아웃·스타일 보존이라는 표현에 직업적 감각으로 반응하나 서류 변환 자체는 부수적이다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "yes",
+      "hook_phrase": "거래 서류, 형식 바꿔도 양식 그대로",
+      "blocker": "₩2,800/호출 단가가 반복 거래 서류 처리 시 누적 비용으로 느껴진다.",
+      "trust": 4,
+      "reasoning": "익산 무역 사무원이자 ICT 전공자로 거래 서류 형식 변환 걸림돌 해소가 업무 효율 목표에 정확히 부합한다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사 업무에 문서 형식 변환이 전혀 필요 없다.",
+      "trust": 3,
+      "reasoning": "안산 간호조무사로 환자 케어가 중심이라 HWPX·DOCX 변환 서비스와 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF 등 47개 형식",
+      "blocker": "손해사정 서류는 사내 시스템으로 처리해 외부 변환 도구 도입이 망설여진다.",
+      "trust": 4,
+      "reasoning": "손해사정사로 각종 서류와 양식을 다뤄 형식 보존 변환의 실무 가치를 이해하나 도입 결정권은 제한적이다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "현장 실무형 마케터라 문서 형식보다 기획·상담 아이디어가 우선이다.",
+      "trust": 3,
+      "reasoning": "실전파 마케팅 전문가로 제안서 양식 보존에 소소한 관심은 있으나 은퇴 후 소규모 상담소 목표와는 거리가 있다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "교육 보조 업무라 형식 변환이 잦은 문서 작업이 아니다.",
+      "trust": 3,
+      "reasoning": "교사 교육 보조원으로 학생 지원이 중심이라 47개 형식 변환 서비스가 사회복지사 목표와 무관하다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "20MB·30페이지 지원, 초과 시 자동 분할",
+      "blocker": "연구 보고서는 사내 양식으로 작성해 외부 유료 변환 도구가 굳이 필요치 않다.",
+      "trust": 4,
+      "reasoning": "공학 연구원으로 기술 보고서를 다뤄 대용량·자동 분할 스펙에 흥미는 있으나 집 마련·기술사 목표가 우선이다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "maybe",
+      "hook_phrase": "양식 그대로",
+      "blocker": "변화·확장에 불안이 커 새 도구 도입보다 기존 시스템 유지를 선호한다.",
+      "trust": 4,
+      "reasoning": "소매 운영 체계화를 지향하는 마케터로 양식 보존이 매뉴얼화에 유용하나 새 도구 불안감이 클릭을 망설이게 한다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "maybe",
+      "hook_phrase": "거래 서류, 형식 바꿔도 양식 그대로",
+      "blocker": "법학 기반 상품 기획이라 계약 서류는 다루지만 형식 변환이 핵심 병목은 아니다.",
+      "trust": 4,
+      "reasoning": "법학 전공 임대 상품 기획자로 거래·계약 서류를 다뤄 양식 보존 변환에 실무적 관심을 보일 수 있다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "통신사 마케팅 자료는 사내 협업 도구로 관리해 별도 변환 니즈가 낮다.",
+      "trust": 4,
+      "reasoning": "체계적 관리를 중시하는 마케터로 표·스타일 보존이 보고 자료 정리에 도움될 수 있으나 육아 병행 관심이 더 크다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "yes",
+      "hook_phrase": "양식 그대로",
+      "blocker": "₩2,800/호출 과금 구조가 반복 문서 처리 시 예산 정당화가 필요하다.",
+      "trust": 4,
+      "reasoning": "경영 지원 관리자로 업무 매뉴얼 시스템화를 추구해 형식 변환 중 양식 보존이 목표에 직결된다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담 업무라 문서 형식 변환과 접점이 거의 없다.",
+      "trust": 3,
+      "reasoning": "전화 상담원으로 후배 양성·업무 강도 조절이 관심사라 서류 변환 도구는 일상과 무관하다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "고객 상담 사무 위주라 형식 변환이 필요한 문서 작업이 드물다.",
+      "trust": 3,
+      "reasoning": "고객 상담 사무원으로 안정적 근속과 멘토 역할이 목표라 유료 변환 서비스에 끌릴 이유가 적다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF 등 47개 형식",
+      "blocker": "인프라 운영 담당이라 문서 변환보다 시스템 무결성이 관심사다.",
+      "trust": 4,
+      "reasoning": "ICT 전공 네트워크 개발자로 형식 처리 기술에 감각적 흥미는 있으나 문서 변환은 본인 직무와 다소 떨어진다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "감정평가 보고서는 정형 양식이라 외부 도구 신뢰성 검증 전엔 도입을 꺼린다.",
+      "trust": 4,
+      "reasoning": "부동산 감정 전문가로 표 많은 감정 보고서 양식 보존이 실무에 유용해 관심을 가질 수 있다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "maybe",
+      "hook_phrase": "거래 서류, 형식 바꿔도 양식 그대로",
+      "blocker": "기술 영업은 대면 신뢰가 핵심이라 문서 변환 도구가 부차적이다.",
+      "trust": 4,
+      "reasoning": "농기계 기술 영업원으로 견적·거래 서류를 주고받아 양식 보존 변환이 실무에 일부 도움될 수 있다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자라 문서 형식 변환과 전혀 무관하다.",
+      "trust": 2,
+      "reasoning": "음식 서비스 종사원으로 서류 변환 서비스가 건강·안정적 생활 유지라는 일상과 접점이 없다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사 임상 업무라 문서 변환 니즈가 없다.",
+      "trust": 3,
+      "reasoning": "치과위생사로 임상 숙련도 유지가 목표라 47개 형식 변환 서비스와 직업적 연결이 없다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "yes",
+      "hook_phrase": "초과 시 자동 분할",
+      "blocker": "₩2,800/호출 비용이 반복 기획 문서 작업에서 결재 근거가 필요하다.",
+      "trust": 4,
+      "reasoning": "경영 기획 사무원으로 업무 프로세스 자동화를 지향해 형식 변환·자동 분할이 효율화 목표에 부합한다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF 등 47개 형식",
+      "blocker": "신규 교사라 공문 처리량이 아직 적고 유료 도입 결정권이 없다.",
+      "trust": 4,
+      "reasoning": "초등 교사로 학교 행정에서 HWPX 공문을 다뤄 형식 변환·양식 보존에 실무 관련성을 느낄 수 있다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "maybe",
+      "hook_phrase": "표 레이아웃과 스타일 그대로",
+      "blocker": "토목 설계·보고 서류는 전용 프로그램 위주라 범용 변환 도구 필요성이 낮다.",
+      "trust": 4,
+      "reasoning": "세종 토목 기술자로 관공서 HWP 서류와 표를 다뤄 양식 보존 변환에 실무적 관심을 가질 여지가 있다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "유아 대상 수업 중심이라 문서 형식 변환 작업이 거의 없다.",
+      "trust": 3,
+      "reasoning": "유치원 교사로 아이들 상상·예술 활동이 관심사라 거래 서류 변환 서비스가 일상과 동떨어져 있다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.432454,
+    "duration_ms": 93441,
+    "session_id": "fd221182-5a62-4a64-aa0b-b712c2da2ce8"
+  }
+}

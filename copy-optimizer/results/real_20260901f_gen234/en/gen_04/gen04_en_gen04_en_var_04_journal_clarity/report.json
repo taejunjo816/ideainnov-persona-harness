@@ -1,0 +1,55 @@
+{
+  "variant_id": "gen04_en_gen04_en_var_04_journal_clarity",
+  "variant": {
+    "id": "gen04_en_gen04_en_var_04_journal_clarity",
+    "headline": "See journal fit before you submit",
+    "body": "Paste title, abstract, keywords - get journals with quartile, SJR, APC, and median review time. Free.",
+    "cta": "Match free",
+    "angle": "Clarifies exactly what is matched and submitted (you press Submit), fixing unclear-relevance blocker",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.353274,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 96.0,
+    "maybe": 4.0
+  },
+  "mean_trust": 2.64,
+  "top_hook_phrases": [
+    [
+      "See journal fit before you submit",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "As an operations specialist with no academic publishing, journal submission tools are irrelevant to her work or hobbies.",
+      1
+    ],
+    [
+      "A transportation attendant never submits academic papers, making this journal-matching tool completely irrelevant.",
+      1
+    ],
+    [
+      "A retail salesperson has no manuscripts to submit, so journal fit means nothing to him.",
+      1
+    ],
+    [
+      "Barbara reads journals but writes no research papers, so a submission-matching tool doesn't serve her.",
+      1
+    ],
+    [
+      "An accountant pursuing CPA and audit work never submits academic manuscripts.",
+      1
+    ]
+  ]
+}

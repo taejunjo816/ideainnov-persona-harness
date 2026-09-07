@@ -1,0 +1,63 @@
+{
+  "variant_id": "gen01_ko_v5_free_journal_match",
+  "variant": {
+    "id": "gen01_ko_v5_free_journal_match",
+    "headline": "저널 매칭은 무료, 부담 없이",
+    "body": "초록을 붙여넣으면 주제 적합도 기준으로 SCI 저널을 추천하고, 투고 요건을 체크리스트로 정리해 누락을 막아 줍니다.",
+    "cta": "무료로 매칭받기",
+    "angle": "무료-진입부담제거(저널 매칭 무료)",
+    "lang": "ko",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.40648825,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 88.0,
+    "maybe": 12.0
+  },
+  "mean_trust": 2.16,
+  "top_hook_phrases": [
+    [
+      "SCI 저널을 추천",
+      3
+    ],
+    [
+      "무료",
+      2
+    ],
+    [
+      "무료로 매칭받기",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "경리 사무원으로 SCI 저널이나 논문 투고와 전혀 무관해 초록이라는 단어부터 낯설다.",
+      1
+    ],
+    [
+      "온라인 쇼핑 판매와 리빙 소품 브랜드 론칭 목표에 학술 논문 투고는 무관하다.",
+      1
+    ],
+    [
+      "기계공학 시험원 실무자로 자격증엔 관심 있으나 논문 저널 투고는 하지 않는다.",
+      1
+    ],
+    [
+      "미디어 콘텐츠 디자이너에게 SCI 저널 투고 요건은 전혀 필요 없는 영역이다.",
+      1
+    ],
+    [
+      "무역 사무원 실무자로 논문 초록을 붙여넣을 일 자체가 없다.",
+      1
+    ]
+  ]
+}

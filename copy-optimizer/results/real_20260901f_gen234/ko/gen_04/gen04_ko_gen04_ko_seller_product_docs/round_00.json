@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen04_ko_gen04_ko_seller_product_docs",
+  "batch_index": 0,
+  "persona_ids": [
+    "kr_000030",
+    "kr_000031",
+    "kr_000037",
+    "kr_000161",
+    "kr_000163",
+    "kr_000251",
+    "kr_000265",
+    "kr_000289",
+    "kr_000328",
+    "kr_000330",
+    "kr_000339",
+    "kr_000357",
+    "kr_000422",
+    "kr_000475",
+    "kr_000520",
+    "kr_000541",
+    "kr_000551",
+    "kr_000565",
+    "kr_000596",
+    "kr_000666",
+    "kr_000669",
+    "kr_000673",
+    "kr_000675",
+    "kr_000773",
+    "kr_000790"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "kr_000541",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF",
+      "blocker": "회사에서 쓰는 회계 문서는 정해진 양식이라 굳이 변환 도구를 찾을 필요를 못 느낄 수 있다.",
+      "trust": 4,
+      "reasoning": "순천에서 경리 실무를 보는 그에게 HWPX·DOCX·PDF 상호 변환은 서식 다루는 일과 직접 맞닿아 관심을 끈다."
+    },
+    {
+      "persona_id": "kr_000030",
+      "would_click": "yes",
+      "hook_phrase": "상품 서류도 형식 걱정 없이 변환",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "온라인 쇼핑 판매원으로 상품 서류를 다루는 그에게 형식 걱정 없는 변환은 실제 판매 업무의 걸림돌을 정확히 겨냥한다."
+    },
+    {
+      "persona_id": "kr_000773",
+      "would_click": "no",
+      "hook_phrase": "표·그림 그대로",
+      "blocker": "기계공학 시험 현장 실무자라 문서 형식 변환 수요가 크지 않아 관심 밖이다.",
+      "trust": 3,
+      "reasoning": "시험 현장에서 손을 쓰는 그녀에게 서류 변환 서비스는 자격증 준비나 연봉 목표와 무관해 스쳐 지나간다."
+    },
+    {
+      "persona_id": "kr_000565",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림 추출해 재삽입",
+      "blocker": "전문 디자인 툴을 이미 쓰는 그에게 범용 변환기의 그림 추출 품질이 미덥지 않을 수 있다.",
+      "trust": 3,
+      "reasoning": "미디어 콘텐츠 디자이너로 표·그림 보존과 그림 추출 기능은 그의 편집 업무 감각을 자극하지만 전문 도구 대비 신뢰는 유보한다."
+    },
+    {
+      "persona_id": "kr_000551",
+      "would_click": "yes",
+      "hook_phrase": "47개 형식으로 오가도 표·그림 그대로",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "무역 사무원으로 각종 서류를 형식 바꿔 주고받는 그에게 표·그림 보존 변환은 ICT 전공 감각까지 더해져 실용적으로 다가온다."
+    },
+    {
+      "persona_id": "kr_000289",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "간호조무사 업무에 문서 형식 변환이 개입할 일이 거의 없다.",
+      "trust": 3,
+      "reasoning": "안산에서 환자를 돌보는 그녀의 일상에 HWPX 변환은 무관하며 수영·여행 같은 관심사와도 동떨어져 있다."
+    },
+    {
+      "persona_id": "kr_000251",
+      "would_click": "maybe",
+      "hook_phrase": "표·그림 그대로",
+      "blocker": "손해 사정 문서는 회사 시스템을 쓰는 경우가 많아 외부 변환 도구 필요성이 낮을 수 있다.",
+      "trust": 4,
+      "reasoning": "손해사정사로 PDF 보고서와 표를 다루는 그녀에게 형식 보존 변환은 실무 효율 측면에서 눈길이 갈 만하다."
+    },
+    {
+      "persona_id": "kr_000037",
+      "would_click": "maybe",
+      "hook_phrase": "무료 체험 시작",
+      "blocker": "현장 실무 중심 마케터라 문서 형식 변환보다 사람·기획 일이 우선이다.",
+      "trust": 3,
+      "reasoning": "실전파 마케팅 전문가로 제안서 형식 변환에 가끔 부딪히지만 은퇴 후 소소한 활동을 지향해 절실함은 크지 않다."
+    },
+    {
+      "persona_id": "kr_000031",
+      "would_click": "maybe",
+      "hook_phrase": "형식 걱정 없이 변환",
+      "blocker": "학교 보조 업무 문서는 정해진 양식이 많아 변환 도구까지 쓸 필요가 적다.",
+      "trust": 3,
+      "reasoning": "교육 보조원으로 가정통신문 등 서류를 다루지만 사회복지사 자격 취득이라는 목표에 비해 관심은 부차적이다."
+    },
+    {
+      "persona_id": "kr_000673",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림 추출해 재삽입",
+      "blocker": "연구 보고서는 사내 양식에 맞춰 작성해 외부 변환기의 필요를 크게 못 느낄 수 있다.",
+      "trust": 4,
+      "reasoning": "고무·플라스틱 연구원으로 표·그림 든 보고서를 자주 작성해 형식 보존 변환 기능이 실무적으로 와닿는다."
+    },
+    {
+      "persona_id": "kr_000666",
+      "would_click": "maybe",
+      "hook_phrase": "형식 걱정 없이 변환",
+      "blocker": "변화에 불안이 커서 새 도구 도입보다 익숙한 방식 유지를 선호한다.",
+      "trust": 4,
+      "reasoning": "매장 운영 시스템 체계화를 목표하는 마케터로 서류 형식 정리 기능은 관심사지만 새 시스템 도입엔 신중하다."
+    },
+    {
+      "persona_id": "kr_000790",
+      "would_click": "yes",
+      "hook_phrase": "상품 서류도 형식 걱정 없이 변환",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "임대 상품 기획자로 상품 서류를 다루고 완성도 집착이 강한 그에게 형식 걱정 없는 변환은 업무 완결성에 직결된다."
+    },
+    {
+      "persona_id": "kr_000675",
+      "would_click": "maybe",
+      "hook_phrase": "표·그림 그대로",
+      "blocker": "통신사 사내 협업툴로 문서를 처리해 별도 변환 서비스 필요성이 낮을 수 있다.",
+      "trust": 4,
+      "reasoning": "마케팅 전문가로 기획 문서의 표·그림 보존은 유용하지만 조직 내 도구가 이미 갖춰져 절박함은 적다."
+    },
+    {
+      "persona_id": "kr_000520",
+      "would_click": "yes",
+      "hook_phrase": "형식 걱정 없이 변환",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "경영 지원 관리자로 업무 매뉴얼 시스템화를 목표하는 그녀에게 형식 변환 자동화는 곧바로 실무 효율로 연결된다."
+    },
+    {
+      "persona_id": "kr_000339",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "전화 상담 업무에 문서 형식 변환이 끼어들 여지가 거의 없다.",
+      "trust": 3,
+      "reasoning": "고소득 상담원으로 실무 압박을 줄이려는 그녀에게 서류 변환 도구는 관심 밖의 별개 영역이다."
+    },
+    {
+      "persona_id": "kr_000328",
+      "would_click": "maybe",
+      "hook_phrase": "무료 체험 시작",
+      "blocker": "고객 상담 문서는 회사 양식을 쓰므로 개인이 변환기를 찾을 이유가 적다.",
+      "trust": 3,
+      "reasoning": "상담 사무원으로 서류를 접하나 정년까지 안정을 바라는 성향상 새 유료 도구엔 소극적이다."
+    },
+    {
+      "persona_id": "kr_000265",
+      "would_click": "maybe",
+      "hook_phrase": "47개 형식",
+      "blocker": "네트워크 운영 업무라 문서 변환 자체는 핵심 관심사가 아니다.",
+      "trust": 4,
+      "reasoning": "정보통신 대학원 출신 개발자로 47개 형식 변환 기술엔 흥미를 느끼지만 안정적 운영이 우선이라 클릭은 유보적이다."
+    },
+    {
+      "persona_id": "kr_000163",
+      "would_click": "maybe",
+      "hook_phrase": "표·그림 그대로",
+      "blocker": "감정평가서는 정해진 서식과 조합 시스템이 있어 범용 변환기 신뢰가 낮을 수 있다.",
+      "trust": 4,
+      "reasoning": "부동산 감정 전문가로 표 든 감정 보고서를 PDF로 다뤄 형식 보존 변환이 실무적으로 눈에 들어온다."
+    },
+    {
+      "persona_id": "kr_000357",
+      "would_click": "maybe",
+      "hook_phrase": "형식 걱정 없이 변환",
+      "blocker": "기술 영업 중심이라 견적·제안 문서 변환 필요가 간헐적이다.",
+      "trust": 3,
+      "reasoning": "농기계 기술 영업원으로 제안 서류를 가끔 주고받지만 신뢰 관계 구축이 우선이라 변환 도구는 부차적이다."
+    },
+    {
+      "persona_id": "kr_000422",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "음식 서비스 종사자라 문서 형식 변환과 완전히 무관하다.",
+      "trust": 3,
+      "reasoning": "63세 음식점 종사자로 서류 변환 서비스는 그녀의 일상과 은퇴 준비 관심사 어디에도 걸리지 않는다."
+    },
+    {
+      "persona_id": "kr_000669",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "치과위생사 업무에 문서 형식 변환이 개입할 일이 없다.",
+      "trust": 3,
+      "reasoning": "임상 중심 치과위생사로 퇴근 후 일 잔상을 지우려는 그녀에게 서류 변환 도구는 관심 영역 밖이다."
+    },
+    {
+      "persona_id": "kr_000475",
+      "would_click": "yes",
+      "hook_phrase": "형식 걱정 없이 변환",
+      "blocker": "",
+      "trust": 4,
+      "reasoning": "경영 기획 사무원으로 업무 프로세스 자동화와 퇴근 후 여유 확보를 노리는 그에게 형식 변환 자동화는 정확히 맞아떨어진다."
+    },
+    {
+      "persona_id": "kr_000596",
+      "would_click": "maybe",
+      "hook_phrase": "HWPX·DOCX·PDF",
+      "blocker": "초등 교사 업무는 학교 지정 HWP 양식이 많아 개인 유료 변환 도구까지 쓸 이유가 적다.",
+      "trust": 3,
+      "reasoning": "교사로 HWP 문서를 자주 다뤄 변환 기능에 눈이 가지만 22세 신참에게 유료 도구는 아직 절실하지 않다."
+    },
+    {
+      "persona_id": "kr_000161",
+      "would_click": "maybe",
+      "hook_phrase": "PDF 속 그림 추출해 재삽입",
+      "blocker": "토목 도면·보고서는 CAD·전용 양식 중심이라 범용 변환기 신뢰가 제한적일 수 있다.",
+      "trust": 4,
+      "reasoning": "세종의 토목 기술자로 도면·표 든 보고서를 HWPX로 다뤄 형식 보존 변환 기능이 현장 실무에 와닿는다."
+    },
+    {
+      "persona_id": "kr_000330",
+      "would_click": "maybe",
+      "hook_phrase": "무료 체험 시작",
+      "blocker": "유치원 문서는 정형 양식이 많고 느긋한 업무 스타일이라 변환 도구 필요성이 낮다.",
+      "trust": 3,
+      "reasoning": "유치원 교사로 서류를 다루긴 하나 아이들과의 상상·예술 활동에 초점을 둬 변환 서비스는 절박하지 않다."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.4384175,
+    "duration_ms": 96777,
+    "session_id": "76adbcf5-2cd4-49f7-a0ce-26863137bd0e"
+  }
+}

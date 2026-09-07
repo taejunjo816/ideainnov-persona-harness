@@ -1,0 +1,58 @@
+{
+  "generation": 0,
+  "ranking": [
+    {
+      "variant_id": "seed_16_en_부정형_equation_preserve",
+      "score": 37.12,
+      "hook_type": "부정형",
+      "headline": "Don't let your equations become images"
+    },
+    {
+      "variant_id": "seed_05_en_숫자형_format_count",
+      "score": 31.68,
+      "hook_type": "숫자형",
+      "headline": "47 formats, from ₩2,800 a call"
+    },
+    {
+      "variant_id": "seed_13_en_역설_반전_tos_safe",
+      "score": 28.48,
+      "hook_type": "역설·반전",
+      "headline": "Automated - except the last click"
+    },
+    {
+      "variant_id": "seed_11_en_질문형_equation_trust",
+      "score": 25.6,
+      "hook_type": "질문형",
+      "headline": "47 equations - really unbroken?"
+    },
+    {
+      "variant_id": "seed_01_en_정체성호명_researcher",
+      "score": 20.16,
+      "hook_type": "정체성호명",
+      "headline": "Built for grad students and researchers"
+    },
+    {
+      "variant_id": "seed_04_en_숫자형_price",
+      "score": 20.16,
+      "hook_type": "숫자형",
+      "headline": "₩4,100, 47 equations, 3 reviews"
+    },
+    {
+      "variant_id": "seed_10_en_질문형_authority",
+      "score": 19.52,
+      "hook_type": "질문형",
+      "headline": "Rejected 3 times by a virtual reviewer?"
+    },
+    {
+      "variant_id": "seed_07_en_호기심갭_submission_package",
+      "score": 16.96,
+      "hook_type": "호기심갭",
+      "headline": "Your submission package is already built"
+    }
+  ],
+  "elites": [
+    "seed_16_en_부정형_equation_preserve",
+    "seed_05_en_숫자형_format_count",
+    "seed_13_en_역설_반전_tos_safe"
+  ]
+}

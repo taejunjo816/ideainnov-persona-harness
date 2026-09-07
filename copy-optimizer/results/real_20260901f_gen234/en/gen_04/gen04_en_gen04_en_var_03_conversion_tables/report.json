@@ -1,0 +1,66 @@
+{
+  "variant_id": "gen04_en_gen04_en_var_03_conversion_tables",
+  "variant": {
+    "id": "gen04_en_gen04_en_var_03_conversion_tables",
+    "headline": "HWP to Word, nothing to fix",
+    "body": "Equations and table layouts survive conversion, staying editable objects, never flattened into images.",
+    "cta": "Convert free",
+    "angle": "Conversion reframed around tables too, so accountants/operations converting docs see relevance",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.34154099999999993,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "no": 100.0
+  },
+  "mean_trust": 2.4,
+  "top_hook_phrases": [
+    [
+      "table layouts",
+      6
+    ],
+    [
+      "editable objects",
+      2
+    ],
+    [
+      "Convert free",
+      1
+    ],
+    [
+      "Equations",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "She works with US operations documents and has no use for the Korean HWP format.",
+      1
+    ],
+    [
+      "A transportation attendant has no reason to convert HWP documents.",
+      1
+    ],
+    [
+      "He builds PCs but never encounters the Korean HWP format in retail work.",
+      1
+    ],
+    [
+      "A nurse handling patient care never converts HWP documents.",
+      1
+    ],
+    [
+      "As a US accountant she works in Excel and Word, not the Korean HWP format.",
+      1
+    ]
+  ]
+}

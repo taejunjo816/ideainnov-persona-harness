@@ -1,0 +1,72 @@
+{
+  "variant_id": "gen03_en_var_03_rfp_business",
+  "variant": {
+    "id": "gen03_en_var_03_rfp_business",
+    "headline": "One RFP upload, ready to pitch",
+    "body": "One upload becomes 3 Win Themes, KPI rationale, and channel-ready copy with hashtags.",
+    "cta": "Start free",
+    "angle": "Business/RFP angle for operations & finance pros (directly answers accountant/operations non-researcher blockers)",
+    "lang": "en",
+    "hook_type": null,
+    "hook_template": null,
+    "source_evidence": "mutated by claude -p (see mutation_call.json for prompt/inputs)",
+    "evidence": [],
+    "products_program": null
+  },
+  "n_personas": 25,
+  "batch_size": 25,
+  "n_calls": 1,
+  "total_cost_usd": 0.42522275000000004,
+  "dry_run": false,
+  "n": 25,
+  "would_click_pct": {
+    "maybe": 28.0,
+    "no": 68.0,
+    "yes": 4.0
+  },
+  "mean_trust": 2.64,
+  "top_hook_phrases": [
+    [
+      "KPI rationale",
+      5
+    ],
+    [
+      "channel-ready copy",
+      3
+    ],
+    [
+      "ready to pitch",
+      3
+    ],
+    [
+      "RFP upload",
+      1
+    ],
+    [
+      "hashtags",
+      1
+    ]
+  ],
+  "top_blockers": [
+    [
+      "She optimizes internal operations, not sales pitches, so RFP-to-copy automation feels adjacent rather than core to her role.",
+      1
+    ],
+    [
+      "A transportation service attendant never touches RFPs, Win Themes, or pitch copy in her daily work.",
+      1
+    ],
+    [
+      "Floor retail sales and PC building don't involve writing RFP pitches, so the tool solves a problem he doesn't have.",
+      1
+    ],
+    [
+      "A registered nurse near retirement has no use for RFPs or marketing pitch copy.",
+      1
+    ],
+    [
+      "Auditors evaluate numbers rather than draft RFP pitches, so the sales-copy framing feels outside her audit lane.",
+      1
+    ]
+  ]
+}

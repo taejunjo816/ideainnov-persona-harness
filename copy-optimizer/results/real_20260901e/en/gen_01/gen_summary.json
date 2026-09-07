@@ -1,0 +1,58 @@
+{
+  "generation": 1,
+  "ranking": [
+    {
+      "variant_id": "seed_13_en_역설_반전_tos_safe",
+      "score": 35.2,
+      "hook_type": "역설·반전",
+      "headline": "Automated - except the last click"
+    },
+    {
+      "variant_id": "gen01_en_var_02_equation_preserve",
+      "score": 32.32,
+      "hook_type": null,
+      "headline": "Don't let equations become images"
+    },
+    {
+      "variant_id": "seed_16_en_부정형_equation_preserve",
+      "score": 31.04,
+      "hook_type": "부정형",
+      "headline": "Don't let your equations become images"
+    },
+    {
+      "variant_id": "gen01_en_var_03_rfp_proposal_broaden",
+      "score": 30.88,
+      "hook_type": null,
+      "headline": "One RFP upload, 3 Win Themes"
+    },
+    {
+      "variant_id": "seed_05_en_숫자형_format_count",
+      "score": 29.12,
+      "hook_type": "숫자형",
+      "headline": "47 formats, from ₩2,800 a call"
+    },
+    {
+      "variant_id": "gen01_en_var_05_paper_equation_story",
+      "score": 26.88,
+      "hook_type": null,
+      "headline": "One sentence in, a full draft out"
+    },
+    {
+      "variant_id": "gen01_en_var_04_conversion_hwp_anyone",
+      "score": 23.68,
+      "hook_type": null,
+      "headline": "HWP files break most converters"
+    },
+    {
+      "variant_id": "gen01_en_var_01_matching_free_tossafe",
+      "score": 19.84,
+      "hook_type": null,
+      "headline": "Automated - except the last click"
+    }
+  ],
+  "elites": [
+    "seed_13_en_역설_반전_tos_safe",
+    "gen01_en_var_02_equation_preserve",
+    "seed_16_en_부정형_equation_preserve"
+  ]
+}

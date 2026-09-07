@@ -1,0 +1,163 @@
+{
+  "_generated_at": "2026-09-01T13:15:56",
+  "_generated_from": "research/out/youtube_hooks.json",
+  "_lang": "en",
+  "_used_pooled_fallback": false,
+  "_n_language_records": 22,
+  "_apportionment_notes": [
+    "정체성호명: 관측 비중 기준 목표 17개가 보유 문구 풀(3개)을 초과 -> 14개를 차순위 유형으로 재배분",
+    "  -> 숫자형에서 2개 추가로 채움 (재배분 대상)",
+    "  -> 호기심갭에서 3개 추가로 채움 (재배분 대상)",
+    "  -> 질문형에서 3개 추가로 채움 (재배분 대상)",
+    "  -> 역설·반전에서 3개 추가로 채움 (재배분 대상)",
+    "  -> 부정형에서 3개 추가로 채움 (재배분 대상)"
+  ],
+  "_hook_type_targets": {
+    "정체성호명": 17,
+    "숫자형": 1,
+    "호기심갭": 0,
+    "질문형": 0,
+    "역설·반전": 0,
+    "부정형": 0,
+    "시간압박": 0,
+    "결과선공개": 0
+  },
+  "_hook_type_taken": {
+    "정체성호명": 1,
+    "숫자형": 2,
+    "호기심갭": 1,
+    "질문형": 2,
+    "역설·반전": 1,
+    "부정형": 1
+  },
+  "variants": [
+    {
+      "id": "seed_01_en_정체성호명_researcher",
+      "lang": "en",
+      "headline": "Built for grad students and researchers",
+      "body": "A built-in Q1 reviewer checks your work, then returns a draft with editable equations and a reference list.",
+      "cta": "Start free now",
+      "angle": "정체성호명-researcher",
+      "hook_type": "정체성호명",
+      "hook_template": "특정 독자 직접 호명 + 그 독자에게 맞춘 약속",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '정체성호명' 가중 비중 72011.6 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '특정 독자 직접 호명 + 그 독자에게 맞춘 약속' 적용",
+      "evidence": [
+        "programs.paper.differentiators_en[0]",
+        "programs.paper.sends_en[2]"
+      ],
+      "products_program": "paper"
+    },
+    {
+      "id": "seed_04_en_숫자형_price",
+      "lang": "en",
+      "headline": "₩4,100, 47 equations, 3 reviews",
+      "body": "Starting at ₩4,100 per call, a virtual reviewer sends it back 3 times before you get a draft with 47 editable equations.",
+      "cta": "Start free now",
+      "angle": "숫자형-price",
+      "hook_type": "숫자형",
+      "hook_template": "숫자 + 단위 + 결과/효과",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '숫자형' 가중 비중 4606.8 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '숫자 + 단위 + 결과/효과' 적용",
+      "evidence": [
+        "programs.paper.price_ko (KRW figure carried over; no EN price field)",
+        "programs.paper.hooks_en.thread[0]"
+      ],
+      "products_program": "paper"
+    },
+    {
+      "id": "seed_05_en_숫자형_format_count",
+      "lang": "en",
+      "headline": "47 formats, from ₩2,800 a call",
+      "body": "Convert across 47 formats - HWPX, DOCX, PDF and more - starting at ₩2,800 per call.",
+      "cta": "Start free trial",
+      "angle": "숫자형-format_count",
+      "hook_type": "숫자형",
+      "hook_template": "숫자 + 단위 + 결과/효과",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '숫자형' 가중 비중 4606.8 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '숫자 + 단위 + 결과/효과' 적용",
+      "evidence": [
+        "programs.hwp.features[0] (translated from KO; no EN field)",
+        "programs.hwp.price_ko (KRW figure carried over; no EN price field)"
+      ],
+      "products_program": "hwp"
+    },
+    {
+      "id": "seed_07_en_호기심갭_submission_package",
+      "lang": "en",
+      "headline": "Your submission package is already built",
+      "body": "Author details and suggested reviewers come packaged for the portal - what's inside is worth opening.",
+      "cta": "Start free matching",
+      "angle": "호기심갭-submission_package",
+      "hook_type": "호기심갭",
+      "hook_template": "결과를 암시만 하고 이유는 감추는 열린 문장",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '호기심갭' 가중 비중 18.2 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '결과를 암시만 하고 이유는 감추는 열린 문장' 적용",
+      "evidence": [
+        "programs.sci.hooks_ko.thread[2] (translated from KO; no EN field)"
+      ],
+      "products_program": "sci"
+    },
+    {
+      "id": "seed_10_en_질문형_authority",
+      "lang": "en",
+      "headline": "Rejected 3 times by a virtual reviewer?",
+      "body": "A built-in Q1 reviewer checks math, experiments, statistics, and the document, then sends it back until it holds up.",
+      "cta": "Start free now",
+      "angle": "질문형-authority",
+      "hook_type": "질문형",
+      "hook_template": "정체성/상황 호명 + 물음표로 끝나는 질문",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '질문형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '정체성/상황 호명 + 물음표로 끝나는 질문' 적용",
+      "evidence": [
+        "programs.paper.hooks_en.short[1]",
+        "programs.paper.hooks_en.thread[0]"
+      ],
+      "products_program": "paper"
+    },
+    {
+      "id": "seed_11_en_질문형_equation_trust",
+      "lang": "en",
+      "headline": "47 equations - really unbroken?",
+      "body": "One sentence in, and back comes a draft with 47 editable equations. Open it and check for yourself.",
+      "cta": "Start free now",
+      "angle": "질문형-equation_trust",
+      "hook_type": "질문형",
+      "hook_template": "정체성/상황 호명 + 물음표로 끝나는 질문",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '질문형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '정체성/상황 호명 + 물음표로 끝나는 질문' 적용",
+      "evidence": [
+        "programs.paper.hooks_en.thread[0]"
+      ],
+      "products_program": "paper"
+    },
+    {
+      "id": "seed_13_en_역설_반전_tos_safe",
+      "lang": "en",
+      "headline": "Automated - except the last click",
+      "body": "Everything up to submission runs on its own; you press Submit yourself. A ToS-safe design, on purpose.",
+      "cta": "Start free matching",
+      "angle": "역설·반전-tos_safe",
+      "hook_type": "역설·반전",
+      "hook_template": "통념 제시 + '그런데/사실은' 반전 + 실제 사실",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '역설·반전' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '통념 제시 + '그런데/사실은' 반전 + 실제 사실' 적용",
+      "evidence": [
+        "programs.sci.differentiators_en[1]"
+      ],
+      "products_program": "sci"
+    },
+    {
+      "id": "seed_16_en_부정형_equation_preserve",
+      "lang": "en",
+      "headline": "Don't let your equations become images",
+      "body": "Equations stay editable objects after conversion, never flattened into images - nothing to fix afterward.",
+      "cta": "Start free now",
+      "angle": "부정형-equation_preserve",
+      "hook_type": "부정형",
+      "hook_template": "부정 명령('~하지 마세요') + 이유",
+      "source_evidence": "youtube_hooks.json[en]: 훅유형 '부정형' 가중 비중 0.0 views/day (share_pct_by_views 기준 apportion) -> 구조 템플릿 '부정 명령('~하지 마세요') + 이유' 적용",
+      "evidence": [
+        "programs.hwp.differentiators_en[1]",
+        "programs.hwp.differentiators_en[0]"
+      ],
+      "products_program": "hwp"
+    }
+  ],
+  "_reduced_to": 8,
+  "_reduction_rule": "100만뷰 분석 조회수가중 훅분포 반영: 숫자형2+질문형2+정체성호명1+호기심갭1+역설반전1+부정형1",
+  "_hook_type_taken_note": "실제 variants 배열에서 계산한 값(2026-09-01 정정). 이전 값은 18개 시드 시절의 잔재였다."
+}

@@ -1,0 +1,238 @@
+{
+  "variant_id": "gen04_en_gen04_en_var_02_proposal_scaling",
+  "batch_index": 0,
+  "persona_ids": [
+    "us_000013",
+    "us_000028",
+    "us_000037",
+    "us_000143",
+    "us_000145",
+    "us_000174",
+    "us_000230",
+    "us_000269",
+    "us_000299",
+    "us_000329",
+    "us_000350",
+    "us_000373",
+    "us_000418",
+    "us_000463",
+    "us_000500",
+    "us_000545",
+    "us_000588",
+    "us_000601",
+    "us_000633",
+    "us_000702",
+    "us_000716",
+    "us_000720",
+    "us_000722",
+    "us_000786",
+    "us_000789"
+  ],
+  "verdicts": [
+    {
+      "persona_id": "us_000545",
+      "would_click": "maybe",
+      "hook_phrase": "many deliverables",
+      "blocker": "Patent planning and IR pitch decks fall outside her operations-consulting focus, making the offer feel tangential.",
+      "trust": 3,
+      "reasoning": "As an operations specialist eyeing boutique consulting, the deliverable-scaling promise catches her efficiency mindset, but patents and IR feel unrelated to her arts-humanities operations niche."
+    },
+    {
+      "persona_id": "us_000028",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Patents, specs, and IR decks have nothing to do with her transportation attendant work or community goals.",
+      "trust": 2,
+      "reasoning": "A transportation service attendant focused on senior access outreach has no use for patent planning or investor pitch decks."
+    },
+    {
+      "persona_id": "us_000143",
+      "would_click": "maybe",
+      "hook_phrase": "IR pitch deck",
+      "blocker": "He is focused on retail management now, not raising capital, so the IR angle feels premature.",
+      "trust": 3,
+      "reasoning": "This STEM-trained tinker dreaming of a tech-retail boutique could be intrigued by patent planning and IR decks, though his near-term goal is store management."
+    },
+    {
+      "persona_id": "us_000299",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Nothing here relates to nursing, palliative care, or her part-time caregiving aspirations.",
+      "trust": 2,
+      "reasoning": "A registered nurse pursuing palliative-care certification has no reason to engage with patent and investor-deck tooling."
+    },
+    {
+      "persona_id": "us_000588",
+      "would_click": "maybe",
+      "hook_phrase": "economic and legal analysis",
+      "blocker": "The patent/IR framing skews toward startup founders rather than her audit and ESG-reporting track.",
+      "trust": 3,
+      "reasoning": "An accountant planning her own compliance consultancy notices the economic and legal analysis, but patents and pitch decks sit outside her audit expertise."
+    },
+    {
+      "persona_id": "us_000722",
+      "would_click": "no",
+      "hook_phrase": "many deliverables",
+      "blocker": "A grocery-café boutique needs no patents or IR decks, and he is still finishing his degree.",
+      "trust": 3,
+      "reasoning": "This young retail salesperson eyeing a Mexican grocery-café has little need for patent planning or investor pitch documents."
+    },
+    {
+      "persona_id": "us_000716",
+      "would_click": "no",
+      "hook_phrase": "economic and legal analysis",
+      "blocker": "His boutique accounting-practice plans center on tax and audit, not patents or IR decks.",
+      "trust": 3,
+      "reasoning": "An accountant pursuing CPA and forensic accounting sees relevant analysis language but patent and pitch-deck deliverables miss his advisory niche."
+    },
+    {
+      "persona_id": "us_000037",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Patent and IR deliverables are irrelevant to her nursing and community-health ambitions.",
+      "trust": 2,
+      "reasoning": "A nurse focused on gerontological care and art-therapy programs has no connection to proposal-to-patent business tooling."
+    },
+    {
+      "persona_id": "us_000786",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "HR leadership and wellness programs have no overlap with patents, specs, or investor decks.",
+      "trust": 2,
+      "reasoning": "An HR worker chasing a People Operations directorship finds no relevance in patent planning or IR pitch deck deliverables."
+    },
+    {
+      "persona_id": "us_000145",
+      "would_click": "maybe",
+      "hook_phrase": "economic and legal analysis",
+      "blocker": "The patent and IR emphasis feels startup-oriented rather than fitting his lean-consulting and sustainability guidebook plans.",
+      "trust": 3,
+      "reasoning": "A manager planning a lean-methodology consulting practice appreciates backed analysis, but patents and pitch decks stretch beyond his agricultural-supply-chain focus."
+    },
+    {
+      "persona_id": "us_000269",
+      "would_click": "maybe",
+      "hook_phrase": "IR pitch deck",
+      "blocker": "He leads IT operations inside an org, not a fundraising startup needing patents and investor decks.",
+      "trust": 3,
+      "reasoning": "An ambitious IT manager eyeing CTO roles and digital transformation may glance at IR and specs, though patent planning is peripheral to his job."
+    },
+    {
+      "persona_id": "us_000230",
+      "would_click": "maybe",
+      "hook_phrase": "patent planning",
+      "blocker": "He is still a food-service supervisor without a product or funding round to justify these deliverables.",
+      "trust": 3,
+      "reasoning": "This STEM-grad kitchen technologist dreaming of smart-kitchen gadgets and his own eatery could see patent planning as relevant, but it is far off."
+    },
+    {
+      "persona_id": "us_000633",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Home health aide work and CNA plans have zero connection to patents or investor pitch decks.",
+      "trust": 2,
+      "reasoning": "A home health aide pursuing care-coordination has no use for a proposal tool producing patents and IR decks."
+    },
+    {
+      "persona_id": "us_000373",
+      "would_click": "no",
+      "hook_phrase": "many deliverables",
+      "blocker": "A boutique salon and YouTube academy need no patent planning or IR pitch decks.",
+      "trust": 2,
+      "reasoning": "A young hairstylist planning a culturally themed salon and online academy finds patents and investor decks entirely irrelevant to her craft."
+    },
+    {
+      "persona_id": "us_000500",
+      "would_click": "maybe",
+      "hook_phrase": "IR pitch deck",
+      "blocker": "He advises clients rather than raising capital, so IR decks and patents feel more for founders than for him.",
+      "trust": 3,
+      "reasoning": "A finance specialist building a fintech-flavored advisory practice recognizes IR decks and economic analysis, though patent planning sits outside wealth management."
+    },
+    {
+      "persona_id": "us_000789",
+      "would_click": "maybe",
+      "hook_phrase": "One proposal",
+      "blocker": "A future freight brokerage needs no patents or IR decks, and specs feel unrelated to logistics.",
+      "trust": 3,
+      "reasoning": "This logistics-minded material mover dreaming of his own brokerage might glance, but patents and investor decks miss his supply-chain path."
+    },
+    {
+      "persona_id": "us_000720",
+      "would_click": "no",
+      "hook_phrase": "specs",
+      "blocker": "As an employed software engineer, she has no proposal, patent, or fundraising need right now.",
+      "trust": 3,
+      "reasoning": "A young software engineer focused on team leadership and AWS certification has no immediate use for patent planning or IR pitch decks."
+    },
+    {
+      "persona_id": "us_000329",
+      "would_click": "yes",
+      "hook_phrase": "backed by economic and legal analysis",
+      "blocker": "",
+      "trust": 3,
+      "reasoning": "A chief executive planning revenue doubling, an internal incubator, and renewable-energy expansion is exactly the founder who needs patents, IR decks, and legal analysis."
+    },
+    {
+      "persona_id": "us_000702",
+      "would_click": "maybe",
+      "hook_phrase": "specs",
+      "blocker": "He seeks engineering management inside a firm, not to draft patents or raise investment himself.",
+      "trust": 3,
+      "reasoning": "An engineer chasing a PE license and additive-manufacturing projects notices specs and patents, but IR decks feel outside his management ambitions."
+    },
+    {
+      "persona_id": "us_000601",
+      "would_click": "no",
+      "hook_phrase": "many deliverables",
+      "blocker": "An eco-friendly detailing shop requires no patents, specs, or investor pitch decks.",
+      "trust": 2,
+      "reasoning": "A vehicle-cleaning artist planning a boutique detailing business finds patent planning and IR decks disconnected from her hands-on trade."
+    },
+    {
+      "persona_id": "us_000350",
+      "would_click": "no",
+      "hook_phrase": "One proposal",
+      "blocker": "A cleaning consultancy needs no patents or IR decks, so the deliverables miss his facilities focus.",
+      "trust": 2,
+      "reasoning": "A janitor aiming for facilities management and a green-cleaning consultancy sees little relevance in patent planning or investor pitch decks."
+    },
+    {
+      "persona_id": "us_000418",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Aircraft maintenance and an A&P license have no link to patents or investor pitch decks.",
+      "trust": 2,
+      "reasoning": "A young aircraft mechanic focused on his A&P license and a local service shop has no use for proposal-to-patent tooling."
+    },
+    {
+      "persona_id": "us_000174",
+      "would_click": "no",
+      "hook_phrase": "",
+      "blocker": "Clinical SLP work and a boutique clinic need no patents, specs, or IR decks.",
+      "trust": 2,
+      "reasoning": "A speech-language pathologist pursuing a clinical doctorate and telehealth expansion finds no relevance in patent and investor-deck deliverables."
+    },
+    {
+      "persona_id": "us_000013",
+      "would_click": "no",
+      "hook_phrase": "many deliverables",
+      "blocker": "Selling handcrafted woodworking online needs no patents or investor pitch decks.",
+      "trust": 2,
+      "reasoning": "A near-retirement stocker planning a small woodworking side venture has no need for patent planning or an IR pitch deck."
+    },
+    {
+      "persona_id": "us_000463",
+      "would_click": "maybe",
+      "hook_phrase": "economic and legal analysis",
+      "blocker": "Her CFP advisory practice serves retirees, not startups needing patents and IR decks.",
+      "trust": 3,
+      "reasoning": "A finance manager eyeing a CFP advisory practice appreciates economic and legal analysis, but patents and investor decks fall outside her quiet advisory focus."
+    }
+  ],
+  "call_meta": {
+    "cost_usd": 0.37125625000000007,
+    "duration_ms": 69371,
+    "session_id": "1dc8c31c-a266-4ed9-9dad-d8517767c1ce"
+  }
+}

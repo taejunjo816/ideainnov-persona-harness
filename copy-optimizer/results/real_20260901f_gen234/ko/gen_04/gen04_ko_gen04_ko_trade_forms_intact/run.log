@@ -1,0 +1,3 @@
+[variant gen04_ko_gen04_ko_trade_forms_intact] lang=ko 25 personas -> 1 call(s) of up to 25 (dry_run=False)
+  batch 0: 25 verdicts, cost=$0.4325, wall=94.9s -> round_00.json
+[variant gen04_ko_gen04_ko_trade_forms_intact] done. n=25 would_click_pct={'maybe': 52.0, 'no': 36.0, 'yes': 12.0} mean_trust=3.56 total_cost_usd=0.4325
