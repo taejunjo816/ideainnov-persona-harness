@@ -1,3 +1,5 @@
+"Built for Meta Global AI Developer Hackathon 2026 - Self-Evolving Paper-to-Patent Agent using Muse Spark & SAM 3.1"
+
 한국어 | [English](README.en.md)
 
 IDEAINNOV.COM 합성 페르소나 하네스
